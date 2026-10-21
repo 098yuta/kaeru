@@ -1,0 +1,6645 @@
+{
+ "meta": {
+  "asOf": "2026-10-21",
+  "fees": {
+   "merShip": 0,
+   "rakShip": 0,
+   "snkRate": 0.07,
+   "snkShip": 990,
+   "yahShip": 1000
+  },
+  "fx": 158,
+  "fxAt": "2026-10-18",
+  "fxSource": "Wise",
+  "siteAt": {
+   "mer": "2026-10-18",
+   "rak": "2026-10-18",
+   "snk": "2026-10-21",
+   "yah": "2026-10-18"
+  }
+ },
+ "sneakers": [
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "1183C102-751",
+   "order": 130,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "1183C102-751",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "1183C102-751"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "1201A530-100",
+   "order": 166,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "1201A530-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "1201A530-100"
+  },
+  {
+   "cat": "その他",
+   "color": "Puma Black / Puma White",
+   "img": "images/398846-01.png",
+   "memo": "StockXのお気に入りから",
+   "mer": {
+    "s245": {
+     "bid": false,
+     "p": 7900,
+     "url": "https://jp.mercari.com/shops/product/2JRoyifwgmAz6LB74a6QZ9"
+    }
+   },
+   "name": "Puma Speedcat OG",
+   "order": 46,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 7900,
+    "s25": 15863,
+    "s255": 13505,
+    "s26": 12973,
+    "s265": 14000,
+    "s27": 13727,
+    "s275": 14747,
+    "s28": 13809,
+    "s285": 14091,
+    "s29": 14899
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "398846-01",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 12199,
+     "url": "https://snkrdunk.com/products/398846-01"
+    },
+    "s25": {
+     "bid": false,
+     "p": 13600,
+     "url": "https://snkrdunk.com/products/398846-01"
+    },
+    "s255": {
+     "bid": false,
+     "p": 11697,
+     "url": "https://snkrdunk.com/products/398846-01"
+    },
+    "s26": {
+     "bid": false,
+     "p": 11199,
+     "url": "https://snkrdunk.com/products/398846-01"
+    },
+    "s265": {
+     "bid": false,
+     "p": 15272,
+     "url": "https://snkrdunk.com/products/398846-01"
+    },
+    "s27": {
+     "bid": false,
+     "p": 11895,
+     "url": "https://snkrdunk.com/products/398846-01"
+    },
+    "s275": {
+     "bid": false,
+     "p": 12857,
+     "url": "https://snkrdunk.com/products/398846-01"
+    },
+    "s28": {
+     "bid": false,
+     "p": 11980,
+     "url": "https://snkrdunk.com/products/398846-01"
+    },
+    "s285": {
+     "bid": false,
+     "p": 12244,
+     "url": "https://snkrdunk.com/products/398846-01"
+    },
+    "s29": {
+     "bid": false,
+     "p": 12999,
+     "url": "https://snkrdunk.com/products/398846-01"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s265": {
+     "bid": false,
+     "p": 13000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/v1233062325"
+    }
+   },
+   "id": "398846-01"
+  },
+  {
+   "cat": "その他",
+   "color": "For All Time Red / Puma White",
+   "img": "images/398846-02.png",
+   "memo": "StockXのお気に入りから",
+   "mer": {
+    "s245": {
+     "bid": false,
+     "p": 12000,
+     "url": "https://jp.mercari.com/item/m97801399812"
+    }
+   },
+   "name": "Puma Speedcat OG",
+   "order": 47,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 12000,
+    "s25": 15529,
+    "s255": 14172,
+    "s26": 15114,
+    "s265": 13268,
+    "s27": 14659,
+    "s275": 15407,
+    "s28": 13401,
+    "s285": 14137,
+    "s29": 16821
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "398846-02",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 13400,
+     "url": "https://snkrdunk.com/products/398846-02"
+    },
+    "s25": {
+     "bid": false,
+     "p": 13580,
+     "url": "https://snkrdunk.com/products/398846-02"
+    },
+    "s255": {
+     "bid": false,
+     "p": 12310,
+     "url": "https://snkrdunk.com/products/398846-02"
+    },
+    "s26": {
+     "bid": false,
+     "p": 13300,
+     "url": "https://snkrdunk.com/products/398846-02"
+    },
+    "s265": {
+     "bid": false,
+     "p": 11475,
+     "url": "https://snkrdunk.com/products/398846-02"
+    },
+    "s27": {
+     "bid": false,
+     "p": 12775,
+     "url": "https://snkrdunk.com/products/398846-02"
+    },
+    "s275": {
+     "bid": false,
+     "p": 13470,
+     "url": "https://snkrdunk.com/products/398846-02"
+    },
+    "s28": {
+     "bid": false,
+     "p": 11599,
+     "url": "https://snkrdunk.com/products/398846-02"
+    },
+    "s285": {
+     "bid": false,
+     "p": 12287,
+     "url": "https://snkrdunk.com/products/398846-02"
+    },
+    "s29": {
+     "bid": false,
+     "p": 14695,
+     "url": "https://snkrdunk.com/products/398846-02"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "398846-02"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "White / Gym Red / Black",
+   "img": "images/553558-163.png",
+   "memo": "",
+   "mer": {},
+   "name": "Air Jordan 1 Low",
+   "order": 5,
+   "prev": {
+    "at": "2026-10-18",
+    "s25": 23413,
+    "s255": 21320,
+    "s26": 34931,
+    "s265": 21102,
+    "s27": 16933,
+    "s275": 19180,
+    "s28": 12760,
+    "s285": 13723,
+    "s29": 16933
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "553558-163",
+   "snk": {
+    "s25": {
+     "bid": false,
+     "p": 20956,
+     "url": "https://snkrdunk.com/products/553558-163"
+    },
+    "s255": {
+     "bid": false,
+     "p": 19000,
+     "url": "https://snkrdunk.com/products/553558-163"
+    },
+    "s26": {
+     "bid": false,
+     "p": 31717,
+     "url": "https://snkrdunk.com/products/553558-163"
+    },
+    "s265": {
+     "bid": false,
+     "p": 18796,
+     "url": "https://snkrdunk.com/products/553558-163"
+    },
+    "s27": {
+     "bid": false,
+     "p": 14500,
+     "url": "https://snkrdunk.com/products/553558-163"
+    },
+    "s275": {
+     "bid": false,
+     "p": 17000,
+     "url": "https://snkrdunk.com/products/553558-163"
+    },
+    "s28": {
+     "bid": false,
+     "p": 11900,
+     "url": "https://snkrdunk.com/products/553558-163"
+    },
+    "s285": {
+     "bid": false,
+     "p": 11900,
+     "url": "https://snkrdunk.com/products/553558-163"
+    },
+    "s29": {
+     "bid": false,
+     "p": 14900,
+     "url": "https://snkrdunk.com/products/553558-163"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "553558-163"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Black/Blue",
+   "memo": "",
+   "mer": {},
+   "name": "Nike Air Jordan 1 Mid",
+   "order": 108,
+   "prev": {
+    "at": "2026-10-21"
+   },
+   "rak": {},
+   "retailJpy": 14040,
+   "sku": "554724-068",
+   "snk": {
+    "s25": {
+     "bid": false,
+     "p": 18800,
+     "url": "https://snkrdunk.com/products/554724-068"
+    },
+    "s255": {
+     "bid": false,
+     "p": 31927,
+     "url": "https://snkrdunk.com/products/554724-068"
+    },
+    "s26": {
+     "bid": false,
+     "p": 16000,
+     "url": "https://snkrdunk.com/products/554724-068"
+    },
+    "s265": {
+     "bid": false,
+     "p": 18500,
+     "url": "https://snkrdunk.com/products/554724-068"
+    },
+    "s27": {
+     "bid": false,
+     "p": 10000,
+     "url": "https://snkrdunk.com/products/554724-068"
+    },
+    "s275": {
+     "bid": false,
+     "p": 18000,
+     "url": "https://snkrdunk.com/products/554724-068"
+    },
+    "s28": {
+     "bid": false,
+     "p": 16500,
+     "url": "https://snkrdunk.com/products/554724-068"
+    },
+    "s285": {
+     "bid": false,
+     "p": 24000,
+     "url": "https://snkrdunk.com/products/554724-068"
+    },
+    "s29": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://snkrdunk.com/products/554724-068"
+    }
+   },
+   "src": "snk-fav",
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "554724-068"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "554724-069",
+   "order": 216,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "554724-069",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "554724-069"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "554724-074",
+   "order": 205,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "554724-074",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "554724-074"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Hyper Royal",
+   "img": "images/554724-077.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 47910,
+     "url": "https://jp.mercari.com/shops/product/DGQARfKSYmY9UJcjRcvTJF"
+    }
+   },
+   "name": "Air Jordan 1 Mid",
+   "order": 23,
+   "prev": {
+    "at": "2026-10-18",
+    "s25": 32009,
+    "s255": 36056,
+    "s26": 19715,
+    "s265": 14900,
+    "s27": 13595,
+    "s275": 19000,
+    "s28": 14365,
+    "s285": 15970,
+    "s29": 14879
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "554724-077",
+   "snk": {
+    "s25": {
+     "bid": false,
+     "p": 28990,
+     "url": "https://snkrdunk.com/products/554724-077"
+    },
+    "s255": {
+     "bid": false,
+     "p": 32772,
+     "url": "https://snkrdunk.com/products/554724-077"
+    },
+    "s26": {
+     "bid": false,
+     "p": 17500,
+     "url": "https://snkrdunk.com/products/554724-077"
+    },
+    "s265": {
+     "bid": false,
+     "p": 12000,
+     "url": "https://snkrdunk.com/products/554724-077"
+    },
+    "s27": {
+     "bid": false,
+     "p": 11780,
+     "url": "https://snkrdunk.com/products/554724-077"
+    },
+    "s275": {
+     "bid": false,
+     "p": 17999,
+     "url": "https://snkrdunk.com/products/554724-077"
+    },
+    "s28": {
+     "bid": false,
+     "p": 12500,
+     "url": "https://snkrdunk.com/products/554724-077"
+    },
+    "s285": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://snkrdunk.com/products/554724-077"
+    },
+    "s29": {
+     "bid": false,
+     "p": 12980,
+     "url": "https://snkrdunk.com/products/554724-077"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 18000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/c1095963991"
+    }
+   },
+   "id": "554724-077"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "555088-001",
+   "order": 116,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "555088-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "555088-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "555088-007",
+   "order": 128,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "555088-007",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "555088-007"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "555088-013",
+   "order": 113,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "555088-013",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "555088-013"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "555088-035",
+   "order": 161,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "555088-035",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "555088-035"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "555088-036",
+   "order": 154,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "555088-036",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "555088-036"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Patent Bred",
+   "img": "images/555088-063.png",
+   "memo": "",
+   "mer": {
+    "s255": {
+     "bid": false,
+     "p": 16500,
+     "url": "https://jp.mercari.com/shops/product/2JWDWCu9fdzzmjC44zHvJo"
+    }
+   },
+   "name": "Air Jordan 1 High OG",
+   "order": 15,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 63585,
+    "s25": 29773,
+    "s255": 16500,
+    "s26": 17040,
+    "s265": 17019,
+    "s27": 17896,
+    "s275": 17575,
+    "s28": 20464,
+    "s285": 21855,
+    "s29": 24530
+   },
+   "rak": {},
+   "retailJpy": 19250,
+   "sku": "555088-063",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 58500,
+     "url": "https://snkrdunk.com/products/555088-063"
+    },
+    "s25": {
+     "bid": false,
+     "p": 26900,
+     "url": "https://snkrdunk.com/products/555088-063"
+    },
+    "s255": {
+     "bid": false,
+     "p": 22700,
+     "url": "https://snkrdunk.com/products/555088-063"
+    },
+    "s26": {
+     "bid": false,
+     "p": 17300,
+     "url": "https://snkrdunk.com/products/555088-063"
+    },
+    "s265": {
+     "bid": false,
+     "p": 15000,
+     "url": "https://snkrdunk.com/products/555088-063"
+    },
+    "s27": {
+     "bid": false,
+     "p": 15800,
+     "url": "https://snkrdunk.com/products/555088-063"
+    },
+    "s275": {
+     "bid": false,
+     "p": 15300,
+     "url": "https://snkrdunk.com/products/555088-063"
+    },
+    "s28": {
+     "bid": false,
+     "p": 18200,
+     "url": "https://snkrdunk.com/products/555088-063"
+    },
+    "s285": {
+     "bid": false,
+     "p": 19500,
+     "url": "https://snkrdunk.com/products/555088-063"
+    },
+    "s29": {
+     "bid": false,
+     "p": 22000,
+     "url": "https://snkrdunk.com/products/555088-063"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "555088-063"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "555088-101",
+   "order": 109,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "555088-101",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "555088-101"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "555088-105",
+   "order": 203,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "555088-105",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "555088-105"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "555088-201",
+   "order": 217,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "555088-201",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "555088-201"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "555088-610",
+   "order": 115,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "555088-610",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "555088-610"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "611187-0003",
+   "order": 158,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "611187-0003",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "611187-0003"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "909096-400",
+   "order": 150,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "909096-400",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "909096-400"
+  },
+  {
+   "cat": "その他",
+   "color": "Black",
+   "img": "images/A08FW735-BLACK.png",
+   "memo": "",
+   "mer": {},
+   "name": "Maison MIHARA YASUHIRO BLAKEY OG Sole Canvas Low",
+   "order": 36,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 37263,
+    "s25": 39296,
+    "s255": 39510,
+    "s265": 42720,
+    "s275": 42503,
+    "s28": 43469,
+    "s285": 44539
+   },
+   "rak": {},
+   "retailJpy": 40700,
+   "sku": "A08FW735-BLACK",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 33900,
+     "url": "https://snkrdunk.com/products/A08FW735-BLACK"
+    },
+    "s25": {
+     "bid": false,
+     "p": 35800,
+     "url": "https://snkrdunk.com/products/A08FW735-BLACK"
+    },
+    "s255": {
+     "bid": false,
+     "p": 35700,
+     "url": "https://snkrdunk.com/products/A08FW735-BLACK"
+    },
+    "s265": {
+     "bid": false,
+     "p": 39000,
+     "url": "https://snkrdunk.com/products/A08FW735-BLACK"
+    },
+    "s275": {
+     "bid": false,
+     "p": 38900,
+     "url": "https://snkrdunk.com/products/A08FW735-BLACK"
+    },
+    "s28": {
+     "bid": false,
+     "p": 39700,
+     "url": "https://snkrdunk.com/products/A08FW735-BLACK"
+    },
+    "s285": {
+     "bid": false,
+     "p": 40700,
+     "url": "https://snkrdunk.com/products/A08FW735-BLACK"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "A08FW735-BLACK"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "AA3834-100",
+   "order": 141,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "AA3834-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "AA3834-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "AA3834-101",
+   "order": 120,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "AA3834-101",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "AA3834-101"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "AJ5997-880",
+   "order": 206,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "AJ5997-880",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "AJ5997-880"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "AJ6247-100",
+   "order": 168,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "AJ6247-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "AJ6247-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "AO1525-600",
+   "order": 186,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "AO1525-600",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "AO1525-600"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "AO1530-800",
+   "order": 207,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "AO1530-800",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "AO1530-800"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "AQ0818-148",
+   "order": 121,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "AQ0818-148",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "AQ0818-148"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "AT4151-100",
+   "order": 208,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "AT4151-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "AT4151-100"
+  },
+  {
+   "cat": "その他",
+   "color": "Core Black / Gum",
+   "img": "images/B75807.png",
+   "memo": "",
+   "mer": {
+    "s25": {
+     "bid": false,
+     "p": 11600,
+     "url": "https://jp.mercari.com/item/m41358356445"
+    }
+   },
+   "name": "adidas Samba OG",
+   "order": 38,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 14307,
+    "s25": 11600,
+    "s255": 15603,
+    "s26": 16380,
+    "s265": 16679,
+    "s27": 17029,
+    "s275": 15181,
+    "s28": 15100,
+    "s285": 13723,
+    "s29": 18002
+   },
+   "rak": {},
+   "retailJpy": 15950,
+   "sku": "B75807",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 12309,
+     "url": "https://snkrdunk.com/products/B75807"
+    },
+    "s25": {
+     "bid": false,
+     "p": 13899,
+     "url": "https://snkrdunk.com/products/B75807"
+    },
+    "s255": {
+     "bid": false,
+     "p": 13657,
+     "url": "https://snkrdunk.com/products/B75807"
+    },
+    "s26": {
+     "bid": false,
+     "p": 13999,
+     "url": "https://snkrdunk.com/products/B75807"
+    },
+    "s265": {
+     "bid": false,
+     "p": 13999,
+     "url": "https://snkrdunk.com/products/B75807"
+    },
+    "s27": {
+     "bid": false,
+     "p": 14976,
+     "url": "https://snkrdunk.com/products/B75807"
+    },
+    "s275": {
+     "bid": false,
+     "p": 13229,
+     "url": "https://snkrdunk.com/products/B75807"
+    },
+    "s28": {
+     "bid": false,
+     "p": 13493,
+     "url": "https://snkrdunk.com/products/B75807"
+    },
+    "s285": {
+     "bid": false,
+     "p": 11899,
+     "url": "https://snkrdunk.com/products/B75807"
+    },
+    "s29": {
+     "bid": false,
+     "p": 13999,
+     "url": "https://snkrdunk.com/products/B75807"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s26": {
+     "bid": false,
+     "p": 15380,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/b1237283651"
+    },
+    "s28": {
+     "bid": false,
+     "p": 14100,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/x1247625767"
+    }
+   },
+   "id": "B75807"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "BAPE-SKULL-STA-WHITE",
+   "order": 155,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "BAPE-SKULL-STA-WHITE",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "BAPE-SKULL-STA-WHITE"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "BQ4422-400",
+   "order": 165,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "BQ4422-400",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "BQ4422-400"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "BV1300-106",
+   "order": 118,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "BV1300-106",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "BV1300-106"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "BV1300-146",
+   "order": 122,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "BV1300-146",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "BV1300-146"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "BY1604",
+   "order": 153,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "BY1604",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "BY1604"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Satin Red（Satin Snake Chicago）",
+   "img": "images/CD0461-601.png",
+   "memo": "購入履歴にあり（US10W）",
+   "mer": {},
+   "name": "Air Jordan 1 High OG（ウィメンズ）",
+   "order": 27,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 25385,
+    "s25": 29452,
+    "s255": 27526,
+    "s26": 21320,
+    "s265": 42505,
+    "s27": 24410,
+    "s275": 20143,
+    "s28": 21852,
+    "s285": 20239,
+    "s29": 22282
+   },
+   "rak": {},
+   "retailJpy": 19250,
+   "sku": "CD0461-601",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 22500,
+     "url": "https://snkrdunk.com/products/CD0461-601"
+    },
+    "s25": {
+     "bid": false,
+     "p": 26600,
+     "url": "https://snkrdunk.com/products/CD0461-601"
+    },
+    "s255": {
+     "bid": false,
+     "p": 24800,
+     "url": "https://snkrdunk.com/products/CD0461-601"
+    },
+    "s26": {
+     "bid": false,
+     "p": 19000,
+     "url": "https://snkrdunk.com/products/CD0461-601"
+    },
+    "s265": {
+     "bid": false,
+     "p": 38799,
+     "url": "https://snkrdunk.com/products/CD0461-601"
+    },
+    "s27": {
+     "bid": false,
+     "p": 21888,
+     "url": "https://snkrdunk.com/products/CD0461-601"
+    },
+    "s275": {
+     "bid": false,
+     "p": 17900,
+     "url": "https://snkrdunk.com/products/CD0461-601"
+    },
+    "s28": {
+     "bid": false,
+     "p": 19497,
+     "url": "https://snkrdunk.com/products/CD0461-601"
+    },
+    "s285": {
+     "bid": false,
+     "p": 17990,
+     "url": "https://snkrdunk.com/products/CD0461-601"
+    },
+    "s29": {
+     "bid": false,
+     "p": 19899,
+     "url": "https://snkrdunk.com/products/CD0461-601"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "CD0461-601"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CD4487-100",
+   "order": 125,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CD4487-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CD4487-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CJ5291-001",
+   "order": 178,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CJ5291-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CJ5291-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CJ5291-100",
+   "order": 176,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CJ5291-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CJ5291-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CK6637-002",
+   "order": 215,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CK6637-002",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CK6637-002"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CM996FMG-TOTE",
+   "order": 191,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CM996FMG-TOTE",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CM996FMG-TOTE"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CM996FMS-TOTE",
+   "order": 192,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CM996FMS-TOTE",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CM996FMS-TOTE"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CQ4277-001",
+   "order": 126,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CQ4277-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CQ4277-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CT0978-600",
+   "order": 204,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CT0978-600",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CT0978-600"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CT0979-001",
+   "order": 199,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CT0979-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CT0979-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CT0979-100",
+   "order": 190,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CT0979-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CT0979-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CT0979-107",
+   "order": 156,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CT0979-107",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CT0979-107"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CT0979-602",
+   "order": 184,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CT0979-602",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CT0979-602"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CT1689-001",
+   "order": 193,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CT1689-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CT1689-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CT4594-400",
+   "order": 171,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CT4594-400",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CT4594-400"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Carmine (2021)",
+   "img": "images/CT8529-106.png",
+   "memo": "",
+   "mer": {
+    "s255": {
+     "bid": false,
+     "p": 22000,
+     "url": "https://jp.mercari.com/shops/product/2JWmCCV7bvhcqir6WBZcHf"
+    },
+    "s275": {
+     "bid": false,
+     "p": 23800,
+     "url": "https://jp.mercari.com/shops/product/2JRYGa4dvyzUprowSJxsUi"
+    }
+   },
+   "name": "Air Jordan 6",
+   "order": 22,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 44798,
+    "s25": 29880,
+    "s255": 22000,
+    "s26": 23246,
+    "s265": 23770,
+    "s27": 21319,
+    "s275": 23800,
+    "s28": 26456,
+    "s285": 27740,
+    "s29": 30950
+   },
+   "rak": {},
+   "retailJpy": 24200,
+   "sku": "CT8529-106",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 40940,
+     "url": "https://snkrdunk.com/products/CT8529-106"
+    },
+    "s25": {
+     "bid": false,
+     "p": 27000,
+     "url": "https://snkrdunk.com/products/CT8529-106"
+    },
+    "s255": {
+     "bid": false,
+     "p": 24500,
+     "url": "https://snkrdunk.com/products/CT8529-106"
+    },
+    "s26": {
+     "bid": false,
+     "p": 20800,
+     "url": "https://snkrdunk.com/products/CT8529-106"
+    },
+    "s265": {
+     "bid": false,
+     "p": 21290,
+     "url": "https://snkrdunk.com/products/CT8529-106"
+    },
+    "s27": {
+     "bid": false,
+     "p": 18500,
+     "url": "https://snkrdunk.com/products/CT8529-106"
+    },
+    "s275": {
+     "bid": false,
+     "p": 21800,
+     "url": "https://snkrdunk.com/products/CT8529-106"
+    },
+    "s28": {
+     "bid": false,
+     "p": 23800,
+     "url": "https://snkrdunk.com/products/CT8529-106"
+    },
+    "s285": {
+     "bid": false,
+     "p": 25000,
+     "url": "https://snkrdunk.com/products/CT8529-106"
+    },
+    "s29": {
+     "bid": false,
+     "p": 28000,
+     "url": "https://snkrdunk.com/products/CT8529-106"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "CT8529-106"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "UNC",
+   "img": "images/CT8529-410.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 22500,
+     "url": "https://jp.mercari.com/item/m90394762450"
+    },
+    "s285": {
+     "bid": false,
+     "p": 17000,
+     "url": "https://jp.mercari.com/item/m84345686532"
+    }
+   },
+   "name": "Air Jordan 6",
+   "order": 12,
+   "prev": {
+    "at": "2026-10-18",
+    "s25": 21319,
+    "s255": 20224,
+    "s26": 21213,
+    "s265": 20999,
+    "s27": 19276,
+    "s275": 19715,
+    "s28": 19715,
+    "s285": 17000,
+    "s29": 24316
+   },
+   "rak": {},
+   "retailJpy": 25300,
+   "sku": "CT8529-410",
+   "snk": {
+    "s25": {
+     "bid": false,
+     "p": 18999,
+     "url": "https://snkrdunk.com/products/CT8529-410"
+    },
+    "s255": {
+     "bid": false,
+     "p": 17976,
+     "url": "https://snkrdunk.com/products/CT8529-410"
+    },
+    "s26": {
+     "bid": false,
+     "p": 18900,
+     "url": "https://snkrdunk.com/products/CT8529-410"
+    },
+    "s265": {
+     "bid": false,
+     "p": 18700,
+     "url": "https://snkrdunk.com/products/CT8529-410"
+    },
+    "s27": {
+     "bid": false,
+     "p": 17090,
+     "url": "https://snkrdunk.com/products/CT8529-410"
+    },
+    "s275": {
+     "bid": false,
+     "p": 17500,
+     "url": "https://snkrdunk.com/products/CT8529-410"
+    },
+    "s28": {
+     "bid": false,
+     "p": 17500,
+     "url": "https://snkrdunk.com/products/CT8529-410"
+    },
+    "s285": {
+     "bid": false,
+     "p": 19500,
+     "url": "https://snkrdunk.com/products/CT8529-410"
+    },
+    "s29": {
+     "bid": false,
+     "p": 21800,
+     "url": "https://snkrdunk.com/products/CT8529-410"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 34800,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/b1051618759"
+    },
+    "s28": {
+     "bid": false,
+     "p": 29800,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/p1040872250"
+    }
+   },
+   "id": "CT8529-410"
+  },
+  {
+   "cat": "ダンク",
+   "color": "Brazil",
+   "img": "images/CU1727-700.png",
+   "memo": "",
+   "mer": {},
+   "name": "Nike Dunk Low SP",
+   "order": 28,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 43790,
+    "s25": 30415,
+    "s255": 37844,
+    "s26": 14900,
+    "s265": 21855,
+    "s27": 20207,
+    "s275": 22163,
+    "s28": 15600,
+    "s285": 19180,
+    "s29": 24530
+   },
+   "rak": {},
+   "retailJpy": 19200,
+   "sku": "CU1727-700",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 40000,
+     "url": "https://snkrdunk.com/products/CU1727-700"
+    },
+    "s25": {
+     "bid": false,
+     "p": 27500,
+     "url": "https://snkrdunk.com/products/CU1727-700"
+    },
+    "s255": {
+     "bid": false,
+     "p": 34443,
+     "url": "https://snkrdunk.com/products/CU1727-700"
+    },
+    "s26": {
+     "bid": false,
+     "p": 13000,
+     "url": "https://snkrdunk.com/products/CU1727-700"
+    },
+    "s265": {
+     "bid": false,
+     "p": 19500,
+     "url": "https://snkrdunk.com/products/CU1727-700"
+    },
+    "s27": {
+     "bid": false,
+     "p": 17960,
+     "url": "https://snkrdunk.com/products/CU1727-700"
+    },
+    "s275": {
+     "bid": false,
+     "p": 19788,
+     "url": "https://snkrdunk.com/products/CU1727-700"
+    },
+    "s28": {
+     "bid": false,
+     "p": 18500,
+     "url": "https://snkrdunk.com/products/CU1727-700"
+    },
+    "s285": {
+     "bid": false,
+     "p": 17000,
+     "url": "https://snkrdunk.com/products/CU1727-700"
+    },
+    "s29": {
+     "bid": false,
+     "p": 19800,
+     "url": "https://snkrdunk.com/products/CU1727-700"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s28": {
+     "bid": false,
+     "p": 14600,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/l1112115210"
+    }
+   },
+   "id": "CU1727-700"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CU3244-100",
+   "order": 214,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CU3244-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CU3244-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CU6015-700",
+   "order": 197,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CU6015-700",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CU6015-700"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CU7544-300",
+   "order": 160,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CU7544-300",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CU7544-300"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CU9080-002",
+   "order": 167,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CU9080-002",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CU9080-002"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CU9225-001",
+   "order": 148,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CU9225-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CU9225-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CU9225-100",
+   "order": 149,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CU9225-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CU9225-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CV5276-107",
+   "order": 210,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CV5276-107",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CV5276-107"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CW4039-300",
+   "order": 213,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CW4039-300",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CW4039-300"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CW4039-800",
+   "order": 212,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CW4039-800",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CW4039-800"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Black Cement",
+   "img": "images/CZ0790-001.png",
+   "memo": "",
+   "mer": {},
+   "name": "Air Jordan 1 Retro Low OG",
+   "order": 33,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 52081,
+    "s25": 25493,
+    "s255": 22390,
+    "s26": 18110,
+    "s265": 17575,
+    "s27": 15863,
+    "s275": 17575,
+    "s28": 16494,
+    "s285": 15969,
+    "s29": 18538
+   },
+   "rak": {},
+   "retailJpy": 17600,
+   "sku": "CZ0790-001",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 47749,
+     "url": "https://snkrdunk.com/products/CZ0790-001"
+    },
+    "s25": {
+     "bid": false,
+     "p": 22900,
+     "url": "https://snkrdunk.com/products/CZ0790-001"
+    },
+    "s255": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://snkrdunk.com/products/CZ0790-001"
+    },
+    "s26": {
+     "bid": false,
+     "p": 16000,
+     "url": "https://snkrdunk.com/products/CZ0790-001"
+    },
+    "s265": {
+     "bid": false,
+     "p": 16500,
+     "url": "https://snkrdunk.com/products/CZ0790-001"
+    },
+    "s27": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://snkrdunk.com/products/CZ0790-001"
+    },
+    "s275": {
+     "bid": false,
+     "p": 15900,
+     "url": "https://snkrdunk.com/products/CZ0790-001"
+    },
+    "s28": {
+     "bid": false,
+     "p": 14980,
+     "url": "https://snkrdunk.com/products/CZ0790-001"
+    },
+    "s285": {
+     "bid": false,
+     "p": 14800,
+     "url": "https://snkrdunk.com/products/CZ0790-001"
+    },
+    "s29": {
+     "bid": false,
+     "p": 16400,
+     "url": "https://snkrdunk.com/products/CZ0790-001"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "CZ0790-001"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Shadow",
+   "img": "images/CZ0790-003.png",
+   "memo": "",
+   "mer": {
+    "s285": {
+     "bid": false,
+     "p": 13500,
+     "url": "https://jp.mercari.com/item/m23465297612"
+    }
+   },
+   "name": "Air Jordan 1 Retro Low OG",
+   "order": 30,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 59963,
+    "s25": 26670,
+    "s255": 22925,
+    "s26": 22283,
+    "s265": 20143,
+    "s27": 17575,
+    "s275": 15969,
+    "s28": 14665,
+    "s285": 13500,
+    "s29": 17896
+   },
+   "rak": {},
+   "retailJpy": 20900,
+   "sku": "CZ0790-003",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 35000,
+     "url": "https://snkrdunk.com/products/CZ0790-003"
+    },
+    "s25": {
+     "bid": false,
+     "p": 24000,
+     "url": "https://snkrdunk.com/products/CZ0790-003"
+    },
+    "s255": {
+     "bid": false,
+     "p": 20500,
+     "url": "https://snkrdunk.com/products/CZ0790-003"
+    },
+    "s26": {
+     "bid": false,
+     "p": 19900,
+     "url": "https://snkrdunk.com/products/CZ0790-003"
+    },
+    "s265": {
+     "bid": false,
+     "p": 17900,
+     "url": "https://snkrdunk.com/products/CZ0790-003"
+    },
+    "s27": {
+     "bid": false,
+     "p": 15499,
+     "url": "https://snkrdunk.com/products/CZ0790-003"
+    },
+    "s275": {
+     "bid": false,
+     "p": 13498,
+     "url": "https://snkrdunk.com/products/CZ0790-003"
+    },
+    "s28": {
+     "bid": false,
+     "p": 12800,
+     "url": "https://snkrdunk.com/products/CZ0790-003"
+    },
+    "s285": {
+     "bid": false,
+     "p": 13000,
+     "url": "https://snkrdunk.com/products/CZ0790-003"
+    },
+    "s29": {
+     "bid": false,
+     "p": 15800,
+     "url": "https://snkrdunk.com/products/CZ0790-003"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 17000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/f1181554205"
+    }
+   },
+   "id": "CZ0790-003"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Game Royal",
+   "img": "images/CZ0790-140.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 15700,
+     "url": "https://jp.mercari.com/shops/product/2JRYXJfeFbtVVwRNky5xqk"
+    }
+   },
+   "name": "Air Jordan 1 Retro Low OG",
+   "order": 32,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 45201,
+    "s25": 22390,
+    "s255": 20250,
+    "s26": 19180,
+    "s265": 17040,
+    "s27": 17040,
+    "s275": 14200,
+    "s28": 12545,
+    "s285": 13828,
+    "s29": 15756
+   },
+   "rak": {
+    "s28": {
+     "bid": false,
+     "p": 12800,
+     "url": "https://item.fril.jp/8b5268df188d4aba2c7f2e880b8495a1"
+    }
+   },
+   "retailJpy": 20900,
+   "sku": "CZ0790-140",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 41315,
+     "url": "https://snkrdunk.com/products/CZ0790-140"
+    },
+    "s25": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://snkrdunk.com/products/CZ0790-140"
+    },
+    "s255": {
+     "bid": false,
+     "p": 18000,
+     "url": "https://snkrdunk.com/products/CZ0790-140"
+    },
+    "s26": {
+     "bid": false,
+     "p": 17000,
+     "url": "https://snkrdunk.com/products/CZ0790-140"
+    },
+    "s265": {
+     "bid": false,
+     "p": 17800,
+     "url": "https://snkrdunk.com/products/CZ0790-140"
+    },
+    "s27": {
+     "bid": false,
+     "p": 15000,
+     "url": "https://snkrdunk.com/products/CZ0790-140"
+    },
+    "s275": {
+     "bid": false,
+     "p": 12400,
+     "url": "https://snkrdunk.com/products/CZ0790-140"
+    },
+    "s28": {
+     "bid": false,
+     "p": 10799,
+     "url": "https://snkrdunk.com/products/CZ0790-140"
+    },
+    "s285": {
+     "bid": false,
+     "p": 11998,
+     "url": "https://snkrdunk.com/products/CZ0790-140"
+    },
+    "s29": {
+     "bid": false,
+     "p": 13800,
+     "url": "https://snkrdunk.com/products/CZ0790-140"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 13200,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/v1241340383"
+    },
+    "s28": {
+     "bid": false,
+     "p": 12800,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/m1247942999"
+    }
+   },
+   "id": "CZ0790-140"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CZ1360-401",
+   "order": 198,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CZ1360-401",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CZ1360-401"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "What The",
+   "img": "images/CZ5725-700.png",
+   "memo": "",
+   "mer": {
+    "s28": {
+     "bid": false,
+     "p": 30500,
+     "url": "https://jp.mercari.com/item/m40053731127"
+    }
+   },
+   "name": "Air Jordan 5",
+   "order": 26,
+   "prev": {
+    "at": "2026-10-18",
+    "s25": 64307,
+    "s255": 26670,
+    "s26": 26670,
+    "s265": 26349,
+    "s27": 26670,
+    "s275": 35230,
+    "s28": 25600,
+    "s285": 66209,
+    "s29": 53206
+   },
+   "rak": {},
+   "retailJpy": 25300,
+   "sku": "CZ5725-700",
+   "snk": {
+    "s25": {
+     "bid": false,
+     "p": 59175,
+     "url": "https://snkrdunk.com/products/CZ5725-700"
+    },
+    "s255": {
+     "bid": false,
+     "p": 24000,
+     "url": "https://snkrdunk.com/products/CZ5725-700"
+    },
+    "s26": {
+     "bid": false,
+     "p": 24000,
+     "url": "https://snkrdunk.com/products/CZ5725-700"
+    },
+    "s265": {
+     "bid": false,
+     "p": 23700,
+     "url": "https://snkrdunk.com/products/CZ5725-700"
+    },
+    "s27": {
+     "bid": false,
+     "p": 24000,
+     "url": "https://snkrdunk.com/products/CZ5725-700"
+    },
+    "s275": {
+     "bid": false,
+     "p": 32000,
+     "url": "https://snkrdunk.com/products/CZ5725-700"
+    },
+    "s28": {
+     "bid": false,
+     "p": 25000,
+     "url": "https://snkrdunk.com/products/CZ5725-700"
+    },
+    "s285": {
+     "bid": false,
+     "p": 60952,
+     "url": "https://snkrdunk.com/products/CZ5725-700"
+    },
+    "s29": {
+     "bid": false,
+     "p": 48800,
+     "url": "https://snkrdunk.com/products/CZ5725-700"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "CZ5725-700"
+  },
+  {
+   "cat": "ダンク",
+   "color": "Black / Varsity Maize",
+   "img": "images/CZ8149-002.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://jp.mercari.com/shops/product/RxzF4c2uMkPUpGvtakTYe9"
+    }
+   },
+   "name": "Nike Dunk High",
+   "order": 24,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 36407,
+    "s25": 21267,
+    "s255": 13809,
+    "s26": 16504,
+    "s265": 13295,
+    "s27": 11155,
+    "s275": 11000,
+    "s28": 12600,
+    "s285": 15863,
+    "s29": 13616
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "CZ8149-002",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 33100,
+     "url": "https://snkrdunk.com/products/CZ8149-002"
+    },
+    "s25": {
+     "bid": false,
+     "p": 18950,
+     "url": "https://snkrdunk.com/products/CZ8149-002"
+    },
+    "s255": {
+     "bid": false,
+     "p": 11980,
+     "url": "https://snkrdunk.com/products/CZ8149-002"
+    },
+    "s26": {
+     "bid": false,
+     "p": 14499,
+     "url": "https://snkrdunk.com/products/CZ8149-002"
+    },
+    "s265": {
+     "bid": false,
+     "p": 11500,
+     "url": "https://snkrdunk.com/products/CZ8149-002"
+    },
+    "s27": {
+     "bid": false,
+     "p": 9500,
+     "url": "https://snkrdunk.com/products/CZ8149-002"
+    },
+    "s275": {
+     "bid": false,
+     "p": 9999,
+     "url": "https://snkrdunk.com/products/CZ8149-002"
+    },
+    "s28": {
+     "bid": false,
+     "p": 10850,
+     "url": "https://snkrdunk.com/products/CZ8149-002"
+    },
+    "s285": {
+     "bid": false,
+     "p": 13900,
+     "url": "https://snkrdunk.com/products/CZ8149-002"
+    },
+    "s29": {
+     "bid": false,
+     "p": 11800,
+     "url": "https://snkrdunk.com/products/CZ8149-002"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "CZ8149-002"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CZ8149-700",
+   "order": 209,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CZ8149-700",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CZ8149-700"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CZ9084-001",
+   "order": 194,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CZ9084-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CZ9084-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "CZ9084-200",
+   "order": 195,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "CZ9084-200",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "CZ9084-200"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DA9089-100",
+   "order": 182,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DA9089-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DA9089-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DC5239-001",
+   "order": 189,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DC5239-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DC5239-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DC5239-100",
+   "order": 188,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DC5239-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DC5239-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DC5239-300",
+   "order": 187,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DC5239-300",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DC5239-300"
+  },
+  {
+   "cat": "ダンク",
+   "color": "Duck (Turdunken)",
+   "img": "images/DC6887-200.png",
+   "memo": "",
+   "mer": {},
+   "name": "Concepts × Nike SB Dunk High",
+   "order": 25,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 18110,
+    "s25": 15542,
+    "s255": 15970,
+    "s26": 13605,
+    "s265": 16291,
+    "s27": 14686,
+    "s275": 15970,
+    "s28": 19180,
+    "s285": 62596,
+    "s29": 31485
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "DC6887-200",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 16000,
+     "url": "https://snkrdunk.com/products/DC6887-200"
+    },
+    "s25": {
+     "bid": false,
+     "p": 13600,
+     "url": "https://snkrdunk.com/products/DC6887-200"
+    },
+    "s255": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://snkrdunk.com/products/DC6887-200"
+    },
+    "s26": {
+     "bid": false,
+     "p": 11790,
+     "url": "https://snkrdunk.com/products/DC6887-200"
+    },
+    "s265": {
+     "bid": false,
+     "p": 14300,
+     "url": "https://snkrdunk.com/products/DC6887-200"
+    },
+    "s27": {
+     "bid": false,
+     "p": 12800,
+     "url": "https://snkrdunk.com/products/DC6887-200"
+    },
+    "s275": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://snkrdunk.com/products/DC6887-200"
+    },
+    "s28": {
+     "bid": false,
+     "p": 17000,
+     "url": "https://snkrdunk.com/products/DC6887-200"
+    },
+    "s285": {
+     "bid": false,
+     "p": 57576,
+     "url": "https://snkrdunk.com/products/DC6887-200"
+    },
+    "s29": {
+     "bid": false,
+     "p": 28500,
+     "url": "https://snkrdunk.com/products/DC6887-200"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 19000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/c1090504428"
+    }
+   },
+   "id": "DC6887-200"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Desert Oak",
+   "memo": "",
+   "mer": {},
+   "name": "Stussy × Nike Air Huarache",
+   "order": 107,
+   "prev": {
+    "at": "2026-10-21"
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "DD1381-200",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 12000,
+     "url": "https://snkrdunk.com/products/DD1381-200"
+    },
+    "s25": {
+     "bid": false,
+     "p": 19799,
+     "url": "https://snkrdunk.com/products/DD1381-200"
+    },
+    "s255": {
+     "bid": false,
+     "p": 26128,
+     "url": "https://snkrdunk.com/products/DD1381-200"
+    },
+    "s26": {
+     "bid": false,
+     "p": 10000,
+     "url": "https://snkrdunk.com/products/DD1381-200"
+    },
+    "s265": {
+     "bid": false,
+     "p": 14500,
+     "url": "https://snkrdunk.com/products/DD1381-200"
+    },
+    "s27": {
+     "bid": false,
+     "p": 14900,
+     "url": "https://snkrdunk.com/products/DD1381-200"
+    },
+    "s275": {
+     "bid": false,
+     "p": 16900,
+     "url": "https://snkrdunk.com/products/DD1381-200"
+    },
+    "s28": {
+     "bid": false,
+     "p": 17500,
+     "url": "https://snkrdunk.com/products/DD1381-200"
+    },
+    "s285": {
+     "bid": false,
+     "p": 17000,
+     "url": "https://snkrdunk.com/products/DD1381-200"
+    },
+    "s29": {
+     "bid": false,
+     "p": 17800,
+     "url": "https://snkrdunk.com/products/DD1381-200"
+    }
+   },
+   "src": "snk-fav",
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "DD1381-200"
+  },
+  {
+   "cat": "ダンク",
+   "color": "Championship Goldenrod",
+   "img": "images/DD1391-004.png",
+   "memo": "",
+   "mer": {
+    "s28": {
+     "bid": false,
+     "p": 9999,
+     "url": "https://jp.mercari.com/item/m41602514141"
+    }
+   },
+   "name": "Nike Dunk Low",
+   "order": 17,
+   "prev": {
+    "at": "2026-10-18",
+    "s25": 17040,
+    "s255": 20011,
+    "s26": 12118,
+    "s265": 10620,
+    "s27": 9550,
+    "s275": 12760,
+    "s28": 9999,
+    "s285": 9550,
+    "s29": 11262
+   },
+   "rak": {},
+   "retailJpy": 12100,
+   "sku": "DD1391-004",
+   "snk": {
+    "s25": {
+     "bid": false,
+     "p": 15000,
+     "url": "https://snkrdunk.com/products/DD1391-004"
+    },
+    "s255": {
+     "bid": false,
+     "p": 17777,
+     "url": "https://snkrdunk.com/products/DD1391-004"
+    },
+    "s26": {
+     "bid": false,
+     "p": 10400,
+     "url": "https://snkrdunk.com/products/DD1391-004"
+    },
+    "s265": {
+     "bid": false,
+     "p": 9000,
+     "url": "https://snkrdunk.com/products/DD1391-004"
+    },
+    "s27": {
+     "bid": false,
+     "p": 8000,
+     "url": "https://snkrdunk.com/products/DD1391-004"
+    },
+    "s275": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://snkrdunk.com/products/DD1391-004"
+    },
+    "s28": {
+     "bid": false,
+     "p": 8449,
+     "url": "https://snkrdunk.com/products/DD1391-004"
+    },
+    "s285": {
+     "bid": false,
+     "p": 8000,
+     "url": "https://snkrdunk.com/products/DD1391-004"
+    },
+    "s29": {
+     "bid": false,
+     "p": 9600,
+     "url": "https://snkrdunk.com/products/DD1391-004"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s28": {
+     "bid": false,
+     "p": 9500,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/w1146463093"
+    }
+   },
+   "id": "DD1391-004"
+  },
+  {
+   "cat": "ダンク",
+   "color": "All-Star (2021)",
+   "img": "images/DD1398-300.png",
+   "memo": "",
+   "mer": {},
+   "name": "Nike Dunk High",
+   "order": 21,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 39700,
+    "s25": 29267,
+    "s255": 20143,
+    "s26": 18003,
+    "s265": 13295,
+    "s27": 12118,
+    "s275": 12760,
+    "s28": 13295,
+    "s285": 11690,
+    "s29": 13402
+   },
+   "rak": {},
+   "retailJpy": 13200,
+   "sku": "DD1398-300",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 36178,
+     "url": "https://snkrdunk.com/products/DD1398-300"
+    },
+    "s25": {
+     "bid": false,
+     "p": 26427,
+     "url": "https://snkrdunk.com/products/DD1398-300"
+    },
+    "s255": {
+     "bid": false,
+     "p": 17900,
+     "url": "https://snkrdunk.com/products/DD1398-300"
+    },
+    "s26": {
+     "bid": false,
+     "p": 15900,
+     "url": "https://snkrdunk.com/products/DD1398-300"
+    },
+    "s265": {
+     "bid": false,
+     "p": 11500,
+     "url": "https://snkrdunk.com/products/DD1398-300"
+    },
+    "s27": {
+     "bid": false,
+     "p": 10400,
+     "url": "https://snkrdunk.com/products/DD1398-300"
+    },
+    "s275": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://snkrdunk.com/products/DD1398-300"
+    },
+    "s28": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://snkrdunk.com/products/DD1398-300"
+    },
+    "s285": {
+     "bid": false,
+     "p": 10000,
+     "url": "https://snkrdunk.com/products/DD1398-300"
+    },
+    "s29": {
+     "bid": false,
+     "p": 11600,
+     "url": "https://snkrdunk.com/products/DD1398-300"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "DD1398-300"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Magma Orange",
+   "img": "images/DD1877-100.png",
+   "memo": "",
+   "mer": {},
+   "name": "sacai × Nike Blazer Low",
+   "order": 14,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 26667,
+    "s25": 15970,
+    "s255": 14900,
+    "s26": 13830,
+    "s265": 17040,
+    "s27": 11155,
+    "s275": 9550,
+    "s28": 10620,
+    "s285": 10406,
+    "s29": 15756
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "DD1877-100",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 23997,
+     "url": "https://snkrdunk.com/products/DD1877-100"
+    },
+    "s25": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://snkrdunk.com/products/DD1877-100"
+    },
+    "s255": {
+     "bid": false,
+     "p": 13000,
+     "url": "https://snkrdunk.com/products/DD1877-100"
+    },
+    "s26": {
+     "bid": false,
+     "p": 12000,
+     "url": "https://snkrdunk.com/products/DD1877-100"
+    },
+    "s265": {
+     "bid": false,
+     "p": 15000,
+     "url": "https://snkrdunk.com/products/DD1877-100"
+    },
+    "s27": {
+     "bid": false,
+     "p": 9500,
+     "url": "https://snkrdunk.com/products/DD1877-100"
+    },
+    "s275": {
+     "bid": false,
+     "p": 8000,
+     "url": "https://snkrdunk.com/products/DD1877-100"
+    },
+    "s28": {
+     "bid": false,
+     "p": 9000,
+     "url": "https://snkrdunk.com/products/DD1877-100"
+    },
+    "s285": {
+     "bid": false,
+     "p": 8800,
+     "url": "https://snkrdunk.com/products/DD1877-100"
+    },
+    "s29": {
+     "bid": false,
+     "p": 13800,
+     "url": "https://snkrdunk.com/products/DD1877-100"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 12800,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/q1223252150"
+    }
+   },
+   "id": "DD1877-100"
+  },
+  {
+   "cat": "コラボ",
+   "color": "British Tan",
+   "img": "images/DD1877-200.png",
+   "memo": "",
+   "mer": {
+    "s265": {
+     "bid": false,
+     "p": 5200,
+     "url": "https://jp.mercari.com/item/m95402136059"
+    },
+    "s28": {
+     "bid": false,
+     "p": 8000,
+     "url": "https://jp.mercari.com/shops/product/2JX3R6LDtKzSQzcz6yWNfv"
+    }
+   },
+   "name": "sacai × Nike Blazer Low",
+   "order": 13,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 18105,
+    "s25": 13295,
+    "s255": 10620,
+    "s26": 11689,
+    "s265": 5200,
+    "s27": 9550,
+    "s275": 11689,
+    "s28": 8000,
+    "s285": 13830,
+    "s29": 9550
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "DD1877-200",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 15995,
+     "url": "https://snkrdunk.com/products/DD1877-200"
+    },
+    "s25": {
+     "bid": false,
+     "p": 11500,
+     "url": "https://snkrdunk.com/products/DD1877-200"
+    },
+    "s255": {
+     "bid": false,
+     "p": 9000,
+     "url": "https://snkrdunk.com/products/DD1877-200"
+    },
+    "s26": {
+     "bid": false,
+     "p": 9999,
+     "url": "https://snkrdunk.com/products/DD1877-200"
+    },
+    "s265": {
+     "bid": false,
+     "p": 9899,
+     "url": "https://snkrdunk.com/products/DD1877-200"
+    },
+    "s27": {
+     "bid": false,
+     "p": 8000,
+     "url": "https://snkrdunk.com/products/DD1877-200"
+    },
+    "s275": {
+     "bid": false,
+     "p": 9999,
+     "url": "https://snkrdunk.com/products/DD1877-200"
+    },
+    "s28": {
+     "bid": false,
+     "p": 9000,
+     "url": "https://snkrdunk.com/products/DD1877-200"
+    },
+    "s285": {
+     "bid": false,
+     "p": 12000,
+     "url": "https://snkrdunk.com/products/DD1877-200"
+    },
+    "s29": {
+     "bid": false,
+     "p": 8000,
+     "url": "https://snkrdunk.com/products/DD1877-200"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "DD1877-200"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DD3223-100",
+   "order": 133,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DD3223-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DD3223-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DD9315-001",
+   "order": 169,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DD9315-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DD9315-001"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "UNC",
+   "memo": "",
+   "mer": {},
+   "name": "Nike Air Jordan 1 Low Golf",
+   "order": 104,
+   "prev": {
+    "at": "2026-10-21"
+   },
+   "rak": {},
+   "retailJpy": 20020,
+   "sku": "DD9315-100",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 14500,
+     "url": "https://snkrdunk.com/products/DD9315-100"
+    },
+    "s25": {
+     "bid": false,
+     "p": 19497,
+     "url": "https://snkrdunk.com/products/DD9315-100"
+    },
+    "s255": {
+     "bid": false,
+     "p": 20999,
+     "url": "https://snkrdunk.com/products/DD9315-100"
+    },
+    "s26": {
+     "bid": false,
+     "p": 23000,
+     "url": "https://snkrdunk.com/products/DD9315-100"
+    },
+    "s265": {
+     "bid": false,
+     "p": 19600,
+     "url": "https://snkrdunk.com/products/DD9315-100"
+    },
+    "s27": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://snkrdunk.com/products/DD9315-100"
+    },
+    "s275": {
+     "bid": false,
+     "p": 21000,
+     "url": "https://snkrdunk.com/products/DD9315-100"
+    },
+    "s28": {
+     "bid": false,
+     "p": 20700,
+     "url": "https://snkrdunk.com/products/DD9315-100"
+    },
+    "s285": {
+     "bid": false,
+     "p": 22590,
+     "url": "https://snkrdunk.com/products/DD9315-100"
+    },
+    "s29": {
+     "bid": false,
+     "p": 24000,
+     "url": "https://snkrdunk.com/products/DD9315-100"
+    }
+   },
+   "src": "snk-fav",
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "DD9315-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DD9315-600",
+   "order": 157,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DD9315-600",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DD9315-600"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DD9519-001",
+   "order": 201,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DD9519-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DD9519-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DD9941-100",
+   "order": 177,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DD9941-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DD9941-100"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Orange Blaze",
+   "img": "images/DH1347-100.png",
+   "memo": "",
+   "mer": {
+    "s28": {
+     "bid": false,
+     "p": 18000,
+     "url": "https://jp.mercari.com/item/m11139846471"
+    }
+   },
+   "name": "CLOT × sacai × Nike LD Waffle",
+   "order": 16,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 66153,
+    "s255": 42720,
+    "s26": 28596,
+    "s265": 23460,
+    "s27": 20571,
+    "s275": 18966,
+    "s28": 18000,
+    "s285": 21106,
+    "s29": 23460
+   },
+   "rak": {},
+   "retailJpy": 20900,
+   "sku": "DH1347-100",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 60900,
+     "url": "https://snkrdunk.com/products/DH1347-100"
+    },
+    "s25": {
+     "bid": false,
+     "p": 100400,
+     "url": "https://snkrdunk.com/products/DH1347-100"
+    },
+    "s255": {
+     "bid": false,
+     "p": 39000,
+     "url": "https://snkrdunk.com/products/DH1347-100"
+    },
+    "s26": {
+     "bid": false,
+     "p": 25800,
+     "url": "https://snkrdunk.com/products/DH1347-100"
+    },
+    "s265": {
+     "bid": false,
+     "p": 20999,
+     "url": "https://snkrdunk.com/products/DH1347-100"
+    },
+    "s27": {
+     "bid": false,
+     "p": 18300,
+     "url": "https://snkrdunk.com/products/DH1347-100"
+    },
+    "s275": {
+     "bid": false,
+     "p": 16800,
+     "url": "https://snkrdunk.com/products/DH1347-100"
+    },
+    "s28": {
+     "bid": false,
+     "p": 17950,
+     "url": "https://snkrdunk.com/products/DH1347-100"
+    },
+    "s285": {
+     "bid": false,
+     "p": 18800,
+     "url": "https://snkrdunk.com/products/DH1347-100"
+    },
+    "s29": {
+     "bid": false,
+     "p": 21000,
+     "url": "https://snkrdunk.com/products/DH1347-100"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s28": {
+     "bid": false,
+     "p": 24200,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/1248707076"
+    }
+   },
+   "id": "DH1347-100"
+  },
+  {
+   "cat": "コラボ",
+   "color": "White / G-DRAGON",
+   "img": "images/DH2482-100.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 14300,
+     "url": "https://jp.mercari.com/shops/product/ZdcwEx84GA5uStVnHvdsgn"
+    },
+    "s28": {
+     "bid": false,
+     "p": 19800,
+     "url": "https://jp.mercari.com/shops/product/2JUBMBCHSPhQqzDQfVJgTV"
+    },
+    "s29": {
+     "bid": false,
+     "p": 19000,
+     "url": "https://jp.mercari.com/item/m81060285594"
+    }
+   },
+   "name": "PEACEMINUSONE × Nike Kwondo 1",
+   "order": 11,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 35230,
+    "s25": 39403,
+    "s255": 30586,
+    "s26": 24102,
+    "s265": 24316,
+    "s27": 24316,
+    "s275": 14300,
+    "s28": 19800,
+    "s285": 23887,
+    "s29": 19000
+   },
+   "rak": {},
+   "retailJpy": 22000,
+   "sku": "DH2482-100",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 32000,
+     "url": "https://snkrdunk.com/products/DH2482-100"
+    },
+    "s25": {
+     "bid": false,
+     "p": 35900,
+     "url": "https://snkrdunk.com/products/DH2482-100"
+    },
+    "s255": {
+     "bid": false,
+     "p": 31500,
+     "url": "https://snkrdunk.com/products/DH2482-100"
+    },
+    "s26": {
+     "bid": false,
+     "p": 21500,
+     "url": "https://snkrdunk.com/products/DH2482-100"
+    },
+    "s265": {
+     "bid": false,
+     "p": 21300,
+     "url": "https://snkrdunk.com/products/DH2482-100"
+    },
+    "s27": {
+     "bid": false,
+     "p": 21800,
+     "url": "https://snkrdunk.com/products/DH2482-100"
+    },
+    "s275": {
+     "bid": false,
+     "p": 22900,
+     "url": "https://snkrdunk.com/products/DH2482-100"
+    },
+    "s28": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://snkrdunk.com/products/DH2482-100"
+    },
+    "s285": {
+     "bid": false,
+     "p": 21399,
+     "url": "https://snkrdunk.com/products/DH2482-100"
+    },
+    "s29": {
+     "bid": false,
+     "p": 20399,
+     "url": "https://snkrdunk.com/products/DH2482-100"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "DH2482-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DH3227-105",
+   "order": 124,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DH3227-105",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DH3227-105"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DH7722-001",
+   "order": 152,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DH7722-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DH7722-001"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Black and Electro Green",
+   "img": "images/DH7863-001.png",
+   "memo": "",
+   "mer": {
+    "s255": {
+     "bid": false,
+     "p": 10900,
+     "url": "https://jp.mercari.com/item/m84941315091"
+    }
+   },
+   "name": "Off-White × Nike Blazer Low",
+   "order": 3,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 8266,
+    "s25": 12011,
+    "s255": 10900,
+    "s26": 12653,
+    "s265": 9550,
+    "s27": 10406,
+    "s275": 10395,
+    "s28": 11689,
+    "s285": 15221,
+    "s29": 15756
+   },
+   "rak": {},
+   "retailJpy": 17050,
+   "sku": "DH7863-001",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 6800,
+     "url": "https://snkrdunk.com/products/DH7863-001"
+    },
+    "s25": {
+     "bid": false,
+     "p": 10300,
+     "url": "https://snkrdunk.com/products/DH7863-001"
+    },
+    "s255": {
+     "bid": false,
+     "p": 11200,
+     "url": "https://snkrdunk.com/products/DH7863-001"
+    },
+    "s26": {
+     "bid": false,
+     "p": 10900,
+     "url": "https://snkrdunk.com/products/DH7863-001"
+    },
+    "s265": {
+     "bid": false,
+     "p": 8000,
+     "url": "https://snkrdunk.com/products/DH7863-001"
+    },
+    "s27": {
+     "bid": false,
+     "p": 8800,
+     "url": "https://snkrdunk.com/products/DH7863-001"
+    },
+    "s275": {
+     "bid": false,
+     "p": 8699,
+     "url": "https://snkrdunk.com/products/DH7863-001"
+    },
+    "s28": {
+     "bid": false,
+     "p": 9999,
+     "url": "https://snkrdunk.com/products/DH7863-001"
+    },
+    "s285": {
+     "bid": false,
+     "p": 13300,
+     "url": "https://snkrdunk.com/products/DH7863-001"
+    },
+    "s29": {
+     "bid": false,
+     "p": 13800,
+     "url": "https://snkrdunk.com/products/DH7863-001"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s28": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/r1234482599"
+    }
+   },
+   "id": "DH7863-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DH8565-100",
+   "order": 200,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DH8565-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DH8565-100"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Califia",
+   "img": "images/DJ1199-400.png",
+   "memo": "ウィメンズのcm表記",
+   "mer": {},
+   "name": "Aleali May × Air Jordan 1 High Zoom CMFT（ウィメンズ）",
+   "order": 20,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 18703,
+    "s25": 26649,
+    "s255": 19180,
+    "s26": 18110,
+    "s265": 28168,
+    "s27": 27740,
+    "s275": 18110,
+    "s28": 15000,
+    "s285": 16825,
+    "s29": 23246
+   },
+   "rak": {},
+   "retailJpy": 19250,
+   "sku": "DJ1199-400",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 16554,
+     "url": "https://snkrdunk.com/products/DJ1199-400"
+    },
+    "s25": {
+     "bid": false,
+     "p": 23980,
+     "url": "https://snkrdunk.com/products/DJ1199-400"
+    },
+    "s255": {
+     "bid": false,
+     "p": 17000,
+     "url": "https://snkrdunk.com/products/DJ1199-400"
+    },
+    "s26": {
+     "bid": false,
+     "p": 16000,
+     "url": "https://snkrdunk.com/products/DJ1199-400"
+    },
+    "s265": {
+     "bid": false,
+     "p": 25400,
+     "url": "https://snkrdunk.com/products/DJ1199-400"
+    },
+    "s27": {
+     "bid": false,
+     "p": 25000,
+     "url": "https://snkrdunk.com/products/DJ1199-400"
+    },
+    "s275": {
+     "bid": false,
+     "p": 16000,
+     "url": "https://snkrdunk.com/products/DJ1199-400"
+    },
+    "s28": {
+     "bid": false,
+     "p": 15794,
+     "url": "https://snkrdunk.com/products/DJ1199-400"
+    },
+    "s285": {
+     "bid": false,
+     "p": 14799,
+     "url": "https://snkrdunk.com/products/DJ1199-400"
+    },
+    "s29": {
+     "bid": false,
+     "p": 20800,
+     "url": "https://snkrdunk.com/products/DJ1199-400"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s28": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/q453620149"
+    }
+   },
+   "id": "DJ1199-400"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DJ4636-100",
+   "order": 181,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DJ4636-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DJ4636-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DJ4639-121",
+   "order": 180,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DJ4639-121",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DJ4639-121"
+  },
+  {
+   "cat": "その他",
+   "color": "Photon Dust / Light Smoke",
+   "img": "images/DM0521-001.png",
+   "memo": "",
+   "mer": {},
+   "name": "Nike Air Trainer 1",
+   "order": 4,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 19715,
+    "s25": 31408,
+    "s26": 17040,
+    "s265": 18110,
+    "s27": 14633,
+    "s275": 14900,
+    "s28": 17040,
+    "s285": 15863,
+    "s29": 14258
+   },
+   "rak": {},
+   "retailJpy": 15950,
+   "sku": "DM0521-001",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 17500,
+     "url": "https://snkrdunk.com/products/DM0521-001"
+    },
+    "s25": {
+     "bid": false,
+     "p": 28427,
+     "url": "https://snkrdunk.com/products/DM0521-001"
+    },
+    "s26": {
+     "bid": false,
+     "p": 15000,
+     "url": "https://snkrdunk.com/products/DM0521-001"
+    },
+    "s265": {
+     "bid": false,
+     "p": 16000,
+     "url": "https://snkrdunk.com/products/DM0521-001"
+    },
+    "s27": {
+     "bid": false,
+     "p": 12750,
+     "url": "https://snkrdunk.com/products/DM0521-001"
+    },
+    "s275": {
+     "bid": false,
+     "p": 13000,
+     "url": "https://snkrdunk.com/products/DM0521-001"
+    },
+    "s28": {
+     "bid": false,
+     "p": 15000,
+     "url": "https://snkrdunk.com/products/DM0521-001"
+    },
+    "s285": {
+     "bid": false,
+     "p": 13900,
+     "url": "https://snkrdunk.com/products/DM0521-001"
+    },
+    "s29": {
+     "bid": false,
+     "p": 12400,
+     "url": "https://snkrdunk.com/products/DM0521-001"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "DM0521-001"
+  },
+  {
+   "cat": "その他",
+   "color": "Midnight Navy",
+   "img": "images/DM0521-101.png",
+   "memo": "",
+   "mer": {},
+   "name": "Nike Air Trainer 1",
+   "order": 6,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 18966,
+    "s25": 22069,
+    "s255": 37581,
+    "s26": 34420,
+    "s265": 24530,
+    "s27": 17040,
+    "s275": 22390,
+    "s28": 17842,
+    "s285": 19180,
+    "s29": 25600
+   },
+   "rak": {},
+   "retailJpy": 15950,
+   "sku": "DM0521-101",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 16800,
+     "url": "https://snkrdunk.com/products/DM0521-101"
+    },
+    "s25": {
+     "bid": false,
+     "p": 19700,
+     "url": "https://snkrdunk.com/products/DM0521-101"
+    },
+    "s255": {
+     "bid": false,
+     "p": 34197,
+     "url": "https://snkrdunk.com/products/DM0521-101"
+    },
+    "s26": {
+     "bid": false,
+     "p": 31243,
+     "url": "https://snkrdunk.com/products/DM0521-101"
+    },
+    "s265": {
+     "bid": false,
+     "p": 22000,
+     "url": "https://snkrdunk.com/products/DM0521-101"
+    },
+    "s27": {
+     "bid": false,
+     "p": 15000,
+     "url": "https://snkrdunk.com/products/DM0521-101"
+    },
+    "s275": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://snkrdunk.com/products/DM0521-101"
+    },
+    "s28": {
+     "bid": false,
+     "p": 15750,
+     "url": "https://snkrdunk.com/products/DM0521-101"
+    },
+    "s285": {
+     "bid": false,
+     "p": 17000,
+     "url": "https://snkrdunk.com/products/DM0521-101"
+    },
+    "s29": {
+     "bid": false,
+     "p": 23000,
+     "url": "https://snkrdunk.com/products/DM0521-101"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "DM0521-101"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DM0774-111",
+   "order": 172,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DM0774-111",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DM0774-111"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DM7866-001",
+   "order": 138,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DM7866-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DM7866-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DM7866-104",
+   "order": 136,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DM7866-104",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DM7866-104"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DM7866-140",
+   "order": 135,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DM7866-140",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DM7866-140"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DM7866-162",
+   "order": 127,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DM7866-162",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DM7866-162"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DM7866-200",
+   "order": 137,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DM7866-200",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DM7866-200"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DM7866-202",
+   "order": 143,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DM7866-202",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DM7866-202"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Team Red",
+   "img": "images/DM7901-600.png",
+   "memo": "",
+   "mer": {
+    "s25": {
+     "bid": false,
+     "p": 9499,
+     "url": "https://jp.mercari.com/item/m12252231355"
+    },
+    "s255": {
+     "bid": false,
+     "p": 6980,
+     "url": "https://jp.mercari.com/item/m33580246135"
+    },
+    "s275": {
+     "bid": false,
+     "p": 6000,
+     "url": "https://jp.mercari.com/shops/product/2JX5cg6rGtg6pVdkVpv2q6"
+    }
+   },
+   "name": "KAWS × sacai × Nike Blazer Low",
+   "order": 10,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 17564,
+    "s25": 9499,
+    "s255": 6980,
+    "s26": 10619,
+    "s265": 9764,
+    "s27": 10192,
+    "s275": 6000,
+    "s28": 6500,
+    "s285": 9549,
+    "s29": 10620
+   },
+   "rak": {
+    "s28": {
+     "bid": false,
+     "p": 6500,
+     "url": "https://item.fril.jp/64bab0a2d93ab360a98d4a4704e840ec"
+    }
+   },
+   "retailJpy": 17050,
+   "sku": "DM7901-600",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 15490,
+     "url": "https://snkrdunk.com/products/DM7901-600"
+    },
+    "s25": {
+     "bid": false,
+     "p": 10000,
+     "url": "https://snkrdunk.com/products/DM7901-600"
+    },
+    "s255": {
+     "bid": false,
+     "p": 12999,
+     "url": "https://snkrdunk.com/products/DM7901-600"
+    },
+    "s26": {
+     "bid": false,
+     "p": 8999,
+     "url": "https://snkrdunk.com/products/DM7901-600"
+    },
+    "s265": {
+     "bid": false,
+     "p": 8200,
+     "url": "https://snkrdunk.com/products/DM7901-600"
+    },
+    "s27": {
+     "bid": false,
+     "p": 8600,
+     "url": "https://snkrdunk.com/products/DM7901-600"
+    },
+    "s275": {
+     "bid": false,
+     "p": 8500,
+     "url": "https://snkrdunk.com/products/DM7901-600"
+    },
+    "s28": {
+     "bid": false,
+     "p": 7990,
+     "url": "https://snkrdunk.com/products/DM7901-600"
+    },
+    "s285": {
+     "bid": false,
+     "p": 7500,
+     "url": "https://snkrdunk.com/products/DM7901-600"
+    },
+    "s29": {
+     "bid": false,
+     "p": 9000,
+     "url": "https://snkrdunk.com/products/DM7901-600"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s28": {
+     "bid": false,
+     "p": 7000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/n1223823875"
+    }
+   },
+   "id": "DM7901-600"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Mellow",
+   "img": "images/DN1803-300.png",
+   "memo": "",
+   "mer": {},
+   "name": "Concepts × Nike Air Max 1",
+   "order": 7,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 38440,
+    "s25": 33090,
+    "s255": 19179,
+    "s26": 20250,
+    "s265": 19501,
+    "s27": 18645,
+    "s275": 20143,
+    "s28": 20090,
+    "s285": 22176,
+    "s29": 20250
+   },
+   "rak": {},
+   "retailJpy": 19250,
+   "sku": "DN1803-300",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 35000,
+     "url": "https://snkrdunk.com/products/DN1803-300"
+    },
+    "s25": {
+     "bid": false,
+     "p": 30000,
+     "url": "https://snkrdunk.com/products/DN1803-300"
+    },
+    "s255": {
+     "bid": false,
+     "p": 16999,
+     "url": "https://snkrdunk.com/products/DN1803-300"
+    },
+    "s26": {
+     "bid": false,
+     "p": 17900,
+     "url": "https://snkrdunk.com/products/DN1803-300"
+    },
+    "s265": {
+     "bid": false,
+     "p": 17300,
+     "url": "https://snkrdunk.com/products/DN1803-300"
+    },
+    "s27": {
+     "bid": false,
+     "p": 16500,
+     "url": "https://snkrdunk.com/products/DN1803-300"
+    },
+    "s275": {
+     "bid": false,
+     "p": 17900,
+     "url": "https://snkrdunk.com/products/DN1803-300"
+    },
+    "s28": {
+     "bid": false,
+     "p": 17850,
+     "url": "https://snkrdunk.com/products/DN1803-300"
+    },
+    "s285": {
+     "bid": false,
+     "p": 19800,
+     "url": "https://snkrdunk.com/products/DN1803-300"
+    },
+    "s29": {
+     "bid": false,
+     "p": 18000,
+     "url": "https://snkrdunk.com/products/DN1803-300"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/1218914519"
+    },
+    "s28": {
+     "bid": false,
+     "p": 21100,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/j1049380847"
+    }
+   },
+   "id": "DN1803-300"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DN3741-700",
+   "order": 163,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DN3741-700",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DN3741-700"
+  },
+  {
+   "cat": "ダンク",
+   "color": "Siempre Familia",
+   "memo": "",
+   "mer": {},
+   "name": "Nike Dunk Low",
+   "order": 105,
+   "prev": {
+    "at": "2026-10-21"
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "DO2160-335",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 17000,
+     "url": "https://snkrdunk.com/products/DO2160-335"
+    },
+    "s25": {
+     "bid": false,
+     "p": 12400,
+     "url": "https://snkrdunk.com/products/DO2160-335"
+    },
+    "s255": {
+     "bid": false,
+     "p": 13500,
+     "url": "https://snkrdunk.com/products/DO2160-335"
+    },
+    "s26": {
+     "bid": false,
+     "p": 11967,
+     "url": "https://snkrdunk.com/products/DO2160-335"
+    },
+    "s265": {
+     "bid": false,
+     "p": 11490,
+     "url": "https://snkrdunk.com/products/DO2160-335"
+    },
+    "s27": {
+     "bid": false,
+     "p": 14700,
+     "url": "https://snkrdunk.com/products/DO2160-335"
+    },
+    "s275": {
+     "bid": false,
+     "p": 19900,
+     "url": "https://snkrdunk.com/products/DO2160-335"
+    },
+    "s28": {
+     "bid": false,
+     "p": 15990,
+     "url": "https://snkrdunk.com/products/DO2160-335"
+    },
+    "s285": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://snkrdunk.com/products/DO2160-335"
+    },
+    "s29": {
+     "bid": false,
+     "p": 19800,
+     "url": "https://snkrdunk.com/products/DO2160-335"
+    }
+   },
+   "src": "snk-fav",
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "DO2160-335"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Storm Blue",
+   "img": "images/DO5047-401.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 16000,
+     "url": "https://jp.mercari.com/item/m65809424980"
+    },
+    "s28": {
+     "bid": false,
+     "p": 15800,
+     "url": "https://jp.mercari.com/shops/product/2JXSXgMUpdxVac2tq3YkzQ"
+    }
+   },
+   "name": "Air Jordan 1 KO High",
+   "order": 19,
+   "prev": {
+    "at": "2026-10-18",
+    "s25": 43388,
+    "s255": 24421,
+    "s26": 20035,
+    "s265": 25596,
+    "s27": 14900,
+    "s275": 16000,
+    "s28": 10240,
+    "s285": 19159,
+    "s29": 14793
+   },
+   "rak": {},
+   "retailJpy": 17050,
+   "sku": "DO5047-401",
+   "snk": {
+    "s25": {
+     "bid": false,
+     "p": 39624,
+     "url": "https://snkrdunk.com/products/DO5047-401"
+    },
+    "s255": {
+     "bid": false,
+     "p": 21898,
+     "url": "https://snkrdunk.com/products/DO5047-401"
+    },
+    "s26": {
+     "bid": false,
+     "p": 17500,
+     "url": "https://snkrdunk.com/products/DO5047-401"
+    },
+    "s265": {
+     "bid": false,
+     "p": 22996,
+     "url": "https://snkrdunk.com/products/DO5047-401"
+    },
+    "s27": {
+     "bid": false,
+     "p": 13000,
+     "url": "https://snkrdunk.com/products/DO5047-401"
+    },
+    "s275": {
+     "bid": false,
+     "p": 16400,
+     "url": "https://snkrdunk.com/products/DO5047-401"
+    },
+    "s28": {
+     "bid": false,
+     "p": 10000,
+     "url": "https://snkrdunk.com/products/DO5047-401"
+    },
+    "s285": {
+     "bid": false,
+     "p": 16980,
+     "url": "https://snkrdunk.com/products/DO5047-401"
+    },
+    "s29": {
+     "bid": false,
+     "p": 12900,
+     "url": "https://snkrdunk.com/products/DO5047-401"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s28": {
+     "bid": false,
+     "p": 9240,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/g1218792393"
+    }
+   },
+   "id": "DO5047-401"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DO6119-300",
+   "order": 162,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DO6119-300",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DO6119-300"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DO7097-100",
+   "order": 164,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DO7097-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DO7097-100"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Bred",
+   "img": "images/DQ1823-006.png",
+   "memo": "ウィメンズのcm表記",
+   "mer": {
+    "s29": {
+     "bid": false,
+     "p": 10230,
+     "url": "https://jp.mercari.com/shops/product/2JXPiogpnsP85KfT42jjsD"
+    }
+   },
+   "name": "Air Jordan 1 Elevate Low（ウィメンズ）",
+   "order": 9,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 15435,
+    "s25": 10513,
+    "s255": 9443,
+    "s26": 12760,
+    "s265": 44945,
+    "s27": 12760,
+    "s275": 11690,
+    "s28": 19929,
+    "s285": 9549,
+    "s29": 10230
+   },
+   "rak": {},
+   "retailJpy": 18150,
+   "sku": "DQ1823-006",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 13500,
+     "url": "https://snkrdunk.com/products/DQ1823-006"
+    },
+    "s25": {
+     "bid": false,
+     "p": 8900,
+     "url": "https://snkrdunk.com/products/DQ1823-006"
+    },
+    "s255": {
+     "bid": false,
+     "p": 7900,
+     "url": "https://snkrdunk.com/products/DQ1823-006"
+    },
+    "s26": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://snkrdunk.com/products/DQ1823-006"
+    },
+    "s265": {
+     "bid": false,
+     "p": 41075,
+     "url": "https://snkrdunk.com/products/DQ1823-006"
+    },
+    "s27": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://snkrdunk.com/products/DQ1823-006"
+    },
+    "s275": {
+     "bid": false,
+     "p": 10000,
+     "url": "https://snkrdunk.com/products/DQ1823-006"
+    },
+    "s28": {
+     "bid": false,
+     "p": 17700,
+     "url": "https://snkrdunk.com/products/DQ1823-006"
+    },
+    "s285": {
+     "bid": false,
+     "p": 7999,
+     "url": "https://snkrdunk.com/products/DQ1823-006"
+    },
+    "s29": {
+     "bid": false,
+     "p": 12800,
+     "url": "https://snkrdunk.com/products/DQ1823-006"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "DQ1823-006"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DV1748-601",
+   "order": 134,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DV1748-601",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DV1748-601"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DV3027-001",
+   "order": 151,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DV3027-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DV3027-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DZ4137-106",
+   "order": 129,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DZ4137-106",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DZ4137-106"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DZ4137-700",
+   "order": 142,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DZ4137-700",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DZ4137-700"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Royal Reimagined",
+   "img": "images/DZ5485-042.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://jp.mercari.com/shops/product/2JYJtAhvgZrQNVyLDTKYBB"
+    },
+    "s285": {
+     "bid": false,
+     "p": 10230,
+     "url": "https://jp.mercari.com/shops/product/2JXdY6SbwVB35HkBHJcKXy"
+    }
+   },
+   "name": "Air Jordan 1 Retro High OG",
+   "order": 41,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 27633,
+    "s25": 27740,
+    "s255": 18645,
+    "s26": 14686,
+    "s265": 14900,
+    "s27": 15435,
+    "s275": 11000,
+    "s28": 12760,
+    "s285": 10230,
+    "s29": 13081
+   },
+   "rak": {},
+   "retailJpy": 26950,
+   "sku": "DZ5485-042",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 24900,
+     "url": "https://snkrdunk.com/products/DZ5485-042"
+    },
+    "s25": {
+     "bid": false,
+     "p": 25000,
+     "url": "https://snkrdunk.com/products/DZ5485-042"
+    },
+    "s255": {
+     "bid": false,
+     "p": 16500,
+     "url": "https://snkrdunk.com/products/DZ5485-042"
+    },
+    "s26": {
+     "bid": false,
+     "p": 13300,
+     "url": "https://snkrdunk.com/products/DZ5485-042"
+    },
+    "s265": {
+     "bid": false,
+     "p": 13000,
+     "url": "https://snkrdunk.com/products/DZ5485-042"
+    },
+    "s27": {
+     "bid": false,
+     "p": 13400,
+     "url": "https://snkrdunk.com/products/DZ5485-042"
+    },
+    "s275": {
+     "bid": false,
+     "p": 12000,
+     "url": "https://snkrdunk.com/products/DZ5485-042"
+    },
+    "s28": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://snkrdunk.com/products/DZ5485-042"
+    },
+    "s285": {
+     "bid": false,
+     "p": 11700,
+     "url": "https://snkrdunk.com/products/DZ5485-042"
+    },
+    "s29": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://snkrdunk.com/products/DZ5485-042"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s28": {
+     "bid": false,
+     "p": 13200,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/h1245384964"
+    }
+   },
+   "id": "DZ5485-042"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "White Cement / Safari",
+   "img": "images/DZ5485-052.png",
+   "memo": "",
+   "mer": {
+    "s27": {
+     "bid": false,
+     "p": 16800,
+     "url": "https://jp.mercari.com/item/m36005737758"
+    },
+    "s28": {
+     "bid": false,
+     "p": 17500,
+     "url": "https://jp.mercari.com/shops/product/2JRmJKLT3mM6WWLRXLFXyt"
+    }
+   },
+   "name": "Air Jordan 1 High OG",
+   "order": 37,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 53420,
+    "s25": 32876,
+    "s255": 26669,
+    "s26": 21267,
+    "s265": 22390,
+    "s27": 16800,
+    "s275": 20250,
+    "s28": 17040,
+    "s285": 16612,
+    "s29": 16591
+   },
+   "rak": {
+    "s28": {
+     "bid": false,
+     "p": 22240,
+     "url": "https://item.fril.jp/364c85a8eea1a8df70fdd7c4aa65dcb7"
+    }
+   },
+   "retailJpy": 20900,
+   "sku": "DZ5485-052",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 49000,
+     "url": "https://snkrdunk.com/products/DZ5485-052"
+    },
+    "s25": {
+     "bid": false,
+     "p": 29800,
+     "url": "https://snkrdunk.com/products/DZ5485-052"
+    },
+    "s255": {
+     "bid": false,
+     "p": 23999,
+     "url": "https://snkrdunk.com/products/DZ5485-052"
+    },
+    "s26": {
+     "bid": false,
+     "p": 18950,
+     "url": "https://snkrdunk.com/products/DZ5485-052"
+    },
+    "s265": {
+     "bid": false,
+     "p": 19900,
+     "url": "https://snkrdunk.com/products/DZ5485-052"
+    },
+    "s27": {
+     "bid": false,
+     "p": 17900,
+     "url": "https://snkrdunk.com/products/DZ5485-052"
+    },
+    "s275": {
+     "bid": false,
+     "p": 16500,
+     "url": "https://snkrdunk.com/products/DZ5485-052"
+    },
+    "s28": {
+     "bid": false,
+     "p": 14500,
+     "url": "https://snkrdunk.com/products/DZ5485-052"
+    },
+    "s285": {
+     "bid": false,
+     "p": 13500,
+     "url": "https://snkrdunk.com/products/DZ5485-052"
+    },
+    "s29": {
+     "bid": false,
+     "p": 14580,
+     "url": "https://snkrdunk.com/products/DZ5485-052"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 27000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/q1122288803"
+    }
+   },
+   "id": "DZ5485-052"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Love Letter",
+   "img": "images/DZ5485-201.png",
+   "memo": "",
+   "mer": {
+    "s285": {
+     "bid": false,
+     "p": 19580,
+     "url": "https://jp.mercari.com/shops/product/2JVi8KrYDPB2e2KmPqyWgM"
+    }
+   },
+   "name": "Air Jordan 1 High OG",
+   "order": 31,
+   "prev": {
+    "at": "2026-10-18",
+    "s25": 27740,
+    "s255": 22390,
+    "s26": 22818,
+    "s265": 24423,
+    "s27": 24530,
+    "s275": 20785,
+    "s28": 21747,
+    "s285": 19580,
+    "s29": 25600
+   },
+   "rak": {},
+   "retailJpy": 26950,
+   "sku": "DZ5485-201",
+   "snk": {
+    "s25": {
+     "bid": false,
+     "p": 25000,
+     "url": "https://snkrdunk.com/products/DZ5485-201"
+    },
+    "s255": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://snkrdunk.com/products/DZ5485-201"
+    },
+    "s26": {
+     "bid": false,
+     "p": 20400,
+     "url": "https://snkrdunk.com/products/DZ5485-201"
+    },
+    "s265": {
+     "bid": false,
+     "p": 21899,
+     "url": "https://snkrdunk.com/products/DZ5485-201"
+    },
+    "s27": {
+     "bid": false,
+     "p": 22300,
+     "url": "https://snkrdunk.com/products/DZ5485-201"
+    },
+    "s275": {
+     "bid": false,
+     "p": 19400,
+     "url": "https://snkrdunk.com/products/DZ5485-201"
+    },
+    "s28": {
+     "bid": false,
+     "p": 19300,
+     "url": "https://snkrdunk.com/products/DZ5485-201"
+    },
+    "s285": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://snkrdunk.com/products/DZ5485-201"
+    },
+    "s29": {
+     "bid": false,
+     "p": 23000,
+     "url": "https://snkrdunk.com/products/DZ5485-201"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "DZ5485-201"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "DZ5485-612",
+   "order": 144,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "DZ5485-612",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "DZ5485-612"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "EF5787",
+   "order": 211,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "EF5787",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "EF5787"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "FJ4250-106",
+   "order": 114,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "FJ4250-106",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "FJ4250-106"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "FY7793",
+   "order": 185,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "FY7793",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "FY7793"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Demerits",
+   "memo": "",
+   "mer": {},
+   "name": "Tom Sachs × NikeCraft Women's General Purpose Shoe",
+   "order": 102,
+   "prev": {
+    "at": "2026-10-21"
+   },
+   "rak": {},
+   "retailJpy": 17600,
+   "sku": "FZ1363-002",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 28887,
+     "url": "https://snkrdunk.com/products/FZ1363-002"
+    },
+    "s25": {
+     "bid": false,
+     "p": 25000,
+     "url": "https://snkrdunk.com/products/FZ1363-002"
+    },
+    "s255": {
+     "bid": false,
+     "p": 26969,
+     "url": "https://snkrdunk.com/products/FZ1363-002"
+    },
+    "s26": {
+     "bid": false,
+     "p": 20500,
+     "url": "https://snkrdunk.com/products/FZ1363-002"
+    },
+    "s265": {
+     "bid": false,
+     "p": 15350,
+     "url": "https://snkrdunk.com/products/FZ1363-002"
+    },
+    "s27": {
+     "bid": false,
+     "p": 17500,
+     "url": "https://snkrdunk.com/products/FZ1363-002"
+    },
+    "s275": {
+     "bid": false,
+     "p": 20999,
+     "url": "https://snkrdunk.com/products/FZ1363-002"
+    },
+    "s28": {
+     "bid": false,
+     "p": 19298,
+     "url": "https://snkrdunk.com/products/FZ1363-002"
+    },
+    "s29": {
+     "bid": false,
+     "p": 25000,
+     "url": "https://snkrdunk.com/products/FZ1363-002"
+    }
+   },
+   "src": "snk-fav",
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "FZ1363-002"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "FZ3124-200",
+   "order": 123,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "FZ3124-200",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "FZ3124-200"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "FZ8117-100",
+   "order": 112,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "FZ8117-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "FZ8117-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "FZ8117-101",
+   "order": 110,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "FZ8117-101",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "FZ8117-101"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Core Black / Bold Blue",
+   "img": "images/GW3246.png",
+   "memo": "",
+   "mer": {},
+   "name": "Book Works × adidas Campus 80",
+   "order": 18,
+   "prev": {
+    "at": "2026-10-18",
+    "s25": 25600,
+    "s26": 16826,
+    "s265": 14900,
+    "s27": 10406,
+    "s275": 18645,
+    "s28": 10406,
+    "s285": 18110,
+    "s29": 14686
+   },
+   "rak": {},
+   "retailJpy": 14300,
+   "sku": "GW3246",
+   "snk": {
+    "s25": {
+     "bid": false,
+     "p": 23000,
+     "url": "https://snkrdunk.com/products/GW3246"
+    },
+    "s26": {
+     "bid": false,
+     "p": 14800,
+     "url": "https://snkrdunk.com/products/GW3246"
+    },
+    "s265": {
+     "bid": false,
+     "p": 13000,
+     "url": "https://snkrdunk.com/products/GW3246"
+    },
+    "s27": {
+     "bid": false,
+     "p": 8800,
+     "url": "https://snkrdunk.com/products/GW3246"
+    },
+    "s275": {
+     "bid": false,
+     "p": 16500,
+     "url": "https://snkrdunk.com/products/GW3246"
+    },
+    "s28": {
+     "bid": false,
+     "p": 8800,
+     "url": "https://snkrdunk.com/products/GW3246"
+    },
+    "s285": {
+     "bid": false,
+     "p": 16000,
+     "url": "https://snkrdunk.com/products/GW3246"
+    },
+    "s29": {
+     "bid": false,
+     "p": 12800,
+     "url": "https://snkrdunk.com/products/GW3246"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "GW3246"
+  },
+  {
+   "cat": "コラボ",
+   "color": "White Tint",
+   "img": "images/GW3496.png",
+   "memo": "",
+   "mer": {},
+   "name": "RECOUTURE × atmos × adidas Forum Low SH",
+   "order": 2,
+   "prev": {
+    "at": "2026-10-18",
+    "s255": 20250,
+    "s26": 19394,
+    "s265": 14579,
+    "s27": 11583,
+    "s275": 10620,
+    "s28": 11048,
+    "s285": 15114,
+    "s29": 11689
+   },
+   "rak": {},
+   "retailJpy": 15400,
+   "sku": "GW3496",
+   "snk": {
+    "s255": {
+     "bid": false,
+     "p": 18000,
+     "url": "https://snkrdunk.com/products/GW3496"
+    },
+    "s26": {
+     "bid": false,
+     "p": 17200,
+     "url": "https://snkrdunk.com/products/GW3496"
+    },
+    "s265": {
+     "bid": false,
+     "p": 12700,
+     "url": "https://snkrdunk.com/products/GW3496"
+    },
+    "s27": {
+     "bid": false,
+     "p": 9900,
+     "url": "https://snkrdunk.com/products/GW3496"
+    },
+    "s275": {
+     "bid": false,
+     "p": 9000,
+     "url": "https://snkrdunk.com/products/GW3496"
+    },
+    "s28": {
+     "bid": false,
+     "p": 9400,
+     "url": "https://snkrdunk.com/products/GW3496"
+    },
+    "s285": {
+     "bid": false,
+     "p": 13200,
+     "url": "https://snkrdunk.com/products/GW3496"
+    },
+    "s29": {
+     "bid": false,
+     "p": 9999,
+     "url": "https://snkrdunk.com/products/GW3496"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "GW3496"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "GW5270",
+   "order": 173,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "GW5270",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "GW5270"
+  },
+  {
+   "cat": "その他",
+   "color": "Lakers",
+   "memo": "",
+   "mer": {},
+   "name": "adidas Forum 84 High",
+   "order": 106,
+   "prev": {
+    "at": "2026-10-21"
+   },
+   "rak": {},
+   "retailJpy": 17000,
+   "sku": "GX9054",
+   "snk": {
+    "s265": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://snkrdunk.com/products/GX9054"
+    },
+    "s27": {
+     "bid": false,
+     "p": 21800,
+     "url": "https://snkrdunk.com/products/GX9054"
+    },
+    "s275": {
+     "bid": false,
+     "p": 27800,
+     "url": "https://snkrdunk.com/products/GX9054"
+    },
+    "s28": {
+     "bid": false,
+     "p": 21800,
+     "url": "https://snkrdunk.com/products/GX9054"
+    },
+    "s285": {
+     "bid": false,
+     "p": 24999,
+     "url": "https://snkrdunk.com/products/GX9054"
+    },
+    "s29": {
+     "bid": false,
+     "p": 38000,
+     "url": "https://snkrdunk.com/products/GX9054"
+    }
+   },
+   "src": "snk-fav",
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "GX9054"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "GZ1072",
+   "order": 175,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "GZ1072",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "GZ1072"
+  },
+  {
+   "cat": "その他",
+   "color": "Green",
+   "img": "images/GZ6202.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 9000,
+     "url": "https://jp.mercari.com/item/m47509011849"
+    }
+   },
+   "name": "adidas Adimatic",
+   "order": 8,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 22390,
+    "s25": 17177,
+    "s255": 15970,
+    "s26": 16291,
+    "s265": 13723,
+    "s27": 14365,
+    "s275": 9000,
+    "s28": 10085,
+    "s285": 8962,
+    "s29": 11582
+   },
+   "rak": {},
+   "retailJpy": 13200,
+   "sku": "GZ6202",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 19900,
+     "url": "https://snkrdunk.com/products/GZ6202"
+    },
+    "s25": {
+     "bid": false,
+     "p": 15128,
+     "url": "https://snkrdunk.com/products/GZ6202"
+    },
+    "s255": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://snkrdunk.com/products/GZ6202"
+    },
+    "s26": {
+     "bid": false,
+     "p": 14300,
+     "url": "https://snkrdunk.com/products/GZ6202"
+    },
+    "s265": {
+     "bid": false,
+     "p": 11900,
+     "url": "https://snkrdunk.com/products/GZ6202"
+    },
+    "s27": {
+     "bid": false,
+     "p": 12500,
+     "url": "https://snkrdunk.com/products/GZ6202"
+    },
+    "s275": {
+     "bid": false,
+     "p": 9499,
+     "url": "https://snkrdunk.com/products/GZ6202"
+    },
+    "s28": {
+     "bid": false,
+     "p": 8500,
+     "url": "https://snkrdunk.com/products/GZ6202"
+    },
+    "s285": {
+     "bid": false,
+     "p": 7450,
+     "url": "https://snkrdunk.com/products/GZ6202"
+    },
+    "s29": {
+     "bid": false,
+     "p": 9899,
+     "url": "https://snkrdunk.com/products/GZ6202"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s28": {
+     "bid": false,
+     "p": 13200,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/d1131179204"
+    }
+   },
+   "id": "GZ6202"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "GZ8980",
+   "order": 183,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "GZ8980",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "GZ8980"
+  },
+  {
+   "cat": "その他",
+   "color": "Black / Phantom",
+   "img": "images/HJ7263-010.png",
+   "memo": "",
+   "mer": {
+    "s27": {
+     "bid": false,
+     "p": 11000,
+     "url": "https://jp.mercari.com/shops/product/2JWmCCabmygysRSESHStT5"
+    }
+   },
+   "name": "Nike Killshot 2",
+   "order": 29,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 14779,
+    "s25": 12045,
+    "s255": 14943,
+    "s26": 14769,
+    "s265": 17239,
+    "s27": 11000,
+    "s275": 17479,
+    "s28": 15509,
+    "s285": 14791,
+    "s29": 18511
+   },
+   "rak": {},
+   "retailJpy": 14080,
+   "sku": "HJ7263-010",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 12887,
+     "url": "https://snkrdunk.com/products/HJ7263-010"
+    },
+    "s25": {
+     "bid": false,
+     "p": 12537,
+     "url": "https://snkrdunk.com/products/HJ7263-010"
+    },
+    "s255": {
+     "bid": false,
+     "p": 13029,
+     "url": "https://snkrdunk.com/products/HJ7263-010"
+    },
+    "s26": {
+     "bid": false,
+     "p": 12874,
+     "url": "https://snkrdunk.com/products/HJ7263-010"
+    },
+    "s265": {
+     "bid": false,
+     "p": 14665,
+     "url": "https://snkrdunk.com/products/HJ7263-010"
+    },
+    "s27": {
+     "bid": false,
+     "p": 14084,
+     "url": "https://snkrdunk.com/products/HJ7263-010"
+    },
+    "s275": {
+     "bid": false,
+     "p": 17400,
+     "url": "https://snkrdunk.com/products/HJ7263-010"
+    },
+    "s28": {
+     "bid": false,
+     "p": 13569,
+     "url": "https://snkrdunk.com/products/HJ7263-010"
+    },
+    "s285": {
+     "bid": false,
+     "p": 13500,
+     "url": "https://snkrdunk.com/products/HJ7263-010"
+    },
+    "s29": {
+     "bid": false,
+     "p": 16373,
+     "url": "https://snkrdunk.com/products/HJ7263-010"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "HJ7263-010"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "HM4740-001",
+   "order": 140,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "HM4740-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "HM4740-001"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Chicago (2025)",
+   "img": "images/HQ6998-600.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 16500,
+     "url": "https://jp.mercari.com/shops/product/2JX67tdmCEe2rea9LAmU8J"
+    },
+    "s28": {
+     "bid": false,
+     "p": 15800,
+     "url": "https://jp.mercari.com/shops/product/2JY3CHXXz2c8QPVWAyBTUc"
+    }
+   },
+   "name": "Air Jordan 1 Retro Low OG",
+   "order": 43,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 17040,
+    "s25": 17681,
+    "s255": 21320,
+    "s26": 19180,
+    "s265": 16804,
+    "s27": 16291,
+    "s275": 15969,
+    "s28": 15800,
+    "s285": 16505,
+    "s29": 16505
+   },
+   "rak": {},
+   "retailJpy": 20900,
+   "sku": "HQ6998-600",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 15000,
+     "url": "https://snkrdunk.com/products/HQ6998-600"
+    },
+    "s25": {
+     "bid": false,
+     "p": 15500,
+     "url": "https://snkrdunk.com/products/HQ6998-600"
+    },
+    "s255": {
+     "bid": false,
+     "p": 19000,
+     "url": "https://snkrdunk.com/products/HQ6998-600"
+    },
+    "s26": {
+     "bid": false,
+     "p": 14800,
+     "url": "https://snkrdunk.com/products/HQ6998-600"
+    },
+    "s265": {
+     "bid": false,
+     "p": 14769,
+     "url": "https://snkrdunk.com/products/HQ6998-600"
+    },
+    "s27": {
+     "bid": false,
+     "p": 14500,
+     "url": "https://snkrdunk.com/products/HQ6998-600"
+    },
+    "s275": {
+     "bid": false,
+     "p": 13500,
+     "url": "https://snkrdunk.com/products/HQ6998-600"
+    },
+    "s28": {
+     "bid": false,
+     "p": 14990,
+     "url": "https://snkrdunk.com/products/HQ6998-600"
+    },
+    "s285": {
+     "bid": false,
+     "p": 14500,
+     "url": "https://snkrdunk.com/products/HQ6998-600"
+    },
+    "s29": {
+     "bid": false,
+     "p": 13999,
+     "url": "https://snkrdunk.com/products/HQ6998-600"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s28": {
+     "bid": false,
+     "p": 15800,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/w1248036475"
+    }
+   },
+   "id": "HQ6998-600"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "HQ8487-400",
+   "order": 111,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "HQ8487-400",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "HQ8487-400"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Reverse Shadow",
+   "memo": "",
+   "mer": {},
+   "name": "Nike Air Jordan 1 High '85",
+   "order": 101,
+   "prev": {
+    "at": "2026-10-21"
+   },
+   "rak": {},
+   "retailJpy": 37400,
+   "sku": "HV6674-020",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 32000,
+     "url": "https://snkrdunk.com/products/HV6674-020"
+    },
+    "s25": {
+     "bid": false,
+     "p": 37999,
+     "url": "https://snkrdunk.com/products/HV6674-020"
+    },
+    "s255": {
+     "bid": false,
+     "p": 43300,
+     "url": "https://snkrdunk.com/products/HV6674-020"
+    },
+    "s26": {
+     "bid": false,
+     "p": 49800,
+     "url": "https://snkrdunk.com/products/HV6674-020"
+    },
+    "s265": {
+     "bid": false,
+     "p": 48900,
+     "url": "https://snkrdunk.com/products/HV6674-020"
+    },
+    "s27": {
+     "bid": false,
+     "p": 54500,
+     "url": "https://snkrdunk.com/products/HV6674-020"
+    },
+    "s275": {
+     "bid": false,
+     "p": 52500,
+     "url": "https://snkrdunk.com/products/HV6674-020"
+    },
+    "s28": {
+     "bid": false,
+     "p": 69999,
+     "url": "https://snkrdunk.com/products/HV6674-020"
+    },
+    "s285": {
+     "bid": false,
+     "p": 77000,
+     "url": "https://snkrdunk.com/products/HV6674-020"
+    },
+    "s29": {
+     "bid": false,
+     "p": 94999,
+     "url": "https://snkrdunk.com/products/HV6674-020"
+    }
+   },
+   "src": "snk-fav",
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "HV6674-020"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Bred (2025)",
+   "memo": "",
+   "mer": {},
+   "name": "Nike Air Jordan 1 High 85",
+   "order": 103,
+   "prev": {
+    "at": "2026-10-21"
+   },
+   "rak": {},
+   "retailJpy": 37400,
+   "sku": "HV6674-067",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 29800,
+     "url": "https://snkrdunk.com/products/HV6674-067"
+    },
+    "s25": {
+     "bid": false,
+     "p": 34198,
+     "url": "https://snkrdunk.com/products/HV6674-067"
+    },
+    "s255": {
+     "bid": false,
+     "p": 34900,
+     "url": "https://snkrdunk.com/products/HV6674-067"
+    },
+    "s26": {
+     "bid": false,
+     "p": 33000,
+     "url": "https://snkrdunk.com/products/HV6674-067"
+    },
+    "s265": {
+     "bid": false,
+     "p": 37900,
+     "url": "https://snkrdunk.com/products/HV6674-067"
+    },
+    "s27": {
+     "bid": false,
+     "p": 40900,
+     "url": "https://snkrdunk.com/products/HV6674-067"
+    },
+    "s275": {
+     "bid": false,
+     "p": 43999,
+     "url": "https://snkrdunk.com/products/HV6674-067"
+    },
+    "s28": {
+     "bid": false,
+     "p": 46500,
+     "url": "https://snkrdunk.com/products/HV6674-067"
+    },
+    "s285": {
+     "bid": false,
+     "p": 55600,
+     "url": "https://snkrdunk.com/products/HV6674-067"
+    },
+    "s29": {
+     "bid": false,
+     "p": 59000,
+     "url": "https://snkrdunk.com/products/HV6674-067"
+    }
+   },
+   "src": "snk-fav",
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "HV6674-067"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Chicago / Shadow",
+   "img": "images/HV8563-600.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 31800,
+     "url": "https://jp.mercari.com/item/m17754628577"
+    }
+   },
+   "name": "UNION × Air Jordan 1 Retro High OG",
+   "order": 42,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 38440,
+    "s25": 35112,
+    "s255": 31806,
+    "s26": 31912,
+    "s265": 36086,
+    "s27": 35551,
+    "s275": 31800,
+    "s28": 29665,
+    "s285": 32448,
+    "s29": 28061
+   },
+   "rak": {},
+   "retailJpy": 28600,
+   "sku": "HV8563-600",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 35000,
+     "url": "https://snkrdunk.com/products/HV8563-600"
+    },
+    "s25": {
+     "bid": false,
+     "p": 31889,
+     "url": "https://snkrdunk.com/products/HV8563-600"
+    },
+    "s255": {
+     "bid": false,
+     "p": 28700,
+     "url": "https://snkrdunk.com/products/HV8563-600"
+    },
+    "s26": {
+     "bid": false,
+     "p": 28899,
+     "url": "https://snkrdunk.com/products/HV8563-600"
+    },
+    "s265": {
+     "bid": false,
+     "p": 32300,
+     "url": "https://snkrdunk.com/products/HV8563-600"
+    },
+    "s27": {
+     "bid": false,
+     "p": 32000,
+     "url": "https://snkrdunk.com/products/HV8563-600"
+    },
+    "s275": {
+     "bid": false,
+     "p": 28899,
+     "url": "https://snkrdunk.com/products/HV8563-600"
+    },
+    "s28": {
+     "bid": false,
+     "p": 26500,
+     "url": "https://snkrdunk.com/products/HV8563-600"
+    },
+    "s285": {
+     "bid": false,
+     "p": 28500,
+     "url": "https://snkrdunk.com/products/HV8563-600"
+    },
+    "s29": {
+     "bid": false,
+     "p": 25999,
+     "url": "https://snkrdunk.com/products/HV8563-600"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 41800,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/v1246125283"
+    }
+   },
+   "id": "HV8563-600"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Black and Royal Blue",
+   "img": "images/IB1981-004.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 15400,
+     "url": "https://jp.mercari.com/shops/product/2JNbZ9QVTAe37D4FjvH6Q9"
+    },
+    "s28": {
+     "bid": false,
+     "p": 19800,
+     "url": "https://jp.mercari.com/item/m30528339212"
+    }
+   },
+   "name": "Air Jordan 1 Low '85",
+   "order": 39,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 30950,
+    "s25": 28532,
+    "s255": 22390,
+    "s26": 16398,
+    "s265": 14899,
+    "s27": 16772,
+    "s275": 15400,
+    "s28": 16494,
+    "s285": 19180,
+    "s29": 20250
+   },
+   "rak": {},
+   "retailJpy": 25300,
+   "sku": "IB1981-004",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 27999,
+     "url": "https://snkrdunk.com/products/IB1981-004"
+    },
+    "s25": {
+     "bid": false,
+     "p": 25729,
+     "url": "https://snkrdunk.com/products/IB1981-004"
+    },
+    "s255": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://snkrdunk.com/products/IB1981-004"
+    },
+    "s26": {
+     "bid": false,
+     "p": 14400,
+     "url": "https://snkrdunk.com/products/IB1981-004"
+    },
+    "s265": {
+     "bid": false,
+     "p": 12980,
+     "url": "https://snkrdunk.com/products/IB1981-004"
+    },
+    "s27": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://snkrdunk.com/products/IB1981-004"
+    },
+    "s275": {
+     "bid": false,
+     "p": 13798,
+     "url": "https://snkrdunk.com/products/IB1981-004"
+    },
+    "s28": {
+     "bid": false,
+     "p": 14500,
+     "url": "https://snkrdunk.com/products/IB1981-004"
+    },
+    "s285": {
+     "bid": false,
+     "p": 17500,
+     "url": "https://snkrdunk.com/products/IB1981-004"
+    },
+    "s29": {
+     "bid": false,
+     "p": 18000,
+     "url": "https://snkrdunk.com/products/IB1981-004"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "IB1981-004"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "IB8958-001",
+   "order": 131,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "IB8958-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "IB8958-001"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Voodoo Alternate",
+   "img": "images/IH2309-500.png",
+   "memo": "",
+   "mer": {
+    "s255": {
+     "bid": false,
+     "p": 22000,
+     "url": "https://jp.mercari.com/shops/product/2JNYrVg57wFwDqSKPqGtyS"
+    },
+    "s275": {
+     "bid": false,
+     "p": 22990,
+     "url": "https://jp.mercari.com/item/m79479991574"
+    }
+   },
+   "name": "Zion Williamson × Air Jordan 1 Low OG",
+   "order": 1,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 46405,
+    "s25": 30843,
+    "s255": 22000,
+    "s26": 22390,
+    "s265": 21320,
+    "s27": 21213,
+    "s275": 22990,
+    "s28": 23000,
+    "s285": 21320,
+    "s29": 24958
+   },
+   "rak": {},
+   "retailJpy": 23650,
+   "sku": "IH2309-500",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 42444,
+     "url": "https://snkrdunk.com/products/IH2309-500"
+    },
+    "s25": {
+     "bid": false,
+     "p": 27900,
+     "url": "https://snkrdunk.com/products/IH2309-500"
+    },
+    "s255": {
+     "bid": false,
+     "p": 25800,
+     "url": "https://snkrdunk.com/products/IH2309-500"
+    },
+    "s26": {
+     "bid": false,
+     "p": 22000,
+     "url": "https://snkrdunk.com/products/IH2309-500"
+    },
+    "s265": {
+     "bid": false,
+     "p": 19000,
+     "url": "https://snkrdunk.com/products/IH2309-500"
+    },
+    "s27": {
+     "bid": false,
+     "p": 18500,
+     "url": "https://snkrdunk.com/products/IH2309-500"
+    },
+    "s275": {
+     "bid": false,
+     "p": 20500,
+     "url": "https://snkrdunk.com/products/IH2309-500"
+    },
+    "s28": {
+     "bid": false,
+     "p": 20890,
+     "url": "https://snkrdunk.com/products/IH2309-500"
+    },
+    "s285": {
+     "bid": false,
+     "p": 19000,
+     "url": "https://snkrdunk.com/products/IH2309-500"
+    },
+    "s29": {
+     "bid": false,
+     "p": 22000,
+     "url": "https://snkrdunk.com/products/IH2309-500"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 25300,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/n1223248063"
+    },
+    "s28": {
+     "bid": false,
+     "p": 22000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/n1245867781"
+    }
+   },
+   "id": "IH2309-500"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Night Silver",
+   "img": "images/IH7971-001.png",
+   "memo": "",
+   "mer": {
+    "s28": {
+     "bid": false,
+     "p": 41030,
+     "url": "https://jp.mercari.com/shops/product/2JNYFjA4snhwvA2ka4B4EP"
+    }
+   },
+   "name": "Travis Scott × Chase B × Jumpman Jack TR",
+   "order": 34,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 42224,
+    "s25": 43200,
+    "s255": 40790,
+    "s26": 30415,
+    "s265": 30937,
+    "s27": 32555,
+    "s275": 38224,
+    "s28": 29773,
+    "s285": 29523,
+    "s29": 30950
+   },
+   "rak": {},
+   "retailJpy": 30800,
+   "sku": "IH7971-001",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 38469,
+     "url": "https://snkrdunk.com/products/IH7971-001"
+    },
+    "s25": {
+     "bid": false,
+     "p": 39449,
+     "url": "https://snkrdunk.com/products/IH7971-001"
+    },
+    "s255": {
+     "bid": false,
+     "p": 37046,
+     "url": "https://snkrdunk.com/products/IH7971-001"
+    },
+    "s26": {
+     "bid": false,
+     "p": 27000,
+     "url": "https://snkrdunk.com/products/IH7971-001"
+    },
+    "s265": {
+     "bid": false,
+     "p": 27983,
+     "url": "https://snkrdunk.com/products/IH7971-001"
+    },
+    "s27": {
+     "bid": false,
+     "p": 28500,
+     "url": "https://snkrdunk.com/products/IH7971-001"
+    },
+    "s275": {
+     "bid": false,
+     "p": 34000,
+     "url": "https://snkrdunk.com/products/IH7971-001"
+    },
+    "s28": {
+     "bid": false,
+     "p": 26900,
+     "url": "https://snkrdunk.com/products/IH7971-001"
+    },
+    "s285": {
+     "bid": false,
+     "p": 26666,
+     "url": "https://snkrdunk.com/products/IH7971-001"
+    },
+    "s29": {
+     "bid": false,
+     "p": 28000,
+     "url": "https://snkrdunk.com/products/IH7971-001"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "IH7971-001"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Green Spark",
+   "img": "images/IM9113-300.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 28000,
+     "url": "https://jp.mercari.com/item/m77972774332"
+    },
+    "s28": {
+     "bid": false,
+     "p": 27900,
+     "url": "https://jp.mercari.com/item/m89165795861"
+    }
+   },
+   "name": "Travis Scott × Jumpman Jack CJ1 T-Rexx",
+   "order": 40,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 38320,
+    "s25": 32016,
+    "s255": 32895,
+    "s26": 27203,
+    "s265": 26456,
+    "s27": 25493,
+    "s275": 26562,
+    "s28": 27418,
+    "s285": 24958,
+    "s29": 26669
+   },
+   "rak": {},
+   "retailJpy": 29699,
+   "sku": "IM9113-300",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 34888,
+     "url": "https://snkrdunk.com/products/IM9113-300"
+    },
+    "s25": {
+     "bid": false,
+     "p": 28996,
+     "url": "https://snkrdunk.com/products/IM9113-300"
+    },
+    "s255": {
+     "bid": false,
+     "p": 29809,
+     "url": "https://snkrdunk.com/products/IM9113-300"
+    },
+    "s26": {
+     "bid": false,
+     "p": 24298,
+     "url": "https://snkrdunk.com/products/IM9113-300"
+    },
+    "s265": {
+     "bid": false,
+     "p": 23700,
+     "url": "https://snkrdunk.com/products/IM9113-300"
+    },
+    "s27": {
+     "bid": false,
+     "p": 22880,
+     "url": "https://snkrdunk.com/products/IM9113-300"
+    },
+    "s275": {
+     "bid": false,
+     "p": 23888,
+     "url": "https://snkrdunk.com/products/IM9113-300"
+    },
+    "s28": {
+     "bid": false,
+     "p": 24499,
+     "url": "https://snkrdunk.com/products/IM9113-300"
+    },
+    "s285": {
+     "bid": false,
+     "p": 22000,
+     "url": "https://snkrdunk.com/products/IM9113-300"
+    },
+    "s29": {
+     "bid": false,
+     "p": 23999,
+     "url": "https://snkrdunk.com/products/IM9113-300"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "IM9113-300"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "IO7847-001",
+   "order": 132,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "IO7847-001",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "IO7847-001"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "IO7847-002",
+   "order": 146,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "IO7847-002",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "IO7847-002"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "IQ6083-067",
+   "order": 119,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "IQ6083-067",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "IQ6083-067"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Miro",
+   "img": "images/IQ6573-100.png",
+   "memo": "StockXのお気に入りから",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 26740,
+     "url": "https://jp.mercari.com/shops/product/2JVMPgGUL6Rm3JqtcCXY9f"
+    }
+   },
+   "name": "Air Jordan 7 Retro",
+   "order": 48,
+   "prev": {
+    "at": "2026-10-18",
+    "s25": 46464,
+    "s255": 37370,
+    "s26": 33090,
+    "s265": 35765,
+    "s27": 30415,
+    "s275": 26740,
+    "s28": 25000,
+    "s285": 31913,
+    "s29": 39403
+   },
+   "rak": {},
+   "retailJpy": 33000,
+   "sku": "IQ6573-100",
+   "snk": {
+    "s25": {
+     "bid": false,
+     "p": 42499,
+     "url": "https://snkrdunk.com/products/IQ6573-100"
+    },
+    "s255": {
+     "bid": false,
+     "p": 34000,
+     "url": "https://snkrdunk.com/products/IQ6573-100"
+    },
+    "s26": {
+     "bid": false,
+     "p": 26000,
+     "url": "https://snkrdunk.com/products/IQ6573-100"
+    },
+    "s265": {
+     "bid": false,
+     "p": 32500,
+     "url": "https://snkrdunk.com/products/IQ6573-100"
+    },
+    "s27": {
+     "bid": false,
+     "p": 27500,
+     "url": "https://snkrdunk.com/products/IQ6573-100"
+    },
+    "s275": {
+     "bid": false,
+     "p": 24700,
+     "url": "https://snkrdunk.com/products/IQ6573-100"
+    },
+    "s28": {
+     "bid": false,
+     "p": 26000,
+     "url": "https://snkrdunk.com/products/IQ6573-100"
+    },
+    "s285": {
+     "bid": false,
+     "p": 28980,
+     "url": "https://snkrdunk.com/products/IQ6573-100"
+    },
+    "s29": {
+     "bid": false,
+     "p": 35900,
+     "url": "https://snkrdunk.com/products/IQ6573-100"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s275": {
+     "bid": false,
+     "p": 26740,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/c1240694687"
+    },
+    "s28": {
+     "bid": false,
+     "p": 24000,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/o1248375351"
+    }
+   },
+   "id": "IQ6573-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "IQ7604-100",
+   "order": 145,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "IQ7604-100",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "IQ7604-100"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "IQ7604-101",
+   "order": 139,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "IQ7604-101",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "IQ7604-101"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "IV6099-002",
+   "order": 147,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "IV6099-002",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "IV6099-002"
+  },
+  {
+   "cat": "ジョーダン",
+   "color": "Banned",
+   "img": "images/IW6276-001.png",
+   "memo": "",
+   "mer": {
+    "s275": {
+     "bid": false,
+     "p": 16490,
+     "url": "https://jp.mercari.com/item/m36285855813"
+    }
+   },
+   "name": "Air Jordan 1 Retro Low OG",
+   "order": 35,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 17575,
+    "s25": 20999,
+    "s255": 17040,
+    "s26": 16826,
+    "s265": 16505,
+    "s27": 15970,
+    "s275": 16398,
+    "s28": 14101,
+    "s285": 13830,
+    "s29": 17040
+   },
+   "rak": {
+    "s275": {
+     "bid": false,
+     "p": 16490,
+     "url": "https://item.fril.jp/543f3ac257f3be8fa2abf376416b61a2"
+    }
+   },
+   "retailJpy": 23650,
+   "sku": "IW6276-001",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 15500,
+     "url": "https://snkrdunk.com/products/IW6276-001"
+    },
+    "s25": {
+     "bid": false,
+     "p": 20124,
+     "url": "https://snkrdunk.com/products/IW6276-001"
+    },
+    "s255": {
+     "bid": false,
+     "p": 15000,
+     "url": "https://snkrdunk.com/products/IW6276-001"
+    },
+    "s26": {
+     "bid": false,
+     "p": 13800,
+     "url": "https://snkrdunk.com/products/IW6276-001"
+    },
+    "s265": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://snkrdunk.com/products/IW6276-001"
+    },
+    "s27": {
+     "bid": false,
+     "p": 14000,
+     "url": "https://snkrdunk.com/products/IW6276-001"
+    },
+    "s275": {
+     "bid": false,
+     "p": 13000,
+     "url": "https://snkrdunk.com/products/IW6276-001"
+    },
+    "s28": {
+     "bid": false,
+     "p": 13499,
+     "url": "https://snkrdunk.com/products/IW6276-001"
+    },
+    "s285": {
+     "bid": false,
+     "p": 10800,
+     "url": "https://snkrdunk.com/products/IW6276-001"
+    },
+    "s29": {
+     "bid": false,
+     "p": 15000,
+     "url": "https://snkrdunk.com/products/IW6276-001"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {
+    "s25": {
+     "bid": false,
+     "p": 19999,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/u1248185736"
+    },
+    "s275": {
+     "bid": false,
+     "p": 19999,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/u1248193752"
+    },
+    "s28": {
+     "bid": false,
+     "p": 13101,
+     "url": "https://auctions.yahoo.co.jp/jp/auction/x1239055845"
+    }
+   },
+   "id": "IW6276-001"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Core Black / Cloud White / Gum",
+   "img": "images/JR9246.png",
+   "memo": "StockXのお気に入りから",
+   "mer": {
+    "s255": {
+     "bid": false,
+     "p": 19000,
+     "url": "https://jp.mercari.com/item/m56230948966"
+    },
+    "s26": {
+     "bid": false,
+     "p": 18800,
+     "url": "https://jp.mercari.com/item/m64202292300"
+    },
+    "s265": {
+     "bid": false,
+     "p": 21500,
+     "url": "https://jp.mercari.com/item/m34808808849"
+    },
+    "s275": {
+     "bid": false,
+     "p": 19890,
+     "url": "https://jp.mercari.com/shops/product/2JT94sC5c4ayUykUpSEkHZ"
+    },
+    "s28": {
+     "bid": false,
+     "p": 22000,
+     "url": "https://jp.mercari.com/item/m74241017514"
+    }
+   },
+   "name": "A BATHING APE × adidas Samba",
+   "order": 44,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 43222,
+    "s25": 30445,
+    "s255": 19000,
+    "s26": 18800,
+    "s265": 21500,
+    "s27": 31988,
+    "s275": 19890,
+    "s28": 22000,
+    "s285": 24530,
+    "s29": 32019
+   },
+   "rak": {},
+   "retailJpy": 26400,
+   "sku": "JR9246",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 39458,
+     "url": "https://snkrdunk.com/products/JR9246"
+    },
+    "s25": {
+     "bid": false,
+     "p": 27528,
+     "url": "https://snkrdunk.com/products/JR9246"
+    },
+    "s255": {
+     "bid": false,
+     "p": 19500,
+     "url": "https://snkrdunk.com/products/JR9246"
+    },
+    "s26": {
+     "bid": false,
+     "p": 30000,
+     "url": "https://snkrdunk.com/products/JR9246"
+    },
+    "s265": {
+     "bid": false,
+     "p": 25000,
+     "url": "https://snkrdunk.com/products/JR9246"
+    },
+    "s27": {
+     "bid": false,
+     "p": 28959,
+     "url": "https://snkrdunk.com/products/JR9246"
+    },
+    "s275": {
+     "bid": false,
+     "p": 23000,
+     "url": "https://snkrdunk.com/products/JR9246"
+    },
+    "s28": {
+     "bid": false,
+     "p": 32000,
+     "url": "https://snkrdunk.com/products/JR9246"
+    },
+    "s285": {
+     "bid": false,
+     "p": 22000,
+     "url": "https://snkrdunk.com/products/JR9246"
+    },
+    "s29": {
+     "bid": false,
+     "p": 27999,
+     "url": "https://snkrdunk.com/products/JR9246"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "JR9246"
+  },
+  {
+   "cat": "コラボ",
+   "color": "Off White / Shadow Green",
+   "img": "images/KJ8852.png",
+   "memo": "StockXのお気に入りから",
+   "mer": {
+    "s28": {
+     "bid": false,
+     "p": 20000,
+     "url": "https://jp.mercari.com/shops/product/2JWtkDYeTUXm4Y6okfSsSJ"
+    }
+   },
+   "name": "A BATHING APE × adidas Samba World Cup Pack",
+   "order": 45,
+   "prev": {
+    "at": "2026-10-18",
+    "s245": 26670,
+    "s25": 42847,
+    "s255": 35581,
+    "s26": 38440,
+    "s265": 27740,
+    "s27": 37078,
+    "s275": 25600,
+    "s28": 20000,
+    "s29": 44889
+   },
+   "rak": {},
+   "retailJpy": 26400,
+   "sku": "KJ8852",
+   "snk": {
+    "s245": {
+     "bid": false,
+     "p": 24000,
+     "url": "https://snkrdunk.com/products/KJ8852"
+    },
+    "s25": {
+     "bid": false,
+     "p": 39119,
+     "url": "https://snkrdunk.com/products/KJ8852"
+    },
+    "s255": {
+     "bid": false,
+     "p": 32327,
+     "url": "https://snkrdunk.com/products/KJ8852"
+    },
+    "s26": {
+     "bid": false,
+     "p": 35000,
+     "url": "https://snkrdunk.com/products/KJ8852"
+    },
+    "s265": {
+     "bid": false,
+     "p": 25000,
+     "url": "https://snkrdunk.com/products/KJ8852"
+    },
+    "s27": {
+     "bid": false,
+     "p": 33628,
+     "url": "https://snkrdunk.com/products/KJ8852"
+    },
+    "s275": {
+     "bid": false,
+     "p": 23000,
+     "url": "https://snkrdunk.com/products/KJ8852"
+    },
+    "s28": {
+     "bid": false,
+     "p": 34800,
+     "url": "https://snkrdunk.com/products/KJ8852"
+    },
+    "s29": {
+     "bid": false,
+     "p": 41027,
+     "url": "https://snkrdunk.com/products/KJ8852"
+    }
+   },
+   "updatedAt": "2026-10-21",
+   "yah": {},
+   "id": "KJ8852"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "MS327LVA",
+   "order": 202,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "MS327LVA",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "MS327LVA"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "Q46154",
+   "order": 179,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "Q46154",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "Q46154"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "V95CF-MOONEYES",
+   "order": 170,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "V95CF-MOONEYES",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "V95CF-MOONEYES"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "VN000D9RCCZ",
+   "order": 117,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "VN000D9RCCZ",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "VN000D9RCCZ"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "VN0A45JK20F",
+   "order": 196,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "VN0A45JK20F",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "VN0A45JK20F"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "VN0A4BV9CX6",
+   "order": 159,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "VN0A4BV9CX6",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "VN0A4BV9CX6"
+  },
+  {
+   "cat": "その他",
+   "color": "",
+   "createdAt": "2026-10-21",
+   "memo": "",
+   "mer": {},
+   "name": "VN0A7SLZ636",
+   "order": 174,
+   "pending": true,
+   "rak": {},
+   "retailJpy": null,
+   "sku": "VN0A7SLZ636",
+   "snk": {},
+   "src": "snk-fav",
+   "yah": {},
+   "id": "VN0A7SLZ636"
+  }
+ ]
+}
