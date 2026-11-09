@@ -1,6 +1,6 @@
 {
  "meta": {
-  "asOf": "2026-11-02",
+  "asOf": "2026-11-09",
   "fees": {
    "merShip": 0,
    "rakShip": 0,
@@ -14,7 +14,7 @@
   "siteAt": {
    "mer": "2026-10-18",
    "rak": "2026-10-18",
-   "snk": "2026-11-02",
+   "snk": "2026-11-09",
    "yah": "2026-10-18"
   }
  },
@@ -32,32 +32,32 @@
    "sku": "1183C102-751",
    "snk": {
     "s245": {
-     "p": 15790,
+     "p": 16498,
      "url": "https://snkrdunk.com/products/1183C102-751",
      "bid": false
     },
     "s25": {
-     "p": 16190,
+     "p": 16898,
      "url": "https://snkrdunk.com/products/1183C102-751",
      "bid": false
     },
     "s255": {
-     "p": 17427,
+     "p": 17470,
      "url": "https://snkrdunk.com/products/1183C102-751",
      "bid": false
     },
     "s26": {
-     "p": 16496,
+     "p": 16491,
      "url": "https://snkrdunk.com/products/1183C102-751",
      "bid": false
     },
     "s265": {
-     "p": 17453,
+     "p": 17426,
      "url": "https://snkrdunk.com/products/1183C102-751",
      "bid": false
     },
     "s27": {
-     "p": 16496,
+     "p": 17470,
      "url": "https://snkrdunk.com/products/1183C102-751",
      "bid": false
     },
@@ -67,17 +67,17 @@
      "bid": false
     },
     "s28": {
-     "p": 16400,
+     "p": 16500,
      "url": "https://snkrdunk.com/products/1183C102-751",
      "bid": false
     },
     "s285": {
-     "p": 17443,
+     "p": 17410,
      "url": "https://snkrdunk.com/products/1183C102-751",
      "bid": false
     },
     "s29": {
-     "p": 17435,
+     "p": 17400,
      "url": "https://snkrdunk.com/products/1183C102-751",
      "bid": false
     }
@@ -85,19 +85,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "1183C102-751",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 17885,
-    "s25": 18322,
-    "s255": 19683,
-    "s26": 18171,
-    "s265": 18813,
-    "s27": 18070,
-    "s275": 18110,
-    "s28": 18838,
-    "s285": 19713,
-    "s29": 18841,
-    "at": "2026-10-26"
+    "s25": 18313,
+    "s255": 19637,
+    "s26": 18641,
+    "s265": 19665,
+    "s27": 18641,
+    "s275": 18643,
+    "s28": 18538,
+    "s285": 19654,
+    "s29": 19645,
+    "at": "2026-11-02"
    }
   },
   {
@@ -115,9 +115,9 @@
    "src": "snk-fav",
    "yah": {},
    "id": "1201A530-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -136,48 +136,48 @@
    "order": 46,
    "prev": {
     "s245": 7900,
-    "s25": 16933,
-    "s255": 15435,
-    "s26": 12974,
+    "s25": 16719,
+    "s255": 15221,
+    "s26": 12953,
     "s265": 14000,
-    "s27": 13712,
+    "s27": 13680,
     "s275": 14745,
-    "s28": 13806,
+    "s28": 13804,
     "s285": 14091,
     "s29": 14899,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
    "sku": "398846-01",
    "snk": {
     "s245": {
-     "p": 11795,
+     "p": 11790,
      "url": "https://snkrdunk.com/products/398846-01",
      "bid": false
     },
     "s25": {
-     "p": 14700,
+     "p": 14390,
      "url": "https://snkrdunk.com/products/398846-01",
      "bid": false
     },
     "s255": {
-     "p": 13300,
+     "p": 13200,
      "url": "https://snkrdunk.com/products/398846-01",
      "bid": false
     },
     "s26": {
-     "p": 11180,
+     "p": 11175,
      "url": "https://snkrdunk.com/products/398846-01",
      "bid": false
     },
     "s265": {
-     "p": 14965,
+     "p": 14925,
      "url": "https://snkrdunk.com/products/398846-01",
      "bid": false
     },
     "s27": {
-     "p": 11860,
+     "p": 11825,
      "url": "https://snkrdunk.com/products/398846-01",
      "bid": false
     },
@@ -187,7 +187,7 @@
      "bid": false
     },
     "s28": {
-     "p": 11976,
+     "p": 11974,
      "url": "https://snkrdunk.com/products/398846-01",
      "bid": false
     },
@@ -202,7 +202,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s265": {
      "bid": false,
@@ -228,28 +228,28 @@
    "order": 47,
    "prev": {
     "s245": 12000,
-    "s25": 14793,
-    "s255": 14140,
-    "s26": 14579,
-    "s265": 13263,
-    "s27": 14044,
-    "s275": 15402,
-    "s28": 14895,
-    "s285": 14137,
-    "s29": 16666,
-    "at": "2026-10-26"
+    "s25": 14151,
+    "s255": 12760,
+    "s26": 14365,
+    "s265": 13262,
+    "s27": 13936,
+    "s275": 15380,
+    "s28": 16077,
+    "s285": 14136,
+    "s29": 16585,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
    "sku": "398846-02",
    "snk": {
     "s245": {
-     "p": 12640,
+     "p": 13390,
      "url": "https://snkrdunk.com/products/398846-02",
      "bid": false
     },
     "s25": {
-     "p": 12300,
+     "p": 12000,
      "url": "https://snkrdunk.com/products/398846-02",
      "bid": false
     },
@@ -259,7 +259,7 @@
      "bid": false
     },
     "s26": {
-     "p": 12500,
+     "p": 12400,
      "url": "https://snkrdunk.com/products/398846-02",
      "bid": false
     },
@@ -269,32 +269,32 @@
      "bid": false
     },
     "s27": {
-     "p": 12099,
+     "p": 12090,
      "url": "https://snkrdunk.com/products/398846-02",
      "bid": false
     },
     "s275": {
-     "p": 13449,
+     "p": 13400,
      "url": "https://snkrdunk.com/products/398846-02",
      "bid": false
     },
     "s28": {
-     "p": 14100,
+     "p": 12295,
      "url": "https://snkrdunk.com/products/398846-02",
      "bid": false
     },
     "s285": {
-     "p": 12286,
+     "p": 14497,
      "url": "https://snkrdunk.com/products/398846-02",
      "bid": false
     },
     "s29": {
-     "p": 14575,
+     "p": 14500,
      "url": "https://snkrdunk.com/products/398846-02",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "398846-02"
   },
@@ -309,14 +309,14 @@
    "prev": {
     "s25": 23413,
     "s255": 21320,
-    "s26": 34924,
-    "s265": 21102,
+    "s26": 34914,
+    "s265": 21100,
     "s27": 16398,
     "s275": 18645,
     "s28": 13723,
     "s285": 13723,
     "s29": 16933,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
@@ -328,12 +328,12 @@
      "bid": false
     },
     "s255": {
-     "p": 19000,
+     "p": 17000,
      "url": "https://snkrdunk.com/products/553558-163",
      "bid": false
     },
     "s26": {
-     "p": 31705,
+     "p": 31235,
      "url": "https://snkrdunk.com/products/553558-163",
      "bid": false
     },
@@ -368,7 +368,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "553558-163"
   },
@@ -382,14 +382,13 @@
    "prev": {
     "s25": 21106,
     "s255": 35152,
-    "s26": 18110,
     "s265": 20785,
-    "s27": 11690,
+    "s27": 15435,
     "s275": 20250,
     "s28": 18431,
     "s285": 26670,
     "s29": 22390,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14040,
@@ -401,7 +400,7 @@
      "bid": false
     },
     "s255": {
-     "p": 31927,
+     "p": 30527,
      "url": "https://snkrdunk.com/products/554724-068",
      "bid": false
     },
@@ -416,7 +415,7 @@
      "bid": false
     },
     "s275": {
-     "p": 18000,
+     "p": 17800,
      "url": "https://snkrdunk.com/products/554724-068",
      "bid": false
     },
@@ -437,7 +436,7 @@
     }
    },
    "src": "snk-fav",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "554724-068"
   },
@@ -454,7 +453,7 @@
    "sku": "554724-069",
    "snk": {
     "s25": {
-     "p": 32227,
+     "p": 31627,
      "url": "https://snkrdunk.com/products/554724-069",
      "bid": false
     },
@@ -494,7 +493,7 @@
      "bid": false
     },
     "s29": {
-     "p": 18400,
+     "p": 18100,
      "url": "https://snkrdunk.com/products/554724-069",
      "bid": false
     }
@@ -502,18 +501,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "554724-069",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s25": 35687,
+    "s25": 35473,
     "s255": 22176,
     "s26": 17464,
-    "s265": 15648,
+    "s265": 15109,
     "s27": 17463,
-    "s275": 18099,
+    "s275": 19179,
     "s28": 29054,
     "s285": 15756,
-    "s29": 19180,
-    "at": "2026-10-26"
+    "s29": 20678,
+    "at": "2026-11-02"
    }
   },
   {
@@ -539,22 +538,22 @@
      "bid": false
     },
     "s26": {
-     "p": 18500,
+     "p": 16900,
      "url": "https://snkrdunk.com/products/554724-074",
      "bid": false
     },
     "s265": {
-     "p": 19800,
+     "p": 19799,
      "url": "https://snkrdunk.com/products/554724-074",
      "bid": false
     },
     "s27": {
-     "p": 16500,
+     "p": 14980,
      "url": "https://snkrdunk.com/products/554724-074",
      "bid": false
     },
     "s275": {
-     "p": 14950,
+     "p": 13950,
      "url": "https://snkrdunk.com/products/554724-074",
      "bid": false
     },
@@ -569,7 +568,7 @@
      "bid": false
     },
     "s29": {
-     "p": 23500,
+     "p": 23000,
      "url": "https://snkrdunk.com/products/554724-074",
      "bid": false
     }
@@ -577,18 +576,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "554724-074",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 27740,
     "s255": 24530,
     "s26": 20785,
-    "s265": 22390,
-    "s27": 21106,
+    "s265": 22176,
+    "s27": 18645,
     "s275": 16986,
-    "s28": 24316,
-    "s285": 22389,
+    "s28": 20250,
+    "s285": 22390,
     "s29": 26135,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -610,12 +609,12 @@
     "s255": 36056,
     "s26": 18110,
     "s265": 13830,
-    "s27": 13595,
+    "s27": 13167,
     "s275": 19000,
-    "s28": 14365,
+    "s28": 17040,
     "s285": 15970,
     "s29": 14879,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
@@ -632,12 +631,12 @@
      "bid": false
     },
     "s26": {
-     "p": 16000,
+     "p": 17500,
      "url": "https://snkrdunk.com/products/554724-077",
      "bid": false
     },
     "s265": {
-     "p": 12000,
+     "p": 19500,
      "url": "https://snkrdunk.com/products/554724-077",
      "bid": false
     },
@@ -647,7 +646,7 @@
      "bid": false
     },
     "s275": {
-     "p": 17999,
+     "p": 18000,
      "url": "https://snkrdunk.com/products/554724-077",
      "bid": false
     },
@@ -667,7 +666,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -695,7 +694,7 @@
      "bid": false
     },
     "s26": {
-     "p": 70000,
+     "p": 79000,
      "url": "https://snkrdunk.com/products/555088-001",
      "bid": false
     },
@@ -710,22 +709,22 @@
      "bid": false
     },
     "s275": {
-     "p": 52500,
+     "p": 49999,
      "url": "https://snkrdunk.com/products/555088-001",
      "bid": false
     },
     "s28": {
-     "p": 62800,
+     "p": 62799,
      "url": "https://snkrdunk.com/products/555088-001",
      "bid": false
     },
     "s285": {
-     "p": 76000,
+     "p": 80000,
      "url": "https://snkrdunk.com/products/555088-001",
      "bid": false
     },
     "s29": {
-     "p": 59999,
+     "p": 59690,
      "url": "https://snkrdunk.com/products/555088-001",
      "bid": false
     }
@@ -733,17 +732,17 @@
    "src": "snk-fav",
    "yah": {},
    "id": "555088-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s255": 106920,
-    "s26": 82310,
+    "s26": 75890,
     "s265": 59626,
     "s27": 64120,
-    "s275": 58556,
+    "s275": 57165,
     "s28": 68186,
     "s285": 82310,
     "s29": 65189,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -774,17 +773,17 @@
      "bid": false
     },
     "s265": {
-     "p": 41000,
+     "p": 40900,
      "url": "https://snkrdunk.com/products/555088-007",
      "bid": false
     },
     "s27": {
-     "p": 39000,
+     "p": 38999,
      "url": "https://snkrdunk.com/products/555088-007",
      "bid": false
     },
     "s275": {
-     "p": 38000,
+     "p": 37999,
      "url": "https://snkrdunk.com/products/555088-007",
      "bid": false
     },
@@ -807,18 +806,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "555088-007",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 36086,
     "s255": 42839,
-    "s26": 49461,
+    "s26": 39510,
     "s265": 44860,
     "s27": 42720,
-    "s275": 41649,
+    "s275": 41650,
     "s28": 45930,
     "s285": 47855,
     "s29": 48070,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -833,18 +832,13 @@
    "retailJpy": 17280,
    "sku": "555088-013",
    "snk": {
-    "s25": {
-     "p": 54800,
-     "url": "https://snkrdunk.com/products/555088-013",
-     "bid": false
-    },
     "s255": {
-     "p": 47900,
+     "p": 39800,
      "url": "https://snkrdunk.com/products/555088-013",
      "bid": false
     },
     "s26": {
-     "p": 38000,
+     "p": 34800,
      "url": "https://snkrdunk.com/products/555088-013",
      "bid": false
     },
@@ -859,12 +853,12 @@
      "bid": false
     },
     "s275": {
-     "p": 49500,
+     "p": 49000,
      "url": "https://snkrdunk.com/products/555088-013",
      "bid": false
     },
     "s28": {
-     "p": 45000,
+     "p": 44000,
      "url": "https://snkrdunk.com/products/555088-013",
      "bid": false
     },
@@ -874,7 +868,7 @@
      "bid": false
     },
     "s29": {
-     "p": 49999,
+     "p": 42800,
      "url": "https://snkrdunk.com/products/555088-013",
      "bid": false
     }
@@ -882,18 +876,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "555088-013",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 59626,
-    "s255": 52349,
-    "s26": 54490,
+    "s255": 52243,
+    "s26": 41650,
     "s265": 54276,
-    "s27": 41115,
-    "s275": 51066,
-    "s28": 48605,
+    "s27": 41543,
+    "s275": 53955,
+    "s28": 49140,
     "s285": 49140,
     "s29": 54489,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -909,12 +903,12 @@
    "sku": "555088-035",
    "snk": {
     "s245": {
-     "p": 50000,
+     "p": 67500,
      "url": "https://snkrdunk.com/products/555088-035",
      "bid": false
     },
     "s25": {
-     "p": 38000,
+     "p": 34900,
      "url": "https://snkrdunk.com/products/555088-035",
      "bid": false
     },
@@ -929,22 +923,22 @@
      "bid": false
     },
     "s265": {
-     "p": 27000,
+     "p": 27200,
      "url": "https://snkrdunk.com/products/555088-035",
      "bid": false
     },
     "s27": {
-     "p": 23800,
+     "p": 22800,
      "url": "https://snkrdunk.com/products/555088-035",
      "bid": false
     },
     "s275": {
-     "p": 27900,
+     "p": 27890,
      "url": "https://snkrdunk.com/products/555088-035",
      "bid": false
     },
     "s28": {
-     "p": 29649,
+     "p": 27600,
      "url": "https://snkrdunk.com/products/555088-035",
      "bid": false
     },
@@ -962,19 +956,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "555088-035",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 54490,
     "s25": 41650,
     "s255": 32106,
     "s26": 36300,
-    "s265": 28810,
-    "s27": 27739,
-    "s275": 30938,
-    "s28": 32555,
-    "s285": 27858,
-    "s29": 29773,
-    "at": "2026-10-26"
+    "s265": 29880,
+    "s27": 26456,
+    "s275": 30843,
+    "s28": 32714,
+    "s285": 28168,
+    "s29": 30629,
+    "at": "2026-11-02"
    }
   },
   {
@@ -995,7 +989,7 @@
      "bid": false
     },
     "s25": {
-     "p": 36976,
+     "p": 36030,
      "url": "https://snkrdunk.com/products/555088-036",
      "bid": false
     },
@@ -1020,7 +1014,7 @@
      "bid": false
     },
     "s275": {
-     "p": 30500,
+     "p": 31900,
      "url": "https://snkrdunk.com/products/555088-036",
      "bid": false
     },
@@ -1030,12 +1024,12 @@
      "bid": false
     },
     "s285": {
-     "p": 35500,
+     "p": 35000,
      "url": "https://snkrdunk.com/products/555088-036",
      "bid": false
     },
     "s29": {
-     "p": 31900,
+     "p": 32000,
      "url": "https://snkrdunk.com/products/555088-036",
      "bid": false
     }
@@ -1043,19 +1037,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "555088-036",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 42720,
-    "s25": 40565,
-    "s255": 41115,
-    "s26": 34160,
+    "s25": 40554,
+    "s255": 41008,
+    "s26": 32020,
     "s265": 33090,
     "s27": 32020,
-    "s275": 35123,
-    "s28": 37583,
+    "s275": 33625,
+    "s28": 38119,
     "s285": 38975,
     "s29": 35123,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -1076,14 +1070,14 @@
     "s245": 63585,
     "s25": 29773,
     "s255": 16500,
-    "s26": 19501,
+    "s26": 19180,
     "s265": 17575,
-    "s27": 15970,
-    "s275": 17885,
-    "s28": 20785,
+    "s27": 16397,
+    "s275": 17554,
+    "s28": 21320,
     "s285": 21855,
     "s29": 24530,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 19250,
@@ -1100,32 +1094,32 @@
      "bid": false
     },
     "s255": {
-     "p": 22699,
+     "p": 18500,
      "url": "https://snkrdunk.com/products/555088-063",
      "bid": false
     },
     "s26": {
-     "p": 17000,
+     "p": 17299,
      "url": "https://snkrdunk.com/products/555088-063",
      "bid": false
     },
     "s265": {
-     "p": 15500,
+     "p": 15990,
      "url": "https://snkrdunk.com/products/555088-063",
      "bid": false
     },
     "s27": {
-     "p": 14399,
+     "p": 14380,
      "url": "https://snkrdunk.com/products/555088-063",
      "bid": false
     },
     "s275": {
-     "p": 15480,
+     "p": 15200,
      "url": "https://snkrdunk.com/products/555088-063",
      "bid": false
     },
     "s28": {
-     "p": 19000,
+     "p": 18500,
      "url": "https://snkrdunk.com/products/555088-063",
      "bid": false
     },
@@ -1135,12 +1129,12 @@
      "bid": false
     },
     "s29": {
-     "p": 22000,
+     "p": 20000,
      "url": "https://snkrdunk.com/products/555088-063",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "555088-063"
   },
@@ -1167,22 +1161,22 @@
      "bid": false
     },
     "s27": {
-     "p": 199819,
+     "p": 199757,
      "url": "https://snkrdunk.com/products/555088-101",
      "bid": false
     },
     "s275": {
-     "p": 154000,
+     "p": 168000,
      "url": "https://snkrdunk.com/products/555088-101",
      "bid": false
     },
     "s28": {
-     "p": 197900,
+     "p": 169999,
      "url": "https://snkrdunk.com/products/555088-101",
      "bid": false
     },
     "s285": {
-     "p": 224000,
+     "p": 221900,
      "url": "https://snkrdunk.com/products/555088-101",
      "bid": false
     },
@@ -1195,16 +1189,16 @@
    "src": "snk-fav",
    "yah": {},
    "id": "555088-101",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s26": 262070,
+    "s26": 256720,
     "s265": 233180,
-    "s27": 214850,
+    "s27": 214796,
     "s275": 165770,
     "s28": 212743,
-    "s285": 246020,
-    "s29": 203219,
-    "at": "2026-10-26"
+    "s285": 240670,
+    "s29": 203220,
+    "at": "2026-11-02"
    }
   },
   {
@@ -1225,22 +1219,22 @@
      "bid": false
     },
     "s25": {
-     "p": 52260,
+     "p": 51760,
      "url": "https://snkrdunk.com/products/555088-105",
      "bid": false
     },
     "s255": {
-     "p": 49998,
+     "p": 48800,
      "url": "https://snkrdunk.com/products/555088-105",
      "bid": false
     },
     "s26": {
-     "p": 40000,
+     "p": 39999,
      "url": "https://snkrdunk.com/products/555088-105",
      "bid": false
     },
     "s265": {
-     "p": 46300,
+     "p": 43999,
      "url": "https://snkrdunk.com/products/555088-105",
      "bid": false
     },
@@ -1250,17 +1244,17 @@
      "bid": false
     },
     "s275": {
-     "p": 43500,
+     "p": 43999,
      "url": "https://snkrdunk.com/products/555088-105",
      "bid": false
     },
     "s28": {
-     "p": 42640,
+     "p": 36995,
      "url": "https://snkrdunk.com/products/555088-105",
      "bid": false
     },
     "s285": {
-     "p": 42739,
+     "p": 38000,
      "url": "https://snkrdunk.com/products/555088-105",
      "bid": false
     },
@@ -1273,19 +1267,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "555088-105",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 268490,
-    "s25": 56939,
-    "s255": 49996,
-    "s26": 45909,
-    "s265": 50734,
+    "s25": 56908,
+    "s255": 54488,
+    "s26": 43790,
+    "s265": 50531,
     "s27": 44325,
-    "s275": 43778,
-    "s28": 46219,
-    "s285": 46775,
-    "s29": 45395,
-    "at": "2026-10-26"
+    "s275": 47535,
+    "s28": 46615,
+    "s285": 46721,
+    "s29": 48070,
+    "at": "2026-11-02"
    }
   },
   {
@@ -1300,11 +1294,6 @@
    "retailJpy": 18020,
    "sku": "555088-201",
    "snk": {
-    "s25": {
-     "p": 77327,
-     "url": "https://snkrdunk.com/products/555088-201",
-     "bid": false
-    },
     "s255": {
      "p": 64342,
      "url": "https://snkrdunk.com/products/555088-201",
@@ -1331,7 +1320,7 @@
      "bid": false
     },
     "s28": {
-     "p": 23000,
+     "p": 22500,
      "url": "https://snkrdunk.com/products/555088-201",
      "bid": false
     },
@@ -1349,7 +1338,7 @@
    "src": "snk-fav",
    "yah": {},
    "id": "555088-201",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 83730,
     "s255": 69836,
@@ -1360,7 +1349,7 @@
     "s28": 25600,
     "s285": 24530,
     "s29": 53117,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -1381,42 +1370,42 @@
      "bid": false
     },
     "s255": {
-     "p": 83765,
+     "p": 83761,
      "url": "https://snkrdunk.com/products/555088-610",
      "bid": false
     },
     "s26": {
-     "p": 47300,
+     "p": 46868,
      "url": "https://snkrdunk.com/products/555088-610",
      "bid": false
     },
     "s265": {
-     "p": 37980,
+     "p": 37800,
      "url": "https://snkrdunk.com/products/555088-610",
      "bid": false
     },
     "s27": {
-     "p": 39997,
+     "p": 39695,
      "url": "https://snkrdunk.com/products/555088-610",
      "bid": false
     },
     "s275": {
-     "p": 47000,
+     "p": 46000,
      "url": "https://snkrdunk.com/products/555088-610",
      "bid": false
     },
     "s28": {
-     "p": 36800,
+     "p": 36799,
      "url": "https://snkrdunk.com/products/555088-610",
      "bid": false
     },
     "s285": {
-     "p": 36000,
+     "p": 35000,
      "url": "https://snkrdunk.com/products/555088-610",
      "bid": false
     },
     "s29": {
-     "p": 36000,
+     "p": 35999,
      "url": "https://snkrdunk.com/products/555088-610",
      "bid": false
     }
@@ -1424,18 +1413,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "555088-610",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 97943,
     "s255": 90619,
     "s26": 51601,
     "s265": 41629,
-    "s27": 43789,
+    "s27": 43787,
     "s275": 51280,
     "s28": 40366,
-    "s285": 39831,
-    "s29": 38440,
-    "at": "2026-10-26"
+    "s285": 39510,
+    "s29": 39510,
+    "at": "2026-11-02"
    }
   },
   {
@@ -1464,11 +1453,11 @@
    "src": "snk-fav",
    "yah": {},
    "id": "611187-0003",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s275": 17040,
     "s29": 22390,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -1483,8 +1472,18 @@
    "retailJpy": 0,
    "sku": "909096-400",
    "snk": {
+    "s25": {
+     "p": 27508,
+     "url": "https://snkrdunk.com/products/909096-400",
+     "bid": false
+    },
+    "s265": {
+     "p": 23608,
+     "url": "https://snkrdunk.com/products/909096-400",
+     "bid": false
+    },
     "s27": {
-     "p": 32808,
+     "p": 32008,
      "url": "https://snkrdunk.com/products/909096-400",
      "bid": false
     }
@@ -1492,10 +1491,10 @@
    "src": "snk-fav",
    "yah": {},
    "id": "909096-400",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s27": 36844,
-    "at": "2026-10-26"
+    "s27": 36095,
+    "at": "2026-11-02"
    }
   },
   {
@@ -1509,54 +1508,54 @@
    "prev": {
     "s245": 36085,
     "s25": 38439,
-    "s255": 38975,
-    "s265": 42720,
-    "s275": 43790,
-    "s28": 41650,
+    "s255": 49022,
+    "s265": 49139,
+    "s275": 44859,
+    "s28": 41104,
     "s285": 44538,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 40700,
    "sku": "A08FW735-BLACK",
    "snk": {
     "s245": {
-     "p": 32799,
+     "p": 32500,
      "url": "https://snkrdunk.com/products/A08FW735-BLACK",
      "bid": false
     },
     "s25": {
-     "p": 34999,
+     "p": 34899,
      "url": "https://snkrdunk.com/products/A08FW735-BLACK",
      "bid": false
     },
     "s255": {
-     "p": 44890,
+     "p": 42899,
      "url": "https://snkrdunk.com/products/A08FW735-BLACK",
      "bid": false
     },
     "s265": {
-     "p": 44999,
+     "p": 41699,
      "url": "https://snkrdunk.com/products/A08FW735-BLACK",
      "bid": false
     },
     "s275": {
-     "p": 40999,
+     "p": 39199,
      "url": "https://snkrdunk.com/products/A08FW735-BLACK",
      "bid": false
     },
     "s28": {
-     "p": 37490,
+     "p": 36899,
      "url": "https://snkrdunk.com/products/A08FW735-BLACK",
      "bid": false
     },
     "s285": {
-     "p": 40699,
+     "p": 40666,
      "url": "https://snkrdunk.com/products/A08FW735-BLACK",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "A08FW735-BLACK"
   },
@@ -1573,27 +1572,27 @@
    "sku": "AA3834-100",
    "snk": {
     "s245": {
-     "p": 59790,
+     "p": 58000,
      "url": "https://snkrdunk.com/products/AA3834-100",
      "bid": false
     },
     "s25": {
-     "p": 52000,
+     "p": 51499,
      "url": "https://snkrdunk.com/products/AA3834-100",
      "bid": false
     },
     "s255": {
-     "p": 54500,
+     "p": 58888,
      "url": "https://snkrdunk.com/products/AA3834-100",
      "bid": false
     },
     "s26": {
-     "p": 64400,
+     "p": 63500,
      "url": "https://snkrdunk.com/products/AA3834-100",
      "bid": false
     },
     "s265": {
-     "p": 61500,
+     "p": 62000,
      "url": "https://snkrdunk.com/products/AA3834-100",
      "bid": false
     },
@@ -1603,12 +1602,12 @@
      "bid": false
     },
     "s275": {
-     "p": 59998,
+     "p": 59400,
      "url": "https://snkrdunk.com/products/AA3834-100",
      "bid": false
     },
     "s28": {
-     "p": 51800,
+     "p": 54000,
      "url": "https://snkrdunk.com/products/AA3834-100",
      "bid": false
     },
@@ -1618,7 +1617,7 @@
      "bid": false
     },
     "s29": {
-     "p": 53600,
+     "p": 52780,
      "url": "https://snkrdunk.com/products/AA3834-100",
      "bid": false
     }
@@ -1626,19 +1625,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "AA3834-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 64965,
     "s25": 56630,
     "s255": 59305,
-    "s26": 70529,
+    "s26": 69898,
     "s265": 66795,
-    "s27": 65189,
-    "s275": 64654,
-    "s28": 54704,
-    "s285": 56629,
-    "s29": 56630,
-    "at": "2026-10-26"
+    "s27": 65190,
+    "s275": 65188,
+    "s28": 56416,
+    "s285": 58770,
+    "s29": 58342,
+    "at": "2026-11-02"
    }
   },
   {
@@ -1664,32 +1663,32 @@
      "bid": false
     },
     "s265": {
-     "p": 603500,
+     "p": 598399,
      "url": "https://snkrdunk.com/products/AA3834-101",
      "bid": false
     },
     "s27": {
-     "p": 662000,
+     "p": 629990,
      "url": "https://snkrdunk.com/products/AA3834-101",
      "bid": false
     },
     "s275": {
-     "p": 614800,
+     "p": 614500,
      "url": "https://snkrdunk.com/products/AA3834-101",
      "bid": false
     },
     "s28": {
-     "p": 415000,
+     "p": 397899,
      "url": "https://snkrdunk.com/products/AA3834-101",
      "bid": false
     },
     "s285": {
-     "p": 500000,
+     "p": 498000,
      "url": "https://snkrdunk.com/products/AA3834-101",
      "bid": false
     },
     "s29": {
-     "p": 660000,
+     "p": 654999,
      "url": "https://snkrdunk.com/products/AA3834-101",
      "bid": false
     }
@@ -1697,17 +1696,17 @@
    "src": "snk-fav",
    "yah": {},
    "id": "AA3834-101",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 824676,
     "s255": 1026050,
-    "s265": 653689,
-    "s27": 717868,
+    "s265": 646735,
+    "s27": 709330,
     "s275": 658826,
-    "s28": 461090,
+    "s28": 445040,
     "s285": 535990,
     "s29": 707190,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -1724,11 +1723,6 @@
    "snk": {
     "s27": {
      "p": 45000,
-     "url": "https://snkrdunk.com/products/AJ5997-880",
-     "bid": false
-    },
-    "s275": {
-     "p": 50000,
      "url": "https://snkrdunk.com/products/AJ5997-880",
      "bid": false
     },
@@ -1751,14 +1745,14 @@
    "src": "snk-fav",
    "yah": {},
    "id": "AJ5997-880",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s27": 49140,
     "s275": 54490,
     "s28": 65123,
     "s285": 51810,
-    "s29": 38440,
-    "at": "2026-10-26"
+    "s29": 48070,
+    "at": "2026-11-02"
    }
   },
   {
@@ -1794,7 +1788,7 @@
      "bid": false
     },
     "s28": {
-     "p": 52500,
+     "p": 51500,
      "url": "https://snkrdunk.com/products/AJ6247-100",
      "bid": false
     },
@@ -1812,7 +1806,7 @@
    "src": "snk-fav",
    "yah": {},
    "id": "AJ6247-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s26": 156382,
     "s265": 136328,
@@ -1821,7 +1815,7 @@
     "s28": 57165,
     "s285": 65190,
     "s29": 148529,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -1839,9 +1833,9 @@
    "src": "snk-fav",
    "yah": {},
    "id": "AO1525-600",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -1859,9 +1853,9 @@
    "src": "snk-fav",
    "yah": {},
    "id": "AO1530-800",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -1892,7 +1886,7 @@
      "bid": false
     },
     "s26": {
-     "p": 185995,
+     "p": 185990,
      "url": "https://snkrdunk.com/products/AQ0818-148",
      "bid": false
     },
@@ -1902,17 +1896,17 @@
      "bid": false
     },
     "s27": {
-     "p": 249990,
+     "p": 240000,
      "url": "https://snkrdunk.com/products/AQ0818-148",
      "bid": false
     },
     "s275": {
-     "p": 205000,
+     "p": 204999,
      "url": "https://snkrdunk.com/products/AQ0818-148",
      "bid": false
     },
     "s28": {
-     "p": 159800,
+     "p": 243777,
      "url": "https://snkrdunk.com/products/AQ0818-148",
      "bid": false
     },
@@ -1930,19 +1924,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "AQ0818-148",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 236390,
-    "s25": 198940,
+    "s25": 533850,
     "s255": 309150,
-    "s26": 181818,
-    "s265": 310220,
-    "s27": 185029,
+    "s26": 200005,
+    "s265": 268489,
+    "s27": 268479,
     "s275": 220340,
-    "s28": 182890,
+    "s28": 171976,
     "s285": 225475,
     "s29": 321990,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -1981,13 +1975,13 @@
    "src": "snk-fav",
    "yah": {},
    "id": "AT4151-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s255": 32555,
     "s26": 43362,
     "s265": 74820,
     "s27": 43790,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -2005,24 +1999,24 @@
    "name": "adidas Samba OG",
    "order": 38,
    "prev": {
-    "s245": 14154,
+    "s245": 14096,
     "s25": 11600,
     "s255": 15603,
-    "s26": 15969,
-    "s265": 15968,
-    "s27": 16963,
+    "s26": 16380,
+    "s265": 17240,
+    "s27": 16936,
     "s275": 15177,
-    "s28": 15100,
+    "s28": 14665,
     "s285": 13722,
-    "s29": 15969,
-    "at": "2026-10-26"
+    "s29": 15113,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 15950,
    "sku": "B75807",
    "snk": {
     "s245": {
-     "p": 12249,
+     "p": 12248,
      "url": "https://snkrdunk.com/products/B75807",
      "bid": false
     },
@@ -2032,37 +2026,37 @@
      "bid": false
     },
     "s255": {
-     "p": 13657,
+     "p": 13997,
      "url": "https://snkrdunk.com/products/B75807",
      "bid": false
     },
     "s26": {
-     "p": 15679,
+     "p": 15369,
      "url": "https://snkrdunk.com/products/B75807",
      "bid": false
     },
     "s265": {
-     "p": 15187,
+     "p": 15186,
      "url": "https://snkrdunk.com/products/B75807",
      "bid": false
     },
     "s27": {
-     "p": 14903,
+     "p": 13998,
      "url": "https://snkrdunk.com/products/B75807",
      "bid": false
     },
     "s275": {
-     "p": 13259,
+     "p": 13258,
      "url": "https://snkrdunk.com/products/B75807",
      "bid": false
     },
     "s28": {
-     "p": 12780,
+     "p": 13400,
      "url": "https://snkrdunk.com/products/B75807",
      "bid": false
     },
     "s285": {
-     "p": 11899,
+     "p": 11500,
      "url": "https://snkrdunk.com/products/B75807",
      "bid": false
     },
@@ -2072,7 +2066,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s26": {
      "bid": false,
@@ -2102,9 +2096,9 @@
    "src": "snk-fav",
    "yah": {},
    "id": "BAPE-SKULL-STA-WHITE",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -2120,7 +2114,7 @@
    "sku": "BQ4422-400",
    "snk": {
     "s25": {
-     "p": 25000,
+     "p": 23500,
      "url": "https://snkrdunk.com/products/BQ4422-400",
      "bid": false
     },
@@ -2130,12 +2124,12 @@
      "bid": false
     },
     "s26": {
-     "p": 25500,
+     "p": 25000,
      "url": "https://snkrdunk.com/products/BQ4422-400",
      "bid": false
     },
     "s265": {
-     "p": 27500,
+     "p": 27400,
      "url": "https://snkrdunk.com/products/BQ4422-400",
      "bid": false
     },
@@ -2145,12 +2139,12 @@
      "bid": false
     },
     "s275": {
-     "p": 23500,
+     "p": 21499,
      "url": "https://snkrdunk.com/products/BQ4422-400",
      "bid": false
     },
     "s28": {
-     "p": 28490,
+     "p": 28000,
      "url": "https://snkrdunk.com/products/BQ4422-400",
      "bid": false
     },
@@ -2160,7 +2154,7 @@
      "bid": false
     },
     "s29": {
-     "p": 40000,
+     "p": 39000,
      "url": "https://snkrdunk.com/products/BQ4422-400",
      "bid": false
     }
@@ -2168,18 +2162,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "BQ4422-400",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s25": 28810,
+    "s25": 27740,
     "s255": 27408,
     "s26": 28275,
-    "s265": 31271,
+    "s265": 30415,
     "s27": 24851,
-    "s275": 26669,
-    "s28": 32951,
+    "s275": 26135,
+    "s28": 31474,
     "s285": 30415,
     "s29": 43790,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -2195,17 +2189,17 @@
    "sku": "BV1300-106",
    "snk": {
     "s245": {
-     "p": 105589,
+     "p": 105534,
      "url": "https://snkrdunk.com/products/BV1300-106",
      "bid": false
     },
     "s25": {
-     "p": 112000,
+     "p": 111000,
      "url": "https://snkrdunk.com/products/BV1300-106",
      "bid": false
     },
     "s255": {
-     "p": 99900,
+     "p": 99300,
      "url": "https://snkrdunk.com/products/BV1300-106",
      "bid": false
     },
@@ -2215,32 +2209,32 @@
      "bid": false
     },
     "s265": {
-     "p": 85000,
+     "p": 80000,
      "url": "https://snkrdunk.com/products/BV1300-106",
      "bid": false
     },
     "s27": {
-     "p": 95950,
+     "p": 94990,
      "url": "https://snkrdunk.com/products/BV1300-106",
      "bid": false
     },
     "s275": {
-     "p": 90000,
+     "p": 98999,
      "url": "https://snkrdunk.com/products/BV1300-106",
      "bid": false
     },
     "s28": {
-     "p": 100900,
+     "p": 99999,
      "url": "https://snkrdunk.com/products/BV1300-106",
      "bid": false
     },
     "s285": {
-     "p": 169200,
+     "p": 162500,
      "url": "https://snkrdunk.com/products/BV1300-106",
      "bid": false
     },
     "s29": {
-     "p": 189999,
+     "p": 179999,
      "url": "https://snkrdunk.com/products/BV1300-106",
      "bid": false
     }
@@ -2248,19 +2242,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "BV1300-106",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 114150,
+    "s245": 113970,
     "s25": 120830,
-    "s255": 113339,
-    "s26": 100285,
-    "s265": 95150,
-    "s27": 104244,
-    "s275": 96220,
-    "s28": 108525,
-    "s285": 182141,
-    "s29": 182890,
-    "at": "2026-10-26"
+    "s255": 107883,
+    "s26": 91510,
+    "s265": 91940,
+    "s27": 103657,
+    "s275": 97290,
+    "s28": 108953,
+    "s285": 182034,
+    "s29": 204289,
+    "at": "2026-11-02"
    }
   },
   {
@@ -2276,7 +2270,7 @@
    "sku": "BV1300-146",
    "snk": {
     "s245": {
-     "p": 185975,
+     "p": 185969,
      "url": "https://snkrdunk.com/products/BV1300-146",
      "bid": false
     },
@@ -2296,22 +2290,22 @@
      "bid": false
     },
     "s27": {
-     "p": 118000,
+     "p": 117500,
      "url": "https://snkrdunk.com/products/BV1300-146",
      "bid": false
     },
     "s275": {
-     "p": 120599,
+     "p": 119000,
      "url": "https://snkrdunk.com/products/BV1300-146",
      "bid": false
     },
     "s28": {
-     "p": 142999,
+     "p": 145000,
      "url": "https://snkrdunk.com/products/BV1300-146",
      "bid": false
     },
     "s285": {
-     "p": 153900,
+     "p": 164500,
      "url": "https://snkrdunk.com/products/BV1300-146",
      "bid": false
     },
@@ -2324,18 +2318,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "BV1300-146",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 199986,
+    "s245": 199983,
     "s25": 292778,
-    "s26": 113875,
+    "s26": 113874,
     "s265": 115480,
-    "s27": 129390,
-    "s275": 129176,
-    "s28": 145440,
-    "s285": 159349,
+    "s27": 127250,
+    "s275": 130031,
+    "s28": 153999,
+    "s285": 165663,
     "s29": 214990,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -2366,32 +2360,32 @@
      "bid": false
     },
     "s265": {
-     "p": 63000,
+     "p": 62000,
      "url": "https://snkrdunk.com/products/BY1604",
      "bid": false
     },
     "s27": {
-     "p": 44000,
+     "p": 43999,
      "url": "https://snkrdunk.com/products/BY1604",
      "bid": false
     },
     "s275": {
-     "p": 44800,
+     "p": 45000,
      "url": "https://snkrdunk.com/products/BY1604",
      "bid": false
     },
     "s28": {
-     "p": 42500,
+     "p": 39500,
      "url": "https://snkrdunk.com/products/BY1604",
      "bid": false
     },
     "s285": {
-     "p": 55500,
+     "p": 45000,
      "url": "https://snkrdunk.com/products/BY1604",
      "bid": false
     },
     "s29": {
-     "p": 49799,
+     "p": 66999,
      "url": "https://snkrdunk.com/products/BY1604",
      "bid": false
     }
@@ -2399,18 +2393,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "BY1604",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 59840,
     "s255": 129390,
     "s26": 54276,
-    "s265": 69469,
+    "s265": 68400,
     "s27": 48070,
-    "s275": 43790,
+    "s275": 48926,
     "s28": 46465,
     "s285": 60375,
     "s29": 54275,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -2427,12 +2421,12 @@
     "s255": 27526,
     "s26": 21320,
     "s265": 42505,
-    "s27": 24409,
+    "s27": 23460,
     "s275": 20142,
     "s28": 21852,
-    "s285": 20239,
-    "s29": 22282,
-    "at": "2026-10-26"
+    "s285": 20250,
+    "s29": 21320,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 19250,
@@ -2464,7 +2458,7 @@
      "bid": false
     },
     "s27": {
-     "p": 21000,
+     "p": 21888,
      "url": "https://snkrdunk.com/products/CD0461-601",
      "bid": false
     },
@@ -2484,12 +2478,12 @@
      "bid": false
     },
     "s29": {
-     "p": 19000,
+     "p": 19899,
      "url": "https://snkrdunk.com/products/CD0461-601",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "CD0461-601"
   },
@@ -2511,42 +2505,42 @@
      "bid": false
     },
     "s255": {
-     "p": 179090,
+     "p": 179041,
      "url": "https://snkrdunk.com/products/CD4487-100",
      "bid": false
     },
     "s26": {
-     "p": 150000,
+     "p": 148000,
      "url": "https://snkrdunk.com/products/CD4487-100",
      "bid": false
     },
     "s265": {
-     "p": 161350,
+     "p": 168895,
      "url": "https://snkrdunk.com/products/CD4487-100",
      "bid": false
     },
     "s27": {
-     "p": 172000,
+     "p": 172399,
      "url": "https://snkrdunk.com/products/CD4487-100",
      "bid": false
     },
     "s275": {
-     "p": 194999,
+     "p": 195000,
      "url": "https://snkrdunk.com/products/CD4487-100",
      "bid": false
     },
     "s28": {
-     "p": 165000,
+     "p": 191999,
      "url": "https://snkrdunk.com/products/CD4487-100",
      "bid": false
     },
     "s285": {
-     "p": 188900,
+     "p": 194000,
      "url": "https://snkrdunk.com/products/CD4487-100",
      "bid": false
     },
     "s29": {
-     "p": 215000,
+     "p": 214800,
      "url": "https://snkrdunk.com/products/CD4487-100",
      "bid": false
     }
@@ -2554,18 +2548,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CD4487-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s25": 241205,
-    "s255": 192652,
-    "s26": 165770,
-    "s265": 183425,
-    "s27": 196800,
+    "s25": 240670,
+    "s255": 192616,
+    "s26": 161490,
+    "s265": 173635,
+    "s27": 185030,
     "s275": 209639,
-    "s28": 178610,
-    "s285": 187170,
-    "s29": 233180,
-    "at": "2026-10-26"
+    "s28": 177540,
+    "s285": 203113,
+    "s29": 231040,
+    "at": "2026-11-02"
    }
   },
   {
@@ -2624,17 +2618,17 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CJ5291-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s255": 54490,
     "s26": 22358,
-    "s265": 24530,
+    "s265": 24402,
     "s27": 17040,
     "s275": 19714,
     "s28": 24530,
-    "s285": 25600,
+    "s285": 25599,
     "s29": 97290,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -2660,7 +2654,7 @@
      "bid": false
     },
     "s27": {
-     "p": 19689,
+     "p": 21000,
      "url": "https://snkrdunk.com/products/CJ5291-100",
      "bid": false
     },
@@ -2670,7 +2664,7 @@
      "bid": false
     },
     "s28": {
-     "p": 18900,
+     "p": 35800,
      "url": "https://snkrdunk.com/products/CJ5291-100",
      "bid": false
     },
@@ -2688,16 +2682,16 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CJ5291-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s26": 27740,
     "s265": 26028,
     "s27": 22057,
     "s275": 22389,
-    "s28": 22283,
+    "s28": 21213,
     "s285": 26456,
     "s29": 45930,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -2713,7 +2707,7 @@
    "sku": "CK6637-002",
    "snk": {
     "s25": {
-     "p": 50827,
+     "p": 55208,
      "url": "https://snkrdunk.com/products/CK6637-002",
      "bid": false
     },
@@ -2723,7 +2717,7 @@
      "bid": false
     },
     "s26": {
-     "p": 29327,
+     "p": 500580,
      "url": "https://snkrdunk.com/products/CK6637-002",
      "bid": false
     },
@@ -2761,7 +2755,7 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CK6637-002",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 55375,
     "s255": 40708,
@@ -2772,7 +2766,7 @@
     "s28": 33079,
     "s285": 28810,
     "s29": 22390,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -2831,16 +2825,17 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CM996FMG-TOTE",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 35230,
+    "s25": 54490,
     "s255": 60434,
     "s26": 59305,
     "s27": 71134,
     "s275": 52349,
     "s285": 49140,
-    "s29": 45930,
-    "at": "2026-10-26"
+    "s29": 40366,
+    "at": "2026-11-02"
    }
   },
   {
@@ -2894,7 +2889,7 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CM996FMS-TOTE",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 86590,
     "s26": 86590,
@@ -2903,7 +2898,7 @@
     "s275": 65190,
     "s28": 107990,
     "s29": 48926,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -2929,32 +2924,32 @@
      "bid": false
     },
     "s26": {
-     "p": 269000,
+     "p": 250000,
      "url": "https://snkrdunk.com/products/CQ4277-001",
      "bid": false
     },
     "s265": {
-     "p": 229000,
+     "p": 240000,
      "url": "https://snkrdunk.com/products/CQ4277-001",
      "bid": false
     },
     "s27": {
-     "p": 294900,
+     "p": 289500,
      "url": "https://snkrdunk.com/products/CQ4277-001",
      "bid": false
     },
     "s275": {
-     "p": 291880,
+     "p": 299998,
      "url": "https://snkrdunk.com/products/CQ4277-001",
      "bid": false
     },
     "s28": {
-     "p": 294000,
+     "p": 328980,
      "url": "https://snkrdunk.com/products/CQ4277-001",
      "bid": false
     },
     "s285": {
-     "p": 323000,
+     "p": 310000,
      "url": "https://snkrdunk.com/products/CQ4277-001",
      "bid": false
     },
@@ -2967,18 +2962,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CQ4277-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 1070990,
     "s255": 428990,
-    "s26": 292030,
-    "s265": 262070,
-    "s27": 305940,
-    "s275": 271700,
-    "s28": 311290,
-    "s285": 316105,
-    "s29": 332690,
-    "at": "2026-10-26"
+    "s26": 288820,
+    "s265": 246020,
+    "s27": 316533,
+    "s275": 313302,
+    "s28": 315570,
+    "s285": 346600,
+    "s29": 354090,
+    "at": "2026-11-02"
    }
   },
   {
@@ -2993,11 +2988,6 @@
    "retailJpy": 15400,
    "sku": "CT0978-600",
    "snk": {
-    "s25": {
-     "p": 40000,
-     "url": "https://snkrdunk.com/products/CT0978-600",
-     "bid": false
-    },
     "s26": {
      "p": 39000,
      "url": "https://snkrdunk.com/products/CT0978-600",
@@ -3024,7 +3014,7 @@
      "bid": false
     },
     "s285": {
-     "p": 17500,
+     "p": 17000,
      "url": "https://snkrdunk.com/products/CT0978-600",
      "bid": false
     },
@@ -3037,7 +3027,7 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CT0978-600",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 43790,
     "s26": 42720,
@@ -3045,9 +3035,9 @@
     "s27": 26456,
     "s275": 53108,
     "s28": 33090,
-    "s285": 21320,
+    "s285": 19715,
     "s29": 40580,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -3073,7 +3063,7 @@
      "bid": false
     },
     "s265": {
-     "p": 67174,
+     "p": 66727,
      "url": "https://snkrdunk.com/products/CT0979-001",
      "bid": false
     },
@@ -3091,13 +3081,14 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CT0979-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 43779,
     "s26": 38440,
     "s265": 72866,
+    "s275": 19180,
     "s29": 54479,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -3123,7 +3114,7 @@
      "bid": false
     },
     "s275": {
-     "p": 33800,
+     "p": 33000,
      "url": "https://snkrdunk.com/products/CT0979-100",
      "bid": false
     },
@@ -3141,14 +3132,14 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CT0979-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 21320,
     "s27": 54490,
     "s275": 37156,
     "s285": 38440,
     "s29": 37892,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -3194,7 +3185,7 @@
      "bid": false
     },
     "s285": {
-     "p": 20779,
+     "p": 20500,
      "url": "https://snkrdunk.com/products/CT0979-107",
      "bid": false
     },
@@ -3207,7 +3198,7 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CT0979-107",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 31651,
     "s255": 39014,
@@ -3217,7 +3208,7 @@
     "s28": 27740,
     "s285": 23224,
     "s29": 28810,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -3261,14 +3252,14 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CT0979-602",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s265": 41650,
     "s27": 54276,
     "s275": 29666,
     "s28": 42399,
     "s285": 37841,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -3284,12 +3275,12 @@
    "sku": "CT1689-001",
    "snk": {
     "s245": {
-     "p": 60700,
+     "p": 41600,
      "url": "https://snkrdunk.com/products/CT1689-001",
      "bid": false
     },
     "s25": {
-     "p": 30000,
+     "p": 29800,
      "url": "https://snkrdunk.com/products/CT1689-001",
      "bid": false
     },
@@ -3299,22 +3290,22 @@
      "bid": false
     },
     "s26": {
-     "p": 36950,
+     "p": 34999,
      "url": "https://snkrdunk.com/products/CT1689-001",
      "bid": false
     },
     "s265": {
-     "p": 39200,
+     "p": 39199,
      "url": "https://snkrdunk.com/products/CT1689-001",
      "bid": false
     },
     "s27": {
-     "p": 37000,
+     "p": 40000,
      "url": "https://snkrdunk.com/products/CT1689-001",
      "bid": false
     },
     "s275": {
-     "p": 36996,
+     "p": 36500,
      "url": "https://snkrdunk.com/products/CT1689-001",
      "bid": false
     },
@@ -3324,12 +3315,12 @@
      "bid": false
     },
     "s285": {
-     "p": 41500,
+     "p": 35990,
      "url": "https://snkrdunk.com/products/CT1689-001",
      "bid": false
     },
     "s29": {
-     "p": 37980,
+     "p": 37990,
      "url": "https://snkrdunk.com/products/CT1689-001",
      "bid": false
     }
@@ -3337,19 +3328,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CT1689-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 65939,
     "s25": 33090,
-    "s255": 37156,
-    "s26": 41650,
-    "s265": 43255,
-    "s27": 43790,
-    "s275": 40575,
-    "s28": 46465,
-    "s285": 49140,
-    "s29": 43682,
-    "at": "2026-10-26"
+    "s255": 43790,
+    "s26": 40527,
+    "s265": 42934,
+    "s27": 40580,
+    "s275": 40576,
+    "s28": 43790,
+    "s285": 45395,
+    "s29": 41629,
+    "at": "2026-11-02"
    }
   },
   {
@@ -3365,12 +3356,12 @@
    "sku": "CT4594-400",
    "snk": {
     "s25": {
-     "p": 67420,
+     "p": 67027,
      "url": "https://snkrdunk.com/products/CT4594-400",
      "bid": false
     },
     "s255": {
-     "p": 51700,
+     "p": 49900,
      "url": "https://snkrdunk.com/products/CT4594-400",
      "bid": false
     },
@@ -3385,12 +3376,12 @@
      "bid": false
     },
     "s27": {
-     "p": 34473,
+     "p": 34472,
      "url": "https://snkrdunk.com/products/CT4594-400",
      "bid": false
     },
     "s275": {
-     "p": 39800,
+     "p": 39760,
      "url": "https://snkrdunk.com/products/CT4594-400",
      "bid": false
     },
@@ -3408,17 +3399,17 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CT4594-400",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 73129,
-    "s255": 58128,
+    "s255": 56309,
     "s26": 35016,
     "s265": 33090,
     "s27": 37876,
     "s275": 43576,
     "s28": 49140,
     "s285": 40580,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -3444,14 +3435,14 @@
     "s245": 44796,
     "s25": 29880,
     "s255": 22000,
-    "s26": 23246,
-    "s265": 23994,
-    "s27": 21640,
-    "s275": 23341,
+    "s26": 22925,
+    "s265": 23995,
+    "s27": 21855,
+    "s275": 21855,
     "s28": 26456,
     "s285": 27740,
     "s29": 30415,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 24200,
@@ -3463,7 +3454,7 @@
      "bid": false
     },
     "s25": {
-     "p": 27000,
+     "p": 25000,
      "url": "https://snkrdunk.com/products/CT8529-106",
      "bid": false
     },
@@ -3478,17 +3469,17 @@
      "bid": false
     },
     "s265": {
-     "p": 21500,
+     "p": 21800,
      "url": "https://snkrdunk.com/products/CT8529-106",
      "bid": false
     },
     "s27": {
-     "p": 19500,
+     "p": 19200,
      "url": "https://snkrdunk.com/products/CT8529-106",
      "bid": false
     },
     "s275": {
-     "p": 19500,
+     "p": 20889,
      "url": "https://snkrdunk.com/products/CT8529-106",
      "bid": false
     },
@@ -3498,7 +3489,7 @@
      "bid": false
     },
     "s285": {
-     "p": 25000,
+     "p": 22800,
      "url": "https://snkrdunk.com/products/CT8529-106",
      "bid": false
     },
@@ -3508,7 +3499,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "CT8529-106"
   },
@@ -3532,16 +3523,16 @@
    "name": "Air Jordan 6",
    "order": 12,
    "prev": {
-    "s25": 19180,
+    "s25": 21319,
     "s255": 20224,
-    "s26": 21213,
+    "s26": 21320,
     "s265": 20678,
-    "s27": 18966,
-    "s275": 18110,
-    "s28": 19715,
+    "s27": 18645,
+    "s275": 18003,
+    "s28": 19448,
     "s285": 17000,
-    "s29": 24316,
-    "at": "2026-10-26"
+    "s29": 24315,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 25300,
@@ -3568,7 +3559,7 @@
      "bid": false
     },
     "s27": {
-     "p": 16500,
+     "p": 16200,
      "url": "https://snkrdunk.com/products/CT8529-410",
      "bid": false
     },
@@ -3578,7 +3569,7 @@
      "bid": false
     },
     "s28": {
-     "p": 17250,
+     "p": 17200,
      "url": "https://snkrdunk.com/products/CT8529-410",
      "bid": false
     },
@@ -3588,12 +3579,12 @@
      "bid": false
     },
     "s29": {
-     "p": 21799,
+     "p": 21700,
      "url": "https://snkrdunk.com/products/CT8529-410",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -3623,11 +3614,11 @@
     "s26": 14900,
     "s265": 22176,
     "s27": 20207,
-    "s275": 22163,
+    "s275": 22121,
     "s28": 15600,
     "s285": 19180,
     "s29": 28810,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 19200,
@@ -3659,12 +3650,12 @@
      "bid": false
     },
     "s27": {
-     "p": 17960,
+     "p": 10500,
      "url": "https://snkrdunk.com/products/CU1727-700",
      "bid": false
     },
     "s275": {
-     "p": 19749,
+     "p": 19722,
      "url": "https://snkrdunk.com/products/CU1727-700",
      "bid": false
     },
@@ -3684,7 +3675,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s28": {
      "bid": false,
@@ -3712,32 +3703,32 @@
      "bid": false
     },
     "s25": {
-     "p": 181500,
+     "p": 180800,
      "url": "https://snkrdunk.com/products/CU3244-100",
      "bid": false
     },
     "s255": {
-     "p": 214500,
+     "p": 212000,
      "url": "https://snkrdunk.com/products/CU3244-100",
      "bid": false
     },
     "s26": {
-     "p": 129800,
+     "p": 130000,
      "url": "https://snkrdunk.com/products/CU3244-100",
      "bid": false
     },
     "s265": {
-     "p": 166500,
+     "p": 169000,
      "url": "https://snkrdunk.com/products/CU3244-100",
      "bid": false
     },
     "s27": {
-     "p": 175649,
+     "p": 175000,
      "url": "https://snkrdunk.com/products/CU3244-100",
      "bid": false
     },
     "s275": {
-     "p": 185000,
+     "p": 189000,
      "url": "https://snkrdunk.com/products/CU3244-100",
      "bid": false
     },
@@ -3760,19 +3751,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CU3244-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 268490,
     "s25": 195195,
     "s255": 230505,
     "s26": 139876,
-    "s265": 181820,
-    "s27": 189041,
-    "s275": 204290,
+    "s265": 179145,
+    "s27": 188934,
+    "s275": 198940,
     "s28": 236390,
-    "s285": 225690,
+    "s285": 214990,
     "s29": 343390,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -3798,7 +3789,7 @@
      "bid": false
     },
     "s255": {
-     "p": 61335,
+     "p": 56700,
      "url": "https://snkrdunk.com/products/CU6015-700",
      "bid": false
     },
@@ -3818,17 +3809,17 @@
      "bid": false
     },
     "s275": {
-     "p": 37000,
+     "p": 35000,
      "url": "https://snkrdunk.com/products/CU6015-700",
      "bid": false
     },
     "s28": {
-     "p": 36000,
+     "p": 33000,
      "url": "https://snkrdunk.com/products/CU6015-700",
      "bid": false
     },
     "s285": {
-     "p": 37700,
+     "p": 30000,
      "url": "https://snkrdunk.com/products/CU6015-700",
      "bid": false
     },
@@ -3841,19 +3832,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CU6015-700",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 76103,
+    "s245": 71502,
     "s25": 54490,
     "s255": 66618,
     "s26": 32020,
     "s265": 37263,
     "s27": 38867,
-    "s275": 36300,
-    "s28": 40366,
+    "s275": 40580,
+    "s28": 39510,
     "s285": 41329,
     "s29": 85744,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -3884,7 +3875,7 @@
      "bid": false
     },
     "s26": {
-     "p": 28600,
+     "p": 25000,
      "url": "https://snkrdunk.com/products/CU7544-300",
      "bid": false
     },
@@ -3894,7 +3885,7 @@
      "bid": false
     },
     "s27": {
-     "p": 24800,
+     "p": 27000,
      "url": "https://snkrdunk.com/products/CU7544-300",
      "bid": false
     },
@@ -3922,19 +3913,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CU7544-300",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 70496,
     "s25": 43779,
-    "s255": 30949,
-    "s26": 34053,
-    "s265": 32448,
-    "s27": 28810,
+    "s255": 29880,
+    "s26": 31592,
+    "s265": 32555,
+    "s27": 27526,
     "s275": 28275,
     "s28": 33089,
     "s285": 35765,
-    "s29": 31806,
-    "at": "2026-10-26"
+    "s29": 32555,
+    "at": "2026-11-02"
    }
   },
   {
@@ -3973,13 +3964,13 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CU9080-002",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s26": 115384,
     "s275": 97290,
     "s28": 81240,
-    "s29": 159397,
-    "at": "2026-10-26"
+    "s29": 146201,
+    "at": "2026-11-02"
    }
   },
   {
@@ -3995,17 +3986,17 @@
    "sku": "CU9225-001",
    "snk": {
     "s245": {
-     "p": 19989,
+     "p": 19988,
      "url": "https://snkrdunk.com/products/CU9225-001",
      "bid": false
     },
     "s25": {
-     "p": 19800,
+     "p": 19779,
      "url": "https://snkrdunk.com/products/CU9225-001",
      "bid": false
     },
     "s255": {
-     "p": 18000,
+     "p": 19799,
      "url": "https://snkrdunk.com/products/CU9225-001",
      "bid": false
     },
@@ -4015,32 +4006,32 @@
      "bid": false
     },
     "s265": {
-     "p": 19789,
+     "p": 19748,
      "url": "https://snkrdunk.com/products/CU9225-001",
      "bid": false
     },
     "s27": {
-     "p": 19700,
+     "p": 19985,
      "url": "https://snkrdunk.com/products/CU9225-001",
      "bid": false
     },
     "s275": {
-     "p": 19500,
+     "p": 19800,
      "url": "https://snkrdunk.com/products/CU9225-001",
      "bid": false
     },
     "s28": {
-     "p": 19699,
+     "p": 19496,
      "url": "https://snkrdunk.com/products/CU9225-001",
      "bid": false
     },
     "s285": {
-     "p": 19500,
+     "p": 19798,
      "url": "https://snkrdunk.com/products/CU9225-001",
      "bid": false
     },
     "s29": {
-     "p": 19869,
+     "p": 19985,
      "url": "https://snkrdunk.com/products/CU9225-001",
      "bid": false
     }
@@ -4048,19 +4039,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CU9225-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 22378,
     "s25": 22176,
-    "s255": 21213,
-    "s26": 21854,
-    "s265": 22176,
-    "s27": 22283,
-    "s275": 21533,
-    "s28": 21854,
-    "s285": 21320,
-    "s29": 22594,
-    "at": "2026-10-26"
+    "s255": 20250,
+    "s26": 21748,
+    "s265": 22164,
+    "s27": 22069,
+    "s275": 21855,
+    "s28": 22068,
+    "s285": 21855,
+    "s29": 22250,
+    "at": "2026-11-02"
    }
   },
   {
@@ -4076,52 +4067,52 @@
    "sku": "CU9225-100",
    "snk": {
     "s245": {
-     "p": 19499,
+     "p": 19833,
      "url": "https://snkrdunk.com/products/CU9225-100",
      "bid": false
     },
     "s25": {
-     "p": 19600,
+     "p": 19680,
      "url": "https://snkrdunk.com/products/CU9225-100",
      "bid": false
     },
     "s255": {
-     "p": 19795,
+     "p": 19749,
      "url": "https://snkrdunk.com/products/CU9225-100",
      "bid": false
     },
     "s26": {
-     "p": 19827,
+     "p": 19899,
      "url": "https://snkrdunk.com/products/CU9225-100",
      "bid": false
     },
     "s265": {
-     "p": 19889,
+     "p": 19914,
      "url": "https://snkrdunk.com/products/CU9225-100",
      "bid": false
     },
     "s27": {
-     "p": 19993,
+     "p": 19600,
      "url": "https://snkrdunk.com/products/CU9225-100",
      "bid": false
     },
     "s275": {
-     "p": 18800,
+     "p": 19798,
      "url": "https://snkrdunk.com/products/CU9225-100",
      "bid": false
     },
     "s28": {
-     "p": 19652,
+     "p": 19818,
      "url": "https://snkrdunk.com/products/CU9225-100",
      "bid": false
     },
     "s285": {
-     "p": 19800,
+     "p": 19789,
      "url": "https://snkrdunk.com/products/CU9225-100",
      "bid": false
     },
     "s29": {
-     "p": 19914,
+     "p": 19886,
      "url": "https://snkrdunk.com/products/CU9225-100",
      "bid": false
     }
@@ -4129,19 +4120,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CU9225-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 22421,
-    "s25": 21941,
-    "s255": 22174,
-    "s26": 21727,
-    "s265": 21855,
-    "s27": 22259,
-    "s275": 22175,
-    "s28": 21962,
-    "s285": 21854,
-    "s29": 22604,
-    "at": "2026-10-26"
+    "s245": 21854,
+    "s25": 21962,
+    "s255": 22171,
+    "s26": 22205,
+    "s265": 22271,
+    "s27": 22383,
+    "s275": 21106,
+    "s28": 22018,
+    "s285": 22176,
+    "s29": 22298,
+    "at": "2026-11-02"
    }
   },
   {
@@ -4180,13 +4171,13 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CV5276-107",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s255": 32051,
     "s26": 32525,
     "s27": 19073,
     "s29": 32314,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -4240,16 +4231,16 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CW4039-300",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s26": 34144,
     "s265": 27740,
-    "s27": 22390,
+    "s27": 23460,
     "s275": 25279,
     "s28": 38440,
-    "s285": 39508,
+    "s285": 39499,
     "s29": 28810,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -4293,14 +4284,14 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CW4039-800",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s26": 26456,
     "s265": 23460,
     "s27": 21737,
     "s275": 21748,
     "s28": 27740,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -4315,14 +4306,14 @@
     "s245": 52081,
     "s25": 25493,
     "s255": 22390,
-    "s26": 18110,
-    "s265": 18645,
+    "s26": 17575,
+    "s265": 19180,
     "s27": 15970,
-    "s275": 17896,
-    "s28": 17019,
-    "s285": 18110,
-    "s29": 18538,
-    "at": "2026-10-26"
+    "s275": 15970,
+    "s28": 18431,
+    "s285": 15435,
+    "s29": 18859,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 17600,
@@ -4344,42 +4335,42 @@
      "bid": false
     },
     "s26": {
-     "p": 15500,
+     "p": 14500,
      "url": "https://snkrdunk.com/products/CZ0790-001",
      "bid": false
     },
     "s265": {
-     "p": 17000,
+     "p": 16900,
      "url": "https://snkrdunk.com/products/CZ0790-001",
      "bid": false
     },
     "s27": {
-     "p": 14000,
+     "p": 13900,
      "url": "https://snkrdunk.com/products/CZ0790-001",
      "bid": false
     },
     "s275": {
-     "p": 14000,
+     "p": 12599,
      "url": "https://snkrdunk.com/products/CZ0790-001",
      "bid": false
     },
     "s28": {
-     "p": 16300,
+     "p": 16400,
      "url": "https://snkrdunk.com/products/CZ0790-001",
      "bid": false
     },
     "s285": {
-     "p": 13500,
+     "p": 16000,
      "url": "https://snkrdunk.com/products/CZ0790-001",
      "bid": false
     },
     "s29": {
-     "p": 16700,
+     "p": 16666,
      "url": "https://snkrdunk.com/products/CZ0790-001",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "CZ0790-001"
   },
@@ -4399,16 +4390,16 @@
    "order": 30,
    "prev": {
     "s245": 38440,
-    "s25": 26670,
+    "s25": 27205,
     "s255": 22604,
-    "s26": 23454,
-    "s265": 20036,
+    "s26": 23439,
+    "s265": 20143,
     "s27": 17574,
-    "s275": 14898,
-    "s28": 14579,
+    "s275": 14900,
+    "s28": 14675,
     "s285": 13500,
-    "s29": 17896,
-    "at": "2026-10-26"
+    "s29": 17575,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 20900,
@@ -4425,7 +4416,7 @@
      "bid": false
     },
     "s255": {
-     "p": 20200,
+     "p": 20000,
      "url": "https://snkrdunk.com/products/CZ0790-003",
      "bid": false
     },
@@ -4435,7 +4426,7 @@
      "bid": false
     },
     "s265": {
-     "p": 17900,
+     "p": 18740,
      "url": "https://snkrdunk.com/products/CZ0790-003",
      "bid": false
     },
@@ -4445,12 +4436,12 @@
      "bid": false
     },
     "s275": {
-     "p": 13000,
+     "p": 15999,
      "url": "https://snkrdunk.com/products/CZ0790-003",
      "bid": false
     },
     "s28": {
-     "p": 12790,
+     "p": 14998,
      "url": "https://snkrdunk.com/products/CZ0790-003",
      "bid": false
     },
@@ -4460,12 +4451,12 @@
      "bid": false
     },
     "s29": {
-     "p": 15500,
+     "p": 15200,
      "url": "https://snkrdunk.com/products/CZ0790-003",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -4490,17 +4481,17 @@
    "name": "Air Jordan 1 Retro Low OG",
    "order": 32,
    "prev": {
-    "s245": 45194,
+    "s245": 45185,
     "s25": 22390,
     "s255": 20250,
     "s26": 19179,
     "s265": 20036,
     "s27": 15756,
     "s275": 14200,
-    "s28": 12332,
+    "s28": 11690,
     "s285": 13828,
-    "s29": 15756,
-    "at": "2026-10-26"
+    "s29": 15114,
+    "at": "2026-11-02"
    },
    "rak": {
     "s28": {
@@ -4513,7 +4504,7 @@
    "sku": "CZ0790-140",
    "snk": {
     "s245": {
-     "p": 41304,
+     "p": 40361,
      "url": "https://snkrdunk.com/products/CZ0790-140",
      "bid": false
     },
@@ -4538,7 +4529,7 @@
      "bid": false
     },
     "s27": {
-     "p": 13800,
+     "p": 13500,
      "url": "https://snkrdunk.com/products/CZ0790-140",
      "bid": false
     },
@@ -4548,7 +4539,7 @@
      "bid": false
     },
     "s28": {
-     "p": 10000,
+     "p": 10599,
      "url": "https://snkrdunk.com/products/CZ0790-140",
      "bid": false
     },
@@ -4558,12 +4549,12 @@
      "bid": false
     },
     "s29": {
-     "p": 13200,
+     "p": 14450,
      "url": "https://snkrdunk.com/products/CZ0790-140",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -4595,6 +4586,11 @@
      "url": "https://snkrdunk.com/products/CZ1360-401",
      "bid": false
     },
+    "s25": {
+     "p": 39119,
+     "url": "https://snkrdunk.com/products/CZ1360-401",
+     "bid": false
+    },
     "s255": {
      "p": 30000,
      "url": "https://snkrdunk.com/products/CZ1360-401",
@@ -4610,8 +4606,13 @@
      "url": "https://snkrdunk.com/products/CZ1360-401",
      "bid": false
     },
+    "s27": {
+     "p": 46477,
+     "url": "https://snkrdunk.com/products/CZ1360-401",
+     "bid": false
+    },
     "s275": {
-     "p": 15000,
+     "p": 26980,
      "url": "https://snkrdunk.com/products/CZ1360-401",
      "bid": false
     },
@@ -4634,17 +4635,17 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CZ1360-401",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 27062,
     "s255": 33090,
     "s26": 22818,
     "s265": 27740,
-    "s275": 29859,
+    "s275": 17040,
     "s28": 27205,
     "s285": 27740,
     "s29": 27526,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -4663,7 +4664,7 @@
    "order": 26,
    "prev": {
     "s25": 64307,
-    "s255": 26670,
+    "s255": 27526,
     "s26": 26670,
     "s265": 26349,
     "s27": 26670,
@@ -4671,7 +4672,7 @@
     "s28": 27740,
     "s285": 66209,
     "s29": 53206,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 25300,
@@ -4723,7 +4724,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "CZ5725-700"
   },
@@ -4749,17 +4750,17 @@
     "s265": 13295,
     "s27": 11155,
     "s275": 11000,
-    "s28": 12545,
+    "s28": 12546,
     "s285": 15863,
     "s29": 13616,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
    "sku": "CZ8149-002",
    "snk": {
     "s245": {
-     "p": 33500,
+     "p": 33100,
      "url": "https://snkrdunk.com/products/CZ8149-002",
      "bid": false
     },
@@ -4809,7 +4810,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "CZ8149-002"
   },
@@ -4826,7 +4827,7 @@
    "sku": "CZ8149-700",
    "snk": {
     "s245": {
-     "p": 28200,
+     "p": 27800,
      "url": "https://snkrdunk.com/products/CZ8149-700",
      "bid": false
     },
@@ -4856,7 +4857,7 @@
      "bid": false
     },
     "s275": {
-     "p": 16150,
+     "p": 16149,
      "url": "https://snkrdunk.com/products/CZ8149-700",
      "bid": false
     },
@@ -4879,7 +4880,7 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CZ8149-700",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 31164,
     "s25": 28061,
@@ -4887,11 +4888,11 @@
     "s26": 15949,
     "s265": 17896,
     "s27": 18966,
-    "s275": 18321,
-    "s28": 19179,
+    "s275": 18270,
+    "s28": 18110,
     "s285": 18645,
     "s29": 22925,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -4907,7 +4908,7 @@
    "sku": "CZ9084-001",
    "snk": {
     "s245": {
-     "p": 120400,
+     "p": 118900,
      "url": "https://snkrdunk.com/products/CZ9084-001",
      "bid": false
     },
@@ -4922,7 +4923,7 @@
      "bid": false
     },
     "s26": {
-     "p": 61000,
+     "p": 60000,
      "url": "https://snkrdunk.com/products/CZ9084-001",
      "bid": false
     },
@@ -4937,7 +4938,7 @@
      "bid": false
     },
     "s275": {
-     "p": 68000,
+     "p": 66000,
      "url": "https://snkrdunk.com/products/CZ9084-001",
      "bid": false
     },
@@ -4947,7 +4948,7 @@
      "bid": false
     },
     "s285": {
-     "p": 58000,
+     "p": 57500,
      "url": "https://snkrdunk.com/products/CZ9084-001",
      "bid": false
     },
@@ -4960,19 +4961,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CZ9084-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 129818,
-    "s25": 78030,
+    "s25": 78029,
     "s255": 77845,
     "s26": 66260,
     "s265": 95150,
     "s27": 73215,
-    "s275": 75890,
+    "s275": 73750,
     "s28": 73536,
     "s285": 63050,
     "s29": 48070,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -4988,12 +4989,12 @@
    "sku": "CZ9084-200",
    "snk": {
     "s245": {
-     "p": 88000,
+     "p": 87000,
      "url": "https://snkrdunk.com/products/CZ9084-200",
      "bid": false
     },
     "s25": {
-     "p": 58000,
+     "p": 55000,
      "url": "https://snkrdunk.com/products/CZ9084-200",
      "bid": false
     },
@@ -5003,7 +5004,7 @@
      "bid": false
     },
     "s26": {
-     "p": 41000,
+     "p": 37800,
      "url": "https://snkrdunk.com/products/CZ9084-200",
      "bid": false
     },
@@ -5018,7 +5019,7 @@
      "bid": false
     },
     "s275": {
-     "p": 45500,
+     "p": 43000,
      "url": "https://snkrdunk.com/products/CZ9084-200",
      "bid": false
     },
@@ -5033,7 +5034,7 @@
      "bid": false
     },
     "s29": {
-     "p": 39800,
+     "p": 57500,
      "url": "https://snkrdunk.com/products/CZ9084-200",
      "bid": false
     }
@@ -5041,19 +5042,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "CZ9084-200",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 104138,
+    "s245": 95150,
     "s25": 63050,
     "s255": 50745,
     "s26": 44860,
-    "s265": 61979,
-    "s27": 64655,
-    "s275": 54489,
+    "s265": 57700,
+    "s27": 64869,
+    "s275": 49675,
     "s28": 48284,
     "s285": 65190,
-    "s29": 54276,
-    "at": "2026-10-26"
+    "s29": 43576,
+    "at": "2026-11-02"
    }
   },
   {
@@ -5094,12 +5095,12 @@
      "bid": false
     },
     "s275": {
-     "p": 18000,
+     "p": 17700,
      "url": "https://snkrdunk.com/products/DA9089-100",
      "bid": false
     },
     "s28": {
-     "p": 18500,
+     "p": 18000,
      "url": "https://snkrdunk.com/products/DA9089-100",
      "bid": false
     },
@@ -5117,18 +5118,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DA9089-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 37263,
     "s255": 35015,
     "s26": 26670,
     "s265": 21320,
     "s27": 20250,
-    "s275": 20357,
+    "s275": 20250,
     "s28": 20785,
-    "s285": 17896,
+    "s285": 18645,
     "s29": 20250,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -5154,12 +5155,17 @@
      "bid": false
     },
     "s27": {
-     "p": 43700,
+     "p": 43500,
+     "url": "https://snkrdunk.com/products/DC5239-001",
+     "bid": false
+    },
+    "s28": {
+     "p": 56100,
      "url": "https://snkrdunk.com/products/DC5239-001",
      "bid": false
     },
     "s29": {
-     "p": 42500,
+     "p": 42300,
      "url": "https://snkrdunk.com/products/DC5239-001",
      "bid": false
     }
@@ -5167,14 +5173,13 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DC5239-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 22496,
     "s26": 24530,
-    "s27": 42078,
-    "s28": 67330,
-    "s29": 45288,
-    "at": "2026-10-26"
+    "s27": 47749,
+    "s29": 46465,
+    "at": "2026-11-02"
    }
   },
   {
@@ -5218,14 +5223,14 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DC5239-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 22390,
-    "s26": 37175,
+    "s26": 36426,
     "s27": 20250,
     "s28": 20250,
     "s29": 33089,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -5269,14 +5274,14 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DC5239-300",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 21320,
     "s26": 14889,
     "s27": 26582,
     "s28": 18966,
     "s29": 16505,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -5298,7 +5303,7 @@
     "s28": 19180,
     "s285": 62596,
     "s29": 31485,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
@@ -5330,7 +5335,7 @@
      "bid": false
     },
     "s27": {
-     "p": 12800,
+     "p": 11800,
      "url": "https://snkrdunk.com/products/DC6887-200",
      "bid": false
     },
@@ -5345,7 +5350,7 @@
      "bid": false
     },
     "s285": {
-     "p": 57576,
+     "p": 61800,
      "url": "https://snkrdunk.com/products/DC6887-200",
      "bid": false
     },
@@ -5355,7 +5360,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -5373,17 +5378,17 @@
    "name": "Stussy × Nike Air Huarache",
    "order": 107,
    "prev": {
-    "s245": 13830,
+    "s245": 10620,
     "s25": 22175,
     "s255": 26700,
     "s26": 11690,
-    "s265": 16505,
-    "s27": 16505,
+    "s265": 16398,
+    "s27": 15756,
     "s275": 19073,
     "s28": 19715,
-    "s285": 19180,
+    "s285": 23460,
     "s29": 20036,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
@@ -5395,12 +5400,12 @@
      "bid": false
     },
     "s25": {
-     "p": 19799,
+     "p": 21500,
      "url": "https://snkrdunk.com/products/DD1381-200",
      "bid": false
     },
     "s255": {
-     "p": 24028,
+     "p": 23718,
      "url": "https://snkrdunk.com/products/DD1381-200",
      "bid": false
     },
@@ -5410,7 +5415,7 @@
      "bid": false
     },
     "s265": {
-     "p": 14400,
+     "p": 14100,
      "url": "https://snkrdunk.com/products/DD1381-200",
      "bid": false
     },
@@ -5441,7 +5446,7 @@
     }
    },
    "src": "snk-fav",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "DD1381-200"
   },
@@ -5464,12 +5469,12 @@
     "s255": 18110,
     "s26": 9550,
     "s265": 10620,
-    "s27": 9550,
+    "s27": 9496,
     "s275": 12760,
     "s28": 9999,
     "s285": 9550,
     "s29": 11262,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 12100,
@@ -5486,7 +5491,7 @@
      "bid": false
     },
     "s26": {
-     "p": 8000,
+     "p": 10400,
      "url": "https://snkrdunk.com/products/DD1391-004",
      "bid": false
     },
@@ -5496,7 +5501,7 @@
      "bid": false
     },
     "s27": {
-     "p": 7950,
+     "p": 7949,
      "url": "https://snkrdunk.com/products/DD1391-004",
      "bid": false
     },
@@ -5506,7 +5511,7 @@
      "bid": false
     },
     "s28": {
-     "p": 9000,
+     "p": 8950,
      "url": "https://snkrdunk.com/products/DD1391-004",
      "bid": false
     },
@@ -5516,12 +5521,12 @@
      "bid": false
     },
     "s29": {
-     "p": 9600,
+     "p": 9300,
      "url": "https://snkrdunk.com/products/DD1391-004",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s28": {
      "bid": false,
@@ -5541,16 +5546,16 @@
    "order": 21,
    "prev": {
     "s245": 39700,
-    "s25": 29267,
+    "s25": 27876,
     "s255": 20250,
     "s26": 18003,
-    "s265": 13295,
+    "s265": 12225,
     "s27": 12118,
-    "s275": 12760,
-    "s28": 12760,
+    "s275": 11690,
+    "s28": 10085,
     "s285": 11690,
     "s29": 13402,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 13200,
@@ -5567,7 +5572,7 @@
      "bid": false
     },
     "s255": {
-     "p": 18000,
+     "p": 17900,
      "url": "https://snkrdunk.com/products/DD1398-300",
      "bid": false
     },
@@ -5577,7 +5582,7 @@
      "bid": false
     },
     "s265": {
-     "p": 10500,
+     "p": 10499,
      "url": "https://snkrdunk.com/products/DD1398-300",
      "bid": false
     },
@@ -5607,7 +5612,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "DD1398-300"
   },
@@ -5630,7 +5635,7 @@
     "s28": 11690,
     "s285": 10406,
     "s29": 15756,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
@@ -5687,7 +5692,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -5727,7 +5732,7 @@
     "s28": 8000,
     "s285": 13830,
     "s29": 9550,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
@@ -5754,7 +5759,7 @@
      "bid": false
     },
     "s265": {
-     "p": 9900,
+     "p": 9800,
      "url": "https://snkrdunk.com/products/DD1877-200",
      "bid": false
     },
@@ -5769,7 +5774,7 @@
      "bid": false
     },
     "s28": {
-     "p": 9800,
+     "p": 9000,
      "url": "https://snkrdunk.com/products/DD1877-200",
      "bid": false
     },
@@ -5784,7 +5789,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "DD1877-200"
   },
@@ -5801,17 +5806,17 @@
    "sku": "DD3223-100",
    "snk": {
     "s245": {
-     "p": 89753,
+     "p": 85988,
      "url": "https://snkrdunk.com/products/DD3223-100",
      "bid": false
     },
     "s25": {
-     "p": 78149,
+     "p": 77708,
      "url": "https://snkrdunk.com/products/DD3223-100",
      "bid": false
     },
     "s255": {
-     "p": 85649,
+     "p": 82667,
      "url": "https://snkrdunk.com/products/DD3223-100",
      "bid": false
     },
@@ -5826,27 +5831,27 @@
      "bid": false
     },
     "s27": {
-     "p": 80000,
+     "p": 81000,
      "url": "https://snkrdunk.com/products/DD3223-100",
      "bid": false
     },
     "s275": {
-     "p": 84450,
+     "p": 83850,
      "url": "https://snkrdunk.com/products/DD3223-100",
      "bid": false
     },
     "s28": {
-     "p": 71999,
+     "p": 64000,
      "url": "https://snkrdunk.com/products/DD3223-100",
      "bid": false
     },
     "s285": {
-     "p": 78999,
+     "p": 79000,
      "url": "https://snkrdunk.com/products/DD3223-100",
      "bid": false
     },
     "s29": {
-     "p": 69500,
+     "p": 59800,
      "url": "https://snkrdunk.com/products/DD3223-100",
      "bid": false
     }
@@ -5854,19 +5859,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DD3223-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 92790,
-    "s25": 79635,
-    "s255": 85520,
+    "s245": 97026,
+    "s25": 84609,
+    "s255": 92634,
     "s26": 90656,
-    "s265": 104780,
-    "s27": 84985,
-    "s275": 91404,
-    "s28": 77816,
-    "s285": 86055,
-    "s29": 64976,
-    "at": "2026-10-26"
+    "s265": 95150,
+    "s27": 86590,
+    "s275": 91352,
+    "s28": 78029,
+    "s285": 85519,
+    "s29": 75355,
+    "at": "2026-11-02"
    }
   },
   {
@@ -5892,17 +5897,17 @@
      "bid": false
     },
     "s255": {
-     "p": 25856,
+     "p": 25687,
      "url": "https://snkrdunk.com/products/DD9315-001",
      "bid": false
     },
     "s26": {
-     "p": 24268,
+     "p": 24096,
      "url": "https://snkrdunk.com/products/DD9315-001",
      "bid": false
     },
     "s265": {
-     "p": 24421,
+     "p": 24128,
      "url": "https://snkrdunk.com/products/DD9315-001",
      "bid": false
     },
@@ -5912,12 +5917,12 @@
      "bid": false
     },
     "s275": {
-     "p": 23786,
+     "p": 23000,
      "url": "https://snkrdunk.com/products/DD9315-001",
      "bid": false
     },
     "s28": {
-     "p": 22408,
+     "p": 22241,
      "url": "https://snkrdunk.com/products/DD9315-001",
      "bid": false
     },
@@ -5927,7 +5932,7 @@
      "bid": false
     },
     "s29": {
-     "p": 20000,
+     "p": 20100,
      "url": "https://snkrdunk.com/products/DD9315-001",
      "bid": false
     }
@@ -5935,19 +5940,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DD9315-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 21844,
     "s25": 24315,
-    "s255": 28816,
-    "s26": 27124,
-    "s265": 27280,
-    "s27": 25059,
-    "s275": 26612,
-    "s28": 25723,
+    "s255": 28656,
+    "s26": 26957,
+    "s265": 27120,
+    "s27": 25053,
+    "s275": 26441,
+    "s28": 24967,
     "s285": 24315,
-    "s29": 24529,
-    "at": "2026-10-26"
+    "s29": 22390,
+    "at": "2026-11-02"
    }
   },
   {
@@ -5960,15 +5965,15 @@
    "prev": {
     "s245": 16505,
     "s25": 21852,
-    "s255": 28178,
+    "s255": 27719,
     "s26": 25600,
     "s265": 21962,
     "s27": 22390,
     "s275": 23460,
     "s28": 23139,
     "s285": 25161,
-    "s29": 26670,
-    "at": "2026-10-26"
+    "s29": 24530,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 20020,
@@ -5985,12 +5990,12 @@
      "bid": false
     },
     "s255": {
-     "p": 24980,
+     "p": 24970,
      "url": "https://snkrdunk.com/products/DD9315-100",
      "bid": false
     },
     "s26": {
-     "p": 23000,
+     "p": 22530,
      "url": "https://snkrdunk.com/products/DD9315-100",
      "bid": false
     },
@@ -6015,18 +6020,18 @@
      "bid": false
     },
     "s285": {
-     "p": 22590,
+     "p": 22400,
      "url": "https://snkrdunk.com/products/DD9315-100",
      "bid": false
     },
     "s29": {
-     "p": 22000,
+     "p": 22800,
      "url": "https://snkrdunk.com/products/DD9315-100",
      "bid": false
     }
    },
    "src": "snk-fav",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "DD9315-100"
   },
@@ -6053,7 +6058,7 @@
      "bid": false
     },
     "s255": {
-     "p": 37900,
+     "p": 37890,
      "url": "https://snkrdunk.com/products/DD9315-600",
      "bid": false
     },
@@ -6073,22 +6078,22 @@
      "bid": false
     },
     "s275": {
-     "p": 37000,
+     "p": 36500,
      "url": "https://snkrdunk.com/products/DD9315-600",
      "bid": false
     },
     "s28": {
-     "p": 33900,
+     "p": 33850,
      "url": "https://snkrdunk.com/products/DD9315-600",
      "bid": false
     },
     "s285": {
-     "p": 27989,
+     "p": 27900,
      "url": "https://snkrdunk.com/products/DD9315-600",
      "bid": false
     },
     "s29": {
-     "p": 34900,
+     "p": 34500,
      "url": "https://snkrdunk.com/products/DD9315-600",
      "bid": false
     }
@@ -6096,19 +6101,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DD9315-600",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 99471,
     "s25": 65189,
     "s255": 41543,
     "s26": 40045,
-    "s265": 38440,
+    "s265": 40580,
     "s27": 34160,
-    "s275": 37370,
-    "s28": 36300,
-    "s285": 30950,
-    "s29": 38440,
-    "at": "2026-10-26"
+    "s275": 40580,
+    "s28": 37263,
+    "s285": 30938,
+    "s29": 38333,
+    "at": "2026-11-02"
    }
   },
   {
@@ -6129,7 +6134,7 @@
      "bid": false
     },
     "s25": {
-     "p": 40100,
+     "p": 39600,
      "url": "https://snkrdunk.com/products/DD9519-001",
      "bid": false
     },
@@ -6139,7 +6144,7 @@
      "bid": false
     },
     "s26": {
-     "p": 40000,
+     "p": 39000,
      "url": "https://snkrdunk.com/products/DD9519-001",
      "bid": false
     },
@@ -6177,10 +6182,10 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DD9519-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 54276,
-    "s25": 33090,
+    "s25": 43897,
     "s255": 45930,
     "s26": 43790,
     "s265": 47000,
@@ -6189,7 +6194,7 @@
     "s28": 45930,
     "s285": 48070,
     "s29": 54276,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -6204,6 +6209,11 @@
    "retailJpy": 12100,
    "sku": "DD9941-100",
    "snk": {
+    "s245": {
+     "p": 39119,
+     "url": "https://snkrdunk.com/products/DD9941-100",
+     "bid": false
+    },
     "s25": {
      "p": 26666,
      "url": "https://snkrdunk.com/products/DD9941-100",
@@ -6220,7 +6230,7 @@
      "bid": false
     },
     "s265": {
-     "p": 28500,
+     "p": 30000,
      "url": "https://snkrdunk.com/products/DD9941-100",
      "bid": false
     },
@@ -6253,18 +6263,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DD9941-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 29523,
     "s255": 27740,
     "s26": 27740,
     "s265": 31485,
     "s27": 22389,
-    "s275": 25570,
-    "s28": 26028,
+    "s275": 25599,
+    "s28": 25812,
     "s285": 22390,
     "s29": 27526,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -6287,24 +6297,24 @@
     "s255": 42720,
     "s26": 27740,
     "s265": 23459,
-    "s27": 20571,
+    "s27": 20250,
     "s275": 18966,
     "s28": 18000,
     "s285": 21106,
     "s29": 23460,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 20900,
    "sku": "DH1347-100",
    "snk": {
     "s245": {
-     "p": 61700,
+     "p": 67700,
      "url": "https://snkrdunk.com/products/DH1347-100",
      "bid": false
     },
     "s25": {
-     "p": 101700,
+     "p": 100400,
      "url": "https://snkrdunk.com/products/DH1347-100",
      "bid": false
     },
@@ -6314,32 +6324,32 @@
      "bid": false
     },
     "s26": {
-     "p": 25000,
+     "p": 24800,
      "url": "https://snkrdunk.com/products/DH1347-100",
      "bid": false
     },
     "s265": {
-     "p": 20999,
+     "p": 20900,
      "url": "https://snkrdunk.com/products/DH1347-100",
      "bid": false
     },
     "s27": {
-     "p": 18000,
+     "p": 17999,
      "url": "https://snkrdunk.com/products/DH1347-100",
      "bid": false
     },
     "s275": {
-     "p": 16800,
+     "p": 16000,
      "url": "https://snkrdunk.com/products/DH1347-100",
      "bid": false
     },
     "s28": {
-     "p": 17940,
+     "p": 17900,
      "url": "https://snkrdunk.com/products/DH1347-100",
      "bid": false
     },
     "s285": {
-     "p": 18800,
+     "p": 15000,
      "url": "https://snkrdunk.com/products/DH1347-100",
      "bid": false
     },
@@ -6349,7 +6359,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s28": {
      "bid": false,
@@ -6385,16 +6395,16 @@
    "order": 11,
    "prev": {
     "s245": 35230,
-    "s25": 39403,
-    "s255": 32790,
-    "s26": 23888,
-    "s265": 23246,
-    "s27": 24316,
+    "s25": 37156,
+    "s255": 32768,
+    "s26": 23781,
+    "s265": 22604,
+    "s27": 22390,
     "s275": 14300,
     "s28": 19800,
     "s285": 24530,
     "s29": 19000,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 22000,
@@ -6406,22 +6416,22 @@
      "bid": false
     },
     "s25": {
-     "p": 33800,
+     "p": 33000,
      "url": "https://snkrdunk.com/products/DH2482-100",
      "bid": false
     },
     "s255": {
-     "p": 29699,
+     "p": 32530,
      "url": "https://snkrdunk.com/products/DH2482-100",
      "bid": false
     },
     "s26": {
-     "p": 21300,
+     "p": 21299,
      "url": "https://snkrdunk.com/products/DH2482-100",
      "bid": false
     },
     "s265": {
-     "p": 20200,
+     "p": 20000,
      "url": "https://snkrdunk.com/products/DH2482-100",
      "bid": false
     },
@@ -6451,7 +6461,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "DH2482-100"
   },
@@ -6473,47 +6483,47 @@
      "bid": false
     },
     "s25": {
-     "p": 220000,
+     "p": 219000,
      "url": "https://snkrdunk.com/products/DH3227-105",
      "bid": false
     },
     "s255": {
-     "p": 244999,
+     "p": 245000,
      "url": "https://snkrdunk.com/products/DH3227-105",
      "bid": false
     },
     "s26": {
-     "p": 326000,
+     "p": 325600,
      "url": "https://snkrdunk.com/products/DH3227-105",
      "bid": false
     },
     "s265": {
-     "p": 421965,
+     "p": 421629,
      "url": "https://snkrdunk.com/products/DH3227-105",
      "bid": false
     },
     "s27": {
-     "p": 376200,
+     "p": 376199,
      "url": "https://snkrdunk.com/products/DH3227-105",
      "bid": false
     },
     "s275": {
-     "p": 448600,
+     "p": 448000,
      "url": "https://snkrdunk.com/products/DH3227-105",
      "bid": false
     },
     "s28": {
-     "p": 395000,
+     "p": 394997,
      "url": "https://snkrdunk.com/products/DH3227-105",
      "bid": false
     },
     "s285": {
-     "p": 543000,
+     "p": 580000,
      "url": "https://snkrdunk.com/products/DH3227-105",
      "bid": false
     },
     "s29": {
-     "p": 443290,
+     "p": 443000,
      "url": "https://snkrdunk.com/products/DH3227-105",
      "bid": false
     }
@@ -6521,19 +6531,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DH3227-105",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 212850,
     "s25": 236390,
-    "s255": 257789,
-    "s26": 321990,
+    "s255": 263139,
+    "s26": 349810,
     "s265": 452493,
-    "s27": 404380,
-    "s275": 481313,
-    "s28": 457775,
-    "s285": 567555,
-    "s29": 475855,
-    "at": "2026-10-26"
+    "s27": 403524,
+    "s275": 480992,
+    "s28": 423640,
+    "s285": 582000,
+    "s29": 475310,
+    "at": "2026-11-02"
    }
   },
   {
@@ -6564,17 +6574,17 @@
      "bid": false
     },
     "s26": {
-     "p": 15680,
+     "p": 15480,
      "url": "https://snkrdunk.com/products/DH7722-001",
      "bid": false
     },
     "s265": {
-     "p": 19150,
+     "p": 19000,
      "url": "https://snkrdunk.com/products/DH7722-001",
      "bid": false
     },
     "s27": {
-     "p": 18000,
+     "p": 18500,
      "url": "https://snkrdunk.com/products/DH7722-001",
      "bid": false
     },
@@ -6602,19 +6612,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DH7722-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 21320,
     "s25": 21320,
     "s255": 22176,
-    "s26": 18089,
+    "s26": 17768,
     "s265": 21481,
-    "s27": 20785,
+    "s27": 20250,
     "s275": 20678,
     "s28": 21319,
-    "s285": 24529,
+    "s285": 25579,
     "s29": 24316,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -6638,11 +6648,11 @@
     "s26": 12653,
     "s265": 9549,
     "s27": 10406,
-    "s275": 10288,
+    "s275": 10287,
     "s28": 11689,
     "s285": 15221,
     "s29": 15756,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 17050,
@@ -6654,7 +6664,7 @@
      "bid": false
     },
     "s25": {
-     "p": 10300,
+     "p": 10199,
      "url": "https://snkrdunk.com/products/DH7863-001",
      "bid": false
     },
@@ -6699,7 +6709,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s28": {
      "bid": false,
@@ -6732,7 +6742,7 @@
      "bid": false
     },
     "s255": {
-     "p": 69999,
+     "p": 72600,
      "url": "https://snkrdunk.com/products/DH8565-100",
      "bid": false
     },
@@ -6752,7 +6762,7 @@
      "bid": false
     },
     "s275": {
-     "p": 60000,
+     "p": 65000,
      "url": "https://snkrdunk.com/products/DH8565-100",
      "bid": false
     },
@@ -6775,7 +6785,7 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DH8565-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 114472,
     "s25": 54013,
@@ -6783,11 +6793,11 @@
     "s26": 59305,
     "s265": 54490,
     "s27": 64120,
-    "s275": 71610,
-    "s28": 70540,
+    "s275": 65190,
+    "s28": 75675,
     "s285": 77816,
     "s29": 86590,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -6809,7 +6819,7 @@
     "s28": 15000,
     "s285": 16825,
     "s29": 23246,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 19250,
@@ -6831,7 +6841,7 @@
      "bid": false
     },
     "s26": {
-     "p": 16000,
+     "p": 15999,
      "url": "https://snkrdunk.com/products/DJ1199-400",
      "bid": false
     },
@@ -6866,7 +6876,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s28": {
      "bid": false,
@@ -6909,12 +6919,12 @@
      "bid": false
     },
     "s265": {
-     "p": 24500,
+     "p": 25000,
      "url": "https://snkrdunk.com/products/DJ4636-100",
      "bid": false
     },
     "s27": {
-     "p": 23900,
+     "p": 23500,
      "url": "https://snkrdunk.com/products/DJ4636-100",
      "bid": false
     },
@@ -6924,17 +6934,17 @@
      "bid": false
     },
     "s28": {
-     "p": 21700,
+     "p": 21400,
      "url": "https://snkrdunk.com/products/DJ4636-100",
      "bid": false
     },
     "s285": {
-     "p": 23999,
+     "p": 23980,
      "url": "https://snkrdunk.com/products/DJ4636-100",
      "bid": false
     },
     "s29": {
-     "p": 23400,
+     "p": 23200,
      "url": "https://snkrdunk.com/products/DJ4636-100",
      "bid": false
     }
@@ -6942,19 +6952,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DJ4636-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 29880,
     "s25": 30415,
     "s255": 28275,
     "s26": 30415,
     "s265": 27205,
-    "s27": 24530,
+    "s27": 26563,
     "s275": 24316,
     "s28": 24209,
-    "s285": 27632,
+    "s285": 26669,
     "s29": 26028,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -6983,17 +6993,27 @@
      "p": 15800,
      "url": "https://snkrdunk.com/products/DJ4639-121",
      "bid": false
+    },
+    "s28": {
+     "p": 43600,
+     "url": "https://snkrdunk.com/products/DJ4639-121",
+     "bid": false
+    },
+    "s29": {
+     "p": 45500,
+     "url": "https://snkrdunk.com/products/DJ4639-121",
+     "bid": false
     }
    },
    "src": "snk-fav",
    "yah": {},
    "id": "DJ4639-121",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 12546,
     "s26": 17896,
     "s27": 17896,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -7007,14 +7027,14 @@
    "prev": {
     "s245": 19715,
     "s25": 31407,
-    "s26": 17040,
+    "s26": 12760,
     "s265": 18110,
-    "s27": 14633,
+    "s27": 14772,
     "s275": 14900,
     "s28": 17040,
     "s285": 15863,
     "s29": 14258,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 15950,
@@ -7025,13 +7045,8 @@
      "url": "https://snkrdunk.com/products/DM0521-001",
      "bid": false
     },
-    "s25": {
-     "p": 28427,
-     "url": "https://snkrdunk.com/products/DM0521-001",
-     "bid": false
-    },
     "s26": {
-     "p": 11000,
+     "p": 15000,
      "url": "https://snkrdunk.com/products/DM0521-001",
      "bid": false
     },
@@ -7041,7 +7056,7 @@
      "bid": false
     },
     "s27": {
-     "p": 12880,
+     "p": 13880,
      "url": "https://snkrdunk.com/products/DM0521-001",
      "bid": false
     },
@@ -7056,7 +7071,7 @@
      "bid": false
     },
     "s285": {
-     "p": 13900,
+     "p": 13000,
      "url": "https://snkrdunk.com/products/DM0521-001",
      "bid": false
     },
@@ -7066,7 +7081,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "DM0521-001"
   },
@@ -7086,10 +7101,10 @@
     "s265": 24530,
     "s27": 17040,
     "s275": 22390,
-    "s28": 17842,
+    "s28": 17575,
     "s285": 19180,
     "s29": 25600,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 15950,
@@ -7111,7 +7126,7 @@
      "bid": false
     },
     "s26": {
-     "p": 31243,
+     "p": 30899,
      "url": "https://snkrdunk.com/products/DM0521-101",
      "bid": false
     },
@@ -7141,12 +7156,12 @@
      "bid": false
     },
     "s29": {
-     "p": 23000,
+     "p": 18000,
      "url": "https://snkrdunk.com/products/DM0521-101",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "DM0521-101"
   },
@@ -7173,22 +7188,22 @@
      "bid": false
     },
     "s255": {
-     "p": 66700,
+     "p": 99339,
      "url": "https://snkrdunk.com/products/DM0774-111",
      "bid": false
     },
     "s26": {
-     "p": 41470,
+     "p": 40999,
      "url": "https://snkrdunk.com/products/DM0774-111",
      "bid": false
     },
     "s265": {
-     "p": 40000,
+     "p": 44900,
      "url": "https://snkrdunk.com/products/DM0774-111",
      "bid": false
     },
     "s27": {
-     "p": 43000,
+     "p": 44980,
      "url": "https://snkrdunk.com/products/DM0774-111",
      "bid": false
     },
@@ -7198,12 +7213,12 @@
      "bid": false
     },
     "s28": {
-     "p": 55000,
+     "p": 59997,
      "url": "https://snkrdunk.com/products/DM0774-111",
      "bid": false
     },
     "s285": {
-     "p": 68000,
+     "p": 70000,
      "url": "https://snkrdunk.com/products/DM0774-111",
      "bid": false
     },
@@ -7216,19 +7231,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DM0774-111",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 53955,
-    "s25": 51280,
+    "s245": 53848,
+    "s25": 51814,
     "s255": 72359,
     "s26": 45363,
-    "s265": 45823,
+    "s265": 43790,
     "s27": 47000,
     "s275": 56630,
-    "s28": 57700,
-    "s285": 79100,
+    "s28": 59840,
+    "s285": 73750,
     "s29": 79100,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -7244,7 +7259,7 @@
    "sku": "DM7866-001",
    "snk": {
     "s245": {
-     "p": 139439,
+     "p": 139339,
      "url": "https://snkrdunk.com/products/DM7866-001",
      "bid": false
     },
@@ -7254,7 +7269,7 @@
      "bid": false
     },
     "s255": {
-     "p": 127580,
+     "p": 126000,
      "url": "https://snkrdunk.com/products/DM7866-001",
      "bid": false
     },
@@ -7264,22 +7279,22 @@
      "bid": false
     },
     "s265": {
-     "p": 136869,
+     "p": 136868,
      "url": "https://snkrdunk.com/products/DM7866-001",
      "bid": false
     },
     "s27": {
-     "p": 139800,
+     "p": 132500,
      "url": "https://snkrdunk.com/products/DM7866-001",
      "bid": false
     },
     "s275": {
-     "p": 147000,
+     "p": 146300,
      "url": "https://snkrdunk.com/products/DM7866-001",
      "bid": false
     },
     "s28": {
-     "p": 140000,
+     "p": 142000,
      "url": "https://snkrdunk.com/products/DM7866-001",
      "bid": false
     },
@@ -7297,19 +7312,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DM7866-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 140090,
-    "s25": 118690,
-    "s255": 136666,
-    "s26": 148639,
-    "s265": 147345,
-    "s27": 145440,
-    "s275": 156140,
+    "s245": 150190,
+    "s25": 124634,
+    "s255": 137501,
+    "s26": 134740,
+    "s265": 147440,
+    "s27": 150576,
+    "s275": 158280,
     "s28": 150790,
-    "s285": 171120,
+    "s285": 168979,
     "s29": 204290,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -7330,22 +7345,22 @@
      "bid": false
     },
     "s25": {
-     "p": 111250,
+     "p": 111200,
      "url": "https://snkrdunk.com/products/DM7866-104",
      "bid": false
     },
     "s255": {
-     "p": 119700,
+     "p": 116999,
      "url": "https://snkrdunk.com/products/DM7866-104",
      "bid": false
     },
     "s26": {
-     "p": 145000,
+     "p": 150000,
      "url": "https://snkrdunk.com/products/DM7866-104",
      "bid": false
     },
     "s265": {
-     "p": 173000,
+     "p": 145000,
      "url": "https://snkrdunk.com/products/DM7866-104",
      "bid": false
     },
@@ -7355,7 +7370,7 @@
      "bid": false
     },
     "s275": {
-     "p": 158000,
+     "p": 146500,
      "url": "https://snkrdunk.com/products/DM7866-104",
      "bid": false
     },
@@ -7365,12 +7380,12 @@
      "bid": false
     },
     "s285": {
-     "p": 116000,
+     "p": 117000,
      "url": "https://snkrdunk.com/products/DM7866-104",
      "bid": false
     },
     "s29": {
-     "p": 120000,
+     "p": 119999,
      "url": "https://snkrdunk.com/products/DM7866-104",
      "bid": false
     }
@@ -7378,19 +7393,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DM7866-104",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 129029,
     "s25": 120028,
-    "s255": 129390,
-    "s26": 143589,
-    "s265": 177540,
-    "s27": 151860,
-    "s275": 154000,
+    "s255": 129069,
+    "s26": 156140,
+    "s265": 186100,
+    "s27": 164700,
+    "s275": 170050,
     "s28": 133670,
-    "s285": 127216,
-    "s29": 130447,
-    "at": "2026-10-26"
+    "s285": 125110,
+    "s29": 129390,
+    "at": "2026-11-02"
    }
   },
   {
@@ -7406,22 +7421,22 @@
    "sku": "DM7866-140",
    "snk": {
     "s245": {
-     "p": 153000,
+     "p": 152800,
      "url": "https://snkrdunk.com/products/DM7866-140",
      "bid": false
     },
     "s25": {
-     "p": 149000,
+     "p": 135000,
      "url": "https://snkrdunk.com/products/DM7866-140",
      "bid": false
     },
     "s255": {
-     "p": 185000,
+     "p": 184800,
      "url": "https://snkrdunk.com/products/DM7866-140",
      "bid": false
     },
     "s26": {
-     "p": 219800,
+     "p": 220000,
      "url": "https://snkrdunk.com/products/DM7866-140",
      "bid": false
     },
@@ -7431,12 +7446,12 @@
      "bid": false
     },
     "s27": {
-     "p": 257500,
+     "p": 240000,
      "url": "https://snkrdunk.com/products/DM7866-140",
      "bid": false
     },
     "s275": {
-     "p": 243000,
+     "p": 289990,
      "url": "https://snkrdunk.com/products/DM7866-140",
      "bid": false
     },
@@ -7446,12 +7461,12 @@
      "bid": false
     },
     "s285": {
-     "p": 238000,
+     "p": 237500,
      "url": "https://snkrdunk.com/products/DM7866-140",
      "bid": false
     },
     "s29": {
-     "p": 229500,
+     "p": 210500,
      "url": "https://snkrdunk.com/products/DM7866-140",
      "bid": false
     }
@@ -7459,19 +7474,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DM7866-140",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 164700,
-    "s25": 161490,
-    "s255": 195195,
+    "s25": 160420,
+    "s255": 198940,
     "s26": 236176,
-    "s265": 281330,
-    "s27": 268490,
-    "s275": 263140,
-    "s28": 263033,
-    "s285": 263140,
-    "s29": 257041,
-    "at": "2026-10-26"
+    "s265": 279190,
+    "s27": 276515,
+    "s275": 261000,
+    "s28": 264210,
+    "s285": 255650,
+    "s29": 246555,
+    "at": "2026-11-02"
    }
   },
   {
@@ -7492,32 +7507,32 @@
      "bid": false
     },
     "s25": {
-     "p": 169498,
+     "p": 169000,
      "url": "https://snkrdunk.com/products/DM7866-162",
      "bid": false
     },
     "s255": {
-     "p": 194000,
+     "p": 160000,
      "url": "https://snkrdunk.com/products/DM7866-162",
      "bid": false
     },
     "s26": {
-     "p": 180000,
+     "p": 175000,
      "url": "https://snkrdunk.com/products/DM7866-162",
      "bid": false
     },
     "s265": {
-     "p": 211900,
+     "p": 246800,
      "url": "https://snkrdunk.com/products/DM7866-162",
      "bid": false
     },
     "s27": {
-     "p": 204000,
+     "p": 204386,
      "url": "https://snkrdunk.com/products/DM7866-162",
      "bid": false
     },
     "s275": {
-     "p": 258990,
+     "p": 243000,
      "url": "https://snkrdunk.com/products/DM7866-162",
      "bid": false
     },
@@ -7532,7 +7547,7 @@
      "bid": false
     },
     "s29": {
-     "p": 269900,
+     "p": 270999,
      "url": "https://snkrdunk.com/products/DM7866-162",
      "bid": false
     }
@@ -7540,19 +7555,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DM7866-162",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 241740,
-    "s25": 182889,
-    "s255": 210709,
-    "s26": 210710,
-    "s265": 224620,
-    "s27": 219683,
-    "s275": 268490,
-    "s28": 275980,
-    "s285": 231040,
-    "s29": 289879,
-    "at": "2026-10-26"
+    "s25": 182353,
+    "s255": 208570,
+    "s26": 193590,
+    "s265": 227723,
+    "s27": 219270,
+    "s275": 278109,
+    "s28": 266350,
+    "s285": 247090,
+    "s29": 289783,
+    "at": "2026-11-02"
    }
   },
   {
@@ -7573,47 +7588,47 @@
      "bid": false
     },
     "s25": {
-     "p": 98900,
+     "p": 99900,
      "url": "https://snkrdunk.com/products/DM7866-200",
      "bid": false
     },
     "s255": {
-     "p": 79989,
+     "p": 79499,
      "url": "https://snkrdunk.com/products/DM7866-200",
      "bid": false
     },
     "s26": {
-     "p": 77777,
+     "p": 77500,
      "url": "https://snkrdunk.com/products/DM7866-200",
      "bid": false
     },
     "s265": {
-     "p": 76998,
+     "p": 76899,
      "url": "https://snkrdunk.com/products/DM7866-200",
      "bid": false
     },
     "s27": {
-     "p": 83700,
+     "p": 79000,
      "url": "https://snkrdunk.com/products/DM7866-200",
      "bid": false
     },
     "s275": {
-     "p": 88989,
-     "url": "https://snkrdunk.com/products/DM7866-200",
-     "bid": false
-    },
-    "s28": {
-     "p": 91599,
-     "url": "https://snkrdunk.com/products/DM7866-200",
-     "bid": false
-    },
-    "s285": {
      "p": 86000,
      "url": "https://snkrdunk.com/products/DM7866-200",
      "bid": false
     },
+    "s28": {
+     "p": 89999,
+     "url": "https://snkrdunk.com/products/DM7866-200",
+     "bid": false
+    },
+    "s285": {
+     "p": 85900,
+     "url": "https://snkrdunk.com/products/DM7866-200",
+     "bid": false
+    },
     "s29": {
-     "p": 113869,
+     "p": 113804,
      "url": "https://snkrdunk.com/products/DM7866-200",
      "bid": false
     }
@@ -7621,19 +7636,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DM7866-200",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 127250,
-    "s25": 102640,
-    "s255": 86590,
-    "s26": 82631,
-    "s265": 83273,
-    "s27": 89800,
-    "s275": 95150,
-    "s28": 98842,
-    "s285": 96755,
-    "s29": 122884,
-    "at": "2026-10-26"
+    "s25": 106813,
+    "s255": 86578,
+    "s26": 84211,
+    "s265": 83378,
+    "s27": 90549,
+    "s275": 96208,
+    "s28": 99001,
+    "s285": 93010,
+    "s29": 122830,
+    "at": "2026-11-02"
    }
   },
   {
@@ -7649,52 +7664,52 @@
    "sku": "DM7866-202",
    "snk": {
     "s245": {
-     "p": 82000,
+     "p": 72000,
      "url": "https://snkrdunk.com/products/DM7866-202",
      "bid": false
     },
     "s25": {
-     "p": 73000,
+     "p": 70000,
      "url": "https://snkrdunk.com/products/DM7866-202",
      "bid": false
     },
     "s255": {
-     "p": 70999,
+     "p": 71000,
      "url": "https://snkrdunk.com/products/DM7866-202",
      "bid": false
     },
     "s26": {
-     "p": 62000,
+     "p": 62500,
      "url": "https://snkrdunk.com/products/DM7866-202",
      "bid": false
     },
     "s265": {
-     "p": 61500,
-     "url": "https://snkrdunk.com/products/DM7866-202",
-     "bid": false
-    },
-    "s27": {
-     "p": 59000,
-     "url": "https://snkrdunk.com/products/DM7866-202",
-     "bid": false
-    },
-    "s275": {
-     "p": 65500,
-     "url": "https://snkrdunk.com/products/DM7866-202",
-     "bid": false
-    },
-    "s28": {
      "p": 63000,
      "url": "https://snkrdunk.com/products/DM7866-202",
      "bid": false
     },
+    "s27": {
+     "p": 60949,
+     "url": "https://snkrdunk.com/products/DM7866-202",
+     "bid": false
+    },
+    "s275": {
+     "p": 64400,
+     "url": "https://snkrdunk.com/products/DM7866-202",
+     "bid": false
+    },
+    "s28": {
+     "p": 65000,
+     "url": "https://snkrdunk.com/products/DM7866-202",
+     "bid": false
+    },
     "s285": {
-     "p": 65500,
+     "p": 64999,
      "url": "https://snkrdunk.com/products/DM7866-202",
      "bid": false
     },
     "s29": {
-     "p": 76999,
+     "p": 77000,
      "url": "https://snkrdunk.com/products/DM7866-202",
      "bid": false
     }
@@ -7702,19 +7717,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DM7866-202",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 88730,
-    "s25": 81240,
-    "s255": 76960,
-    "s26": 68186,
-    "s265": 67330,
-    "s27": 65190,
-    "s275": 70540,
-    "s28": 63585,
-    "s285": 71396,
-    "s29": 75890,
-    "at": "2026-10-26"
+    "s25": 79100,
+    "s255": 76959,
+    "s26": 67330,
+    "s265": 66795,
+    "s27": 64120,
+    "s275": 71075,
+    "s28": 68400,
+    "s285": 71075,
+    "s29": 83379,
+    "at": "2026-11-02"
    }
   },
   {
@@ -7750,9 +7765,9 @@
     "s27": 10192,
     "s275": 6000,
     "s28": 6500,
-    "s285": 9015,
+    "s285": 9014,
     "s29": 10620,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {
     "s28": {
@@ -7785,7 +7800,7 @@
      "bid": false
     },
     "s265": {
-     "p": 8199,
+     "p": 8750,
      "url": "https://snkrdunk.com/products/DM7901-600",
      "bid": false
     },
@@ -7795,7 +7810,7 @@
      "bid": false
     },
     "s275": {
-     "p": 8400,
+     "p": 8000,
      "url": "https://snkrdunk.com/products/DM7901-600",
      "bid": false
     },
@@ -7805,7 +7820,7 @@
      "bid": false
     },
     "s285": {
-     "p": 7499,
+     "p": 7899,
      "url": "https://snkrdunk.com/products/DM7901-600",
      "bid": false
     },
@@ -7815,7 +7830,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s28": {
      "bid": false,
@@ -7838,13 +7853,13 @@
     "s25": 33090,
     "s255": 19179,
     "s26": 20143,
-    "s265": 19501,
-    "s27": 18645,
-    "s275": 20143,
-    "s28": 20090,
-    "s285": 22176,
-    "s29": 20250,
-    "at": "2026-10-26"
+    "s265": 20250,
+    "s27": 19394,
+    "s275": 20250,
+    "s28": 20036,
+    "s285": 22389,
+    "s29": 23995,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 19250,
@@ -7876,7 +7891,7 @@
      "bid": false
     },
     "s27": {
-     "p": 17200,
+     "p": 16500,
      "url": "https://snkrdunk.com/products/DN1803-300",
      "bid": false
     },
@@ -7891,17 +7906,17 @@
      "bid": false
     },
     "s285": {
-     "p": 19999,
+     "p": 23600,
      "url": "https://snkrdunk.com/products/DN1803-300",
      "bid": false
     },
     "s29": {
-     "p": 21500,
+     "p": 19800,
      "url": "https://snkrdunk.com/products/DN1803-300",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -7949,27 +7964,27 @@
      "bid": false
     },
     "s265": {
-     "p": 38700,
+     "p": 33900,
      "url": "https://snkrdunk.com/products/DN3741-700",
      "bid": false
     },
     "s27": {
-     "p": 25819,
+     "p": 25814,
      "url": "https://snkrdunk.com/products/DN3741-700",
      "bid": false
     },
     "s275": {
-     "p": 26399,
+     "p": 26319,
      "url": "https://snkrdunk.com/products/DN3741-700",
      "bid": false
     },
     "s28": {
-     "p": 30965,
+     "p": 30520,
      "url": "https://snkrdunk.com/products/DN3741-700",
      "bid": false
     },
     "s285": {
-     "p": 29495,
+     "p": 28499,
      "url": "https://snkrdunk.com/products/DN3741-700",
      "bid": false
     },
@@ -7982,19 +7997,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DN3741-700",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 72457,
     "s25": 30950,
     "s255": 29879,
-    "s26": 21855,
+    "s26": 23449,
     "s265": 42399,
-    "s27": 28631,
-    "s275": 29269,
+    "s27": 28616,
+    "s275": 29237,
     "s28": 34123,
-    "s285": 33089,
+    "s285": 32550,
     "s29": 40580,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -8005,17 +8020,17 @@
    "name": "Nike Dunk Low",
    "order": 105,
    "prev": {
-    "s245": 19180,
+    "s245": 17040,
     "s25": 14257,
     "s255": 15435,
     "s26": 13795,
     "s265": 13284,
     "s27": 16719,
     "s275": 22283,
-    "s28": 17543,
+    "s28": 16719,
     "s285": 22390,
     "s29": 22176,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
@@ -8027,7 +8042,7 @@
      "bid": false
     },
     "s25": {
-     "p": 12399,
+     "p": 12099,
      "url": "https://snkrdunk.com/products/DO2160-335",
      "bid": false
     },
@@ -8047,7 +8062,7 @@
      "bid": false
     },
     "s27": {
-     "p": 14700,
+     "p": 13900,
      "url": "https://snkrdunk.com/products/DO2160-335",
      "bid": false
     },
@@ -8057,7 +8072,7 @@
      "bid": false
     },
     "s28": {
-     "p": 14700,
+     "p": 14600,
      "url": "https://snkrdunk.com/products/DO2160-335",
      "bid": false
     },
@@ -8073,7 +8088,7 @@
     }
    },
    "src": "snk-fav",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "DO2160-335"
   },
@@ -8097,7 +8112,6 @@
    "name": "Air Jordan 1 KO High",
    "order": 19,
    "prev": {
-    "s25": 43388,
     "s255": 24421,
     "s26": 19715,
     "s265": 25596,
@@ -8105,8 +8119,8 @@
     "s275": 16000,
     "s28": 10240,
     "s285": 19159,
-    "s29": 14793,
-    "at": "2026-10-26"
+    "s29": 13830,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 17050,
@@ -8118,12 +8132,12 @@
      "bid": false
     },
     "s26": {
-     "p": 17500,
+     "p": 16800,
      "url": "https://snkrdunk.com/products/DO5047-401",
      "bid": false
     },
     "s265": {
-     "p": 22996,
+     "p": 21000,
      "url": "https://snkrdunk.com/products/DO5047-401",
      "bid": false
     },
@@ -8133,7 +8147,7 @@
      "bid": false
     },
     "s275": {
-     "p": 16100,
+     "p": 16000,
      "url": "https://snkrdunk.com/products/DO5047-401",
      "bid": false
     },
@@ -8148,12 +8162,12 @@
      "bid": false
     },
     "s29": {
-     "p": 12000,
+     "p": 11900,
      "url": "https://snkrdunk.com/products/DO5047-401",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s28": {
      "bid": false,
@@ -8181,7 +8195,7 @@
      "bid": false
     },
     "s25": {
-     "p": 19828,
+     "p": 19999,
      "url": "https://snkrdunk.com/products/DO6119-300",
      "bid": false
     },
@@ -8201,7 +8215,7 @@
      "bid": false
     },
     "s27": {
-     "p": 18400,
+     "p": 18200,
      "url": "https://snkrdunk.com/products/DO6119-300",
      "bid": false
     },
@@ -8216,12 +8230,12 @@
      "bid": false
     },
     "s285": {
-     "p": 74808,
+     "p": 64808,
      "url": "https://snkrdunk.com/products/DO6119-300",
      "bid": false
     },
     "s29": {
-     "p": 62984,
+     "p": 72500,
      "url": "https://snkrdunk.com/products/DO6119-300",
      "bid": false
     }
@@ -8229,19 +8243,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DO6119-300",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 43931,
-    "s25": 22389,
+    "s25": 22206,
     "s255": 24530,
     "s26": 24530,
     "s265": 26135,
     "s27": 20678,
     "s275": 26670,
     "s28": 27205,
-    "s285": 29880,
+    "s285": 81035,
     "s29": 68383,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -8262,37 +8276,37 @@
      "bid": false
     },
     "s25": {
-     "p": 38600,
+     "p": 38000,
      "url": "https://snkrdunk.com/products/DO7097-100",
      "bid": false
     },
     "s255": {
-     "p": 38500,
+     "p": 38000,
      "url": "https://snkrdunk.com/products/DO7097-100",
      "bid": false
     },
     "s26": {
-     "p": 37999,
+     "p": 35999,
      "url": "https://snkrdunk.com/products/DO7097-100",
      "bid": false
     },
     "s265": {
-     "p": 37686,
+     "p": 36999,
      "url": "https://snkrdunk.com/products/DO7097-100",
      "bid": false
     },
     "s27": {
-     "p": 36700,
+     "p": 36528,
      "url": "https://snkrdunk.com/products/DO7097-100",
      "bid": false
     },
     "s275": {
-     "p": 36990,
+     "p": 36799,
      "url": "https://snkrdunk.com/products/DO7097-100",
      "bid": false
     },
     "s28": {
-     "p": 34900,
+     "p": 34860,
      "url": "https://snkrdunk.com/products/DO7097-100",
      "bid": false
     },
@@ -8302,7 +8316,7 @@
      "bid": false
     },
     "s29": {
-     "p": 45999,
+     "p": 38000,
      "url": "https://snkrdunk.com/products/DO7097-100",
      "bid": false
     }
@@ -8310,19 +8324,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DO7097-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 45823,
-    "s25": 42720,
-    "s255": 42977,
+    "s25": 42292,
+    "s255": 42185,
     "s26": 41649,
-    "s265": 40793,
-    "s27": 39712,
-    "s275": 42720,
-    "s28": 40987,
+    "s265": 41314,
+    "s27": 40259,
+    "s275": 40569,
+    "s28": 38333,
     "s285": 42185,
-    "s29": 49169,
-    "at": "2026-10-26"
+    "s29": 50209,
+    "at": "2026-11-02"
    }
   },
   {
@@ -8344,13 +8358,13 @@
     "s25": 10513,
     "s255": 9443,
     "s26": 12760,
-    "s265": 44938,
+    "s265": 44927,
     "s27": 12760,
     "s275": 21213,
     "s28": 19929,
     "s285": 9549,
     "s29": 10230,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 18150,
@@ -8377,7 +8391,7 @@
      "bid": false
     },
     "s265": {
-     "p": 41063,
+     "p": 40590,
      "url": "https://snkrdunk.com/products/DQ1823-006",
      "bid": false
     },
@@ -8402,12 +8416,12 @@
      "bid": false
     },
     "s29": {
-     "p": 12800,
+     "p": 9800,
      "url": "https://snkrdunk.com/products/DQ1823-006",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "DQ1823-006"
   },
@@ -8424,7 +8438,7 @@
    "sku": "DV1748-601",
    "snk": {
     "s245": {
-     "p": 24000,
+     "p": 31500,
      "url": "https://snkrdunk.com/products/DV1748-601",
      "bid": false
     },
@@ -8434,27 +8448,27 @@
      "bid": false
     },
     "s255": {
-     "p": 29800,
+     "p": 27500,
      "url": "https://snkrdunk.com/products/DV1748-601",
      "bid": false
     },
     "s26": {
-     "p": 25800,
+     "p": 24400,
      "url": "https://snkrdunk.com/products/DV1748-601",
      "bid": false
     },
     "s265": {
-     "p": 25700,
+     "p": 26500,
      "url": "https://snkrdunk.com/products/DV1748-601",
      "bid": false
     },
     "s27": {
-     "p": 25899,
+     "p": 26200,
      "url": "https://snkrdunk.com/products/DV1748-601",
      "bid": false
     },
     "s275": {
-     "p": 23000,
+     "p": 25000,
      "url": "https://snkrdunk.com/products/DV1748-601",
      "bid": false
     },
@@ -8464,12 +8478,12 @@
      "bid": false
     },
     "s285": {
-     "p": 24999,
+     "p": 25000,
      "url": "https://snkrdunk.com/products/DV1748-601",
      "bid": false
     },
     "s29": {
-     "p": 29000,
+     "p": 28500,
      "url": "https://snkrdunk.com/products/DV1748-601",
      "bid": false
     }
@@ -8477,19 +8491,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DV1748-601",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 30950,
-    "s25": 33090,
-    "s255": 33090,
-    "s26": 29217,
-    "s265": 29292,
-    "s27": 29238,
-    "s275": 25065,
-    "s28": 26563,
-    "s285": 28274,
-    "s29": 34160,
-    "at": "2026-10-26"
+    "s245": 26670,
+    "s25": 33089,
+    "s255": 32876,
+    "s26": 28596,
+    "s265": 28489,
+    "s27": 28702,
+    "s275": 25600,
+    "s28": 27205,
+    "s285": 27739,
+    "s29": 32020,
+    "at": "2026-11-02"
    }
   },
   {
@@ -8518,11 +8532,11 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DV3027-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s27": 22390,
     "s275": 24530,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -8538,12 +8552,12 @@
    "sku": "DZ4137-106",
    "snk": {
     "s245": {
-     "p": 143986,
+     "p": 143913,
      "url": "https://snkrdunk.com/products/DZ4137-106",
      "bid": false
     },
     "s25": {
-     "p": 130000,
+     "p": 122000,
      "url": "https://snkrdunk.com/products/DZ4137-106",
      "bid": false
     },
@@ -8558,27 +8572,27 @@
      "bid": false
     },
     "s265": {
-     "p": 150000,
+     "p": 156000,
      "url": "https://snkrdunk.com/products/DZ4137-106",
      "bid": false
     },
     "s27": {
-     "p": 133000,
+     "p": 129000,
      "url": "https://snkrdunk.com/products/DZ4137-106",
      "bid": false
     },
     "s275": {
-     "p": 144400,
+     "p": 139700,
      "url": "https://snkrdunk.com/products/DZ4137-106",
      "bid": false
     },
     "s28": {
-     "p": 134000,
+     "p": 122000,
      "url": "https://snkrdunk.com/products/DZ4137-106",
      "bid": false
     },
     "s285": {
-     "p": 225099,
+     "p": 221999,
      "url": "https://snkrdunk.com/products/DZ4137-106",
      "bid": false
     },
@@ -8591,19 +8605,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DZ4137-106",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 156122,
-    "s25": 139020,
-    "s255": 140090,
-    "s26": 143193,
+    "s245": 155055,
+    "s25": 140090,
+    "s255": 141587,
+    "s26": 150790,
     "s265": 161490,
-    "s27": 144726,
-    "s275": 150779,
-    "s28": 156140,
-    "s285": 243277,
-    "s29": 188240,
-    "at": "2026-10-26"
+    "s27": 143300,
+    "s275": 155498,
+    "s28": 144370,
+    "s285": 241846,
+    "s29": 192520,
+    "at": "2026-11-02"
    }
   },
   {
@@ -8629,42 +8643,42 @@
      "bid": false
     },
     "s255": {
-     "p": 60000,
+     "p": 59990,
      "url": "https://snkrdunk.com/products/DZ4137-700",
      "bid": false
     },
     "s26": {
-     "p": 59900,
+     "p": 58900,
      "url": "https://snkrdunk.com/products/DZ4137-700",
      "bid": false
     },
     "s265": {
-     "p": 56000,
+     "p": 57000,
      "url": "https://snkrdunk.com/products/DZ4137-700",
      "bid": false
     },
     "s27": {
-     "p": 54400,
+     "p": 53800,
      "url": "https://snkrdunk.com/products/DZ4137-700",
      "bid": false
     },
     "s275": {
-     "p": 52000,
+     "p": 52500,
      "url": "https://snkrdunk.com/products/DZ4137-700",
      "bid": false
     },
     "s28": {
-     "p": 53500,
+     "p": 51300,
      "url": "https://snkrdunk.com/products/DZ4137-700",
      "bid": false
     },
     "s285": {
-     "p": 53000,
+     "p": 50000,
      "url": "https://snkrdunk.com/products/DZ4137-700",
      "bid": false
     },
     "s29": {
-     "p": 55000,
+     "p": 58000,
      "url": "https://snkrdunk.com/products/DZ4137-700",
      "bid": false
     }
@@ -8672,19 +8686,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DZ4137-700",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 69363,
-    "s25": 69470,
-    "s255": 66259,
-    "s26": 64972,
-    "s265": 59198,
-    "s27": 58727,
-    "s275": 56095,
-    "s28": 56844,
-    "s285": 62194,
+    "s245": 68721,
+    "s25": 67330,
+    "s255": 65190,
+    "s26": 65083,
+    "s265": 60910,
+    "s27": 59198,
+    "s275": 56630,
+    "s28": 58235,
+    "s285": 57700,
     "s29": 59840,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -8710,14 +8724,14 @@
     "s245": 27633,
     "s25": 27740,
     "s255": 18634,
-    "s26": 15221,
-    "s265": 15863,
-    "s27": 14899,
+    "s26": 16505,
+    "s265": 13829,
+    "s27": 13830,
     "s275": 11000,
     "s28": 12759,
     "s285": 10230,
-    "s29": 12011,
-    "at": "2026-10-26"
+    "s29": 11155,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 26950,
@@ -8734,7 +8748,7 @@
      "bid": false
     },
     "s255": {
-     "p": 16490,
+     "p": 16000,
      "url": "https://snkrdunk.com/products/DZ5485-042",
      "bid": false
     },
@@ -8744,22 +8758,22 @@
      "bid": false
     },
     "s265": {
-     "p": 11999,
+     "p": 11780,
      "url": "https://snkrdunk.com/products/DZ5485-042",
      "bid": false
     },
     "s27": {
-     "p": 12000,
+     "p": 12450,
      "url": "https://snkrdunk.com/products/DZ5485-042",
      "bid": false
     },
     "s275": {
-     "p": 11999,
+     "p": 11800,
      "url": "https://snkrdunk.com/products/DZ5485-042",
      "bid": false
     },
     "s28": {
-     "p": 10999,
+     "p": 10500,
      "url": "https://snkrdunk.com/products/DZ5485-042",
      "bid": false
     },
@@ -8769,12 +8783,12 @@
      "bid": false
     },
     "s29": {
-     "p": 9500,
+     "p": 9100,
      "url": "https://snkrdunk.com/products/DZ5485-042",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s28": {
      "bid": false,
@@ -8804,17 +8818,17 @@
    "name": "Air Jordan 1 High OG",
    "order": 37,
    "prev": {
-    "s245": 53420,
+    "s245": 40366,
     "s25": 32448,
     "s255": 26669,
-    "s26": 20784,
-    "s265": 22818,
+    "s26": 20774,
+    "s265": 22379,
     "s27": 16800,
-    "s275": 20143,
+    "s275": 19715,
     "s28": 16505,
-    "s285": 16933,
-    "s29": 15970,
-    "at": "2026-10-26"
+    "s285": 14900,
+    "s29": 15489,
+    "at": "2026-11-02"
    },
    "rak": {
     "s28": {
@@ -8827,7 +8841,7 @@
    "sku": "DZ5485-052",
    "snk": {
     "s245": {
-     "p": 36800,
+     "p": 35800,
      "url": "https://snkrdunk.com/products/DZ5485-052",
      "bid": false
     },
@@ -8837,22 +8851,22 @@
      "bid": false
     },
     "s255": {
-     "p": 23999,
+     "p": 22530,
      "url": "https://snkrdunk.com/products/DZ5485-052",
      "bid": false
     },
     "s26": {
-     "p": 18490,
+     "p": 17970,
      "url": "https://snkrdunk.com/products/DZ5485-052",
      "bid": false
     },
     "s265": {
-     "p": 19990,
+     "p": 19879,
      "url": "https://snkrdunk.com/products/DZ5485-052",
      "bid": false
     },
     "s27": {
-     "p": 17600,
+     "p": 17500,
      "url": "https://snkrdunk.com/products/DZ5485-052",
      "bid": false
     },
@@ -8862,22 +8876,22 @@
      "bid": false
     },
     "s28": {
-     "p": 14500,
+     "p": 12344,
      "url": "https://snkrdunk.com/products/DZ5485-052",
      "bid": false
     },
     "s285": {
-     "p": 13000,
+     "p": 13400,
      "url": "https://snkrdunk.com/products/DZ5485-052",
      "bid": false
     },
     "s29": {
-     "p": 13550,
+     "p": 13500,
      "url": "https://snkrdunk.com/products/DZ5485-052",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -8902,16 +8916,17 @@
    "name": "Air Jordan 1 High OG",
    "order": 31,
    "prev": {
+    "s245": 33090,
     "s25": 35259,
     "s255": 22390,
-    "s26": 21556,
-    "s265": 23888,
+    "s26": 19179,
+    "s265": 22925,
     "s27": 24530,
-    "s275": 20357,
-    "s28": 21427,
+    "s275": 21855,
+    "s28": 21092,
     "s285": 19580,
-    "s29": 23995,
-    "at": "2026-10-26"
+    "s29": 25493,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 26950,
@@ -8928,47 +8943,47 @@
      "bid": false
     },
     "s255": {
-     "p": 20000,
-     "url": "https://snkrdunk.com/products/DZ5485-201",
-     "bid": false
-    },
-    "s26": {
-     "p": 16999,
-     "url": "https://snkrdunk.com/products/DZ5485-201",
-     "bid": false
-    },
-    "s265": {
-     "p": 20500,
-     "url": "https://snkrdunk.com/products/DZ5485-201",
-     "bid": false
-    },
-    "s27": {
-     "p": 22000,
-     "url": "https://snkrdunk.com/products/DZ5485-201",
-     "bid": false
-    },
-    "s275": {
      "p": 19500,
      "url": "https://snkrdunk.com/products/DZ5485-201",
      "bid": false
     },
+    "s26": {
+     "p": 18011,
+     "url": "https://snkrdunk.com/products/DZ5485-201",
+     "bid": false
+    },
+    "s265": {
+     "p": 18000,
+     "url": "https://snkrdunk.com/products/DZ5485-201",
+     "bid": false
+    },
+    "s27": {
+     "p": 18188,
+     "url": "https://snkrdunk.com/products/DZ5485-201",
+     "bid": false
+    },
+    "s275": {
+     "p": 18500,
+     "url": "https://snkrdunk.com/products/DZ5485-201",
+     "bid": false
+    },
     "s28": {
-     "p": 18787,
+     "p": 18298,
      "url": "https://snkrdunk.com/products/DZ5485-201",
      "bid": false
     },
     "s285": {
-     "p": 20000,
+     "p": 18500,
      "url": "https://snkrdunk.com/products/DZ5485-201",
      "bid": false
     },
     "s29": {
-     "p": 22900,
+     "p": 18290,
      "url": "https://snkrdunk.com/products/DZ5485-201",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "DZ5485-201"
   },
@@ -8990,42 +9005,42 @@
      "bid": false
     },
     "s25": {
-     "p": 39310,
+     "p": 39260,
      "url": "https://snkrdunk.com/products/DZ5485-612",
      "bid": false
     },
     "s255": {
-     "p": 35500,
+     "p": 39790,
      "url": "https://snkrdunk.com/products/DZ5485-612",
      "bid": false
     },
     "s26": {
-     "p": 36899,
+     "p": 37999,
      "url": "https://snkrdunk.com/products/DZ5485-612",
      "bid": false
     },
     "s265": {
-     "p": 37000,
-     "url": "https://snkrdunk.com/products/DZ5485-612",
-     "bid": false
-    },
-    "s27": {
      "p": 38000,
      "url": "https://snkrdunk.com/products/DZ5485-612",
      "bid": false
     },
+    "s27": {
+     "p": 38999,
+     "url": "https://snkrdunk.com/products/DZ5485-612",
+     "bid": false
+    },
     "s275": {
-     "p": 38500,
+     "p": 38000,
      "url": "https://snkrdunk.com/products/DZ5485-612",
      "bid": false
     },
     "s28": {
-     "p": 38400,
+     "p": 38999,
      "url": "https://snkrdunk.com/products/DZ5485-612",
      "bid": false
     },
     "s285": {
-     "p": 42500,
+     "p": 39000,
      "url": "https://snkrdunk.com/products/DZ5485-612",
      "bid": false
     },
@@ -9038,19 +9053,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "DZ5485-612",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 69470,
-    "s25": 48989,
-    "s255": 42720,
-    "s26": 41648,
-    "s265": 39283,
-    "s27": 42291,
-    "s275": 41093,
-    "s28": 41650,
-    "s285": 43790,
-    "s29": 42720,
-    "at": "2026-10-26"
+    "s245": 69469,
+    "s25": 43052,
+    "s255": 38975,
+    "s26": 40472,
+    "s265": 40580,
+    "s27": 41650,
+    "s275": 42185,
+    "s28": 42078,
+    "s285": 46465,
+    "s29": 44325,
+    "at": "2026-11-02"
    }
   },
   {
@@ -9084,12 +9099,12 @@
    "src": "snk-fav",
    "yah": {},
    "id": "EF5787",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s26": 27740,
     "s265": 28810,
     "s275": 30950,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -9104,48 +9119,53 @@
    "retailJpy": 16830,
    "sku": "FJ4250-106",
    "snk": {
+    "s245": {
+     "p": 30751,
+     "url": "https://snkrdunk.com/products/FJ4250-106",
+     "bid": false
+    },
     "s25": {
-     "p": 15999,
+     "p": 15500,
      "url": "https://snkrdunk.com/products/FJ4250-106",
      "bid": false
     },
     "s255": {
-     "p": 19402,
+     "p": 15496,
      "url": "https://snkrdunk.com/products/FJ4250-106",
      "bid": false
     },
     "s26": {
-     "p": 16993,
+     "p": 15500,
      "url": "https://snkrdunk.com/products/FJ4250-106",
      "bid": false
     },
     "s265": {
-     "p": 19680,
+     "p": 15497,
      "url": "https://snkrdunk.com/products/FJ4250-106",
      "bid": false
     },
     "s27": {
-     "p": 20478,
+     "p": 15500,
      "url": "https://snkrdunk.com/products/FJ4250-106",
      "bid": false
     },
     "s275": {
-     "p": 18787,
+     "p": 15500,
      "url": "https://snkrdunk.com/products/FJ4250-106",
      "bid": false
     },
     "s28": {
-     "p": 19744,
+     "p": 15500,
      "url": "https://snkrdunk.com/products/FJ4250-106",
      "bid": false
     },
     "s285": {
-     "p": 17900,
+     "p": 15500,
      "url": "https://snkrdunk.com/products/FJ4250-106",
      "bid": false
     },
     "s29": {
-     "p": 19652,
+     "p": 15500,
      "url": "https://snkrdunk.com/products/FJ4250-106",
      "bid": false
     }
@@ -9153,19 +9173,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "FJ4250-106",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 33517,
-    "s25": 18110,
-    "s255": 22065,
-    "s26": 19175,
-    "s265": 22341,
-    "s27": 23379,
-    "s275": 21287,
-    "s28": 22344,
-    "s285": 20250,
+    "s25": 18109,
+    "s255": 21750,
+    "s26": 19173,
+    "s265": 22048,
+    "s27": 22901,
+    "s275": 21092,
+    "s28": 22116,
+    "s285": 20143,
     "s29": 22018,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -9219,7 +9238,7 @@
    "src": "snk-fav",
    "yah": {},
    "id": "FY7793",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s26": 43790,
     "s265": 42720,
@@ -9228,7 +9247,7 @@
     "s28": 41650,
     "s285": 38440,
     "s29": 49140,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -9239,75 +9258,75 @@
    "name": "Tom Sachs × NikeCraft Women's General Purpose Shoe",
    "order": 102,
    "prev": {
-    "s245": 31898,
-    "s25": 27719,
-    "s255": 26905,
+    "s245": 30221,
+    "s25": 26296,
+    "s255": 25600,
     "s26": 22925,
-    "s265": 17414,
-    "s27": 17575,
-    "s275": 22925,
-    "s28": 20891,
-    "s285": 43554,
-    "s29": 30415,
-    "at": "2026-10-26"
+    "s265": 20250,
+    "s27": 20785,
+    "s275": 22176,
+    "s28": 21319,
+    "s285": 37413,
+    "s29": 26670,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 17600,
    "sku": "FZ1363-002",
    "snk": {
     "s245": {
-     "p": 27319,
+     "p": 26430,
      "url": "https://snkrdunk.com/products/FZ1363-002",
      "bid": false
     },
     "s25": {
-     "p": 23650,
+     "p": 21150,
      "url": "https://snkrdunk.com/products/FZ1363-002",
      "bid": false
     },
     "s255": {
-     "p": 23000,
+     "p": 22000,
      "url": "https://snkrdunk.com/products/FZ1363-002",
      "bid": false
     },
     "s26": {
-     "p": 20500,
+     "p": 20400,
      "url": "https://snkrdunk.com/products/FZ1363-002",
      "bid": false
     },
     "s265": {
-     "p": 18000,
+     "p": 16500,
      "url": "https://snkrdunk.com/products/FZ1363-002",
      "bid": false
     },
     "s27": {
-     "p": 18500,
+     "p": 18000,
      "url": "https://snkrdunk.com/products/FZ1363-002",
      "bid": false
     },
     "s275": {
-     "p": 19800,
+     "p": 20800,
      "url": "https://snkrdunk.com/products/FZ1363-002",
      "bid": false
     },
     "s28": {
-     "p": 18999,
+     "p": 20229,
      "url": "https://snkrdunk.com/products/FZ1363-002",
      "bid": false
     },
     "s285": {
-     "p": 34040,
+     "p": 31030,
      "url": "https://snkrdunk.com/products/FZ1363-002",
      "bid": false
     },
     "s29": {
-     "p": 24000,
+     "p": 28000,
      "url": "https://snkrdunk.com/products/FZ1363-002",
      "bid": false
     }
    },
    "src": "snk-fav",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "FZ1363-002"
   },
@@ -9359,12 +9378,12 @@
      "bid": false
     },
     "s28": {
-     "p": 169109,
+     "p": 168990,
      "url": "https://snkrdunk.com/products/FZ3124-200",
      "bid": false
     },
     "s285": {
-     "p": 219999,
+     "p": 208900,
      "url": "https://snkrdunk.com/products/FZ3124-200",
      "bid": false
     },
@@ -9377,19 +9396,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "FZ3124-200",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 161490,
-    "s25": 129390,
+    "s25": 129389,
     "s255": 152930,
     "s26": 150769,
     "s265": 181820,
     "s27": 189310,
     "s275": 169836,
     "s28": 181937,
-    "s285": 234785,
-    "s29": 259174,
-    "at": "2026-10-26"
+    "s285": 236389,
+    "s29": 257789,
+    "at": "2026-11-02"
    }
   },
   {
@@ -9410,7 +9429,7 @@
      "bid": false
     },
     "s25": {
-     "p": 63600,
+     "p": 63610,
      "url": "https://snkrdunk.com/products/FZ8117-100",
      "bid": false
     },
@@ -9420,17 +9439,17 @@
      "bid": false
     },
     "s26": {
-     "p": 70499,
+     "p": 70280,
      "url": "https://snkrdunk.com/products/FZ8117-100",
      "bid": false
     },
     "s265": {
-     "p": 62600,
+     "p": 64990,
      "url": "https://snkrdunk.com/products/FZ8117-100",
      "bid": false
     },
     "s27": {
-     "p": 56000,
+     "p": 60000,
      "url": "https://snkrdunk.com/products/FZ8117-100",
      "bid": false
     },
@@ -9440,12 +9459,12 @@
      "bid": false
     },
     "s28": {
-     "p": 65000,
+     "p": 63900,
      "url": "https://snkrdunk.com/products/FZ8117-100",
      "bid": false
     },
     "s285": {
-     "p": 65000,
+     "p": 64990,
      "url": "https://snkrdunk.com/products/FZ8117-100",
      "bid": false
     },
@@ -9458,19 +9477,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "FZ8117-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 74699,
-    "s25": 69074,
-    "s255": 70540,
-    "s26": 84331,
-    "s265": 70519,
+    "s25": 69042,
+    "s255": 70519,
+    "s26": 76424,
+    "s265": 67972,
     "s27": 60910,
-    "s275": 60375,
-    "s28": 75869,
-    "s285": 62194,
+    "s275": 63050,
+    "s28": 70540,
+    "s285": 70540,
     "s29": 67330,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -9486,7 +9505,7 @@
    "sku": "FZ8117-101",
    "snk": {
     "s245": {
-     "p": 99801,
+     "p": 130000,
      "url": "https://snkrdunk.com/products/FZ8117-101",
      "bid": false
     },
@@ -9516,7 +9535,7 @@
      "bid": false
     },
     "s275": {
-     "p": 89000,
+     "p": 88000,
      "url": "https://snkrdunk.com/products/FZ8117-101",
      "bid": false
     },
@@ -9531,7 +9550,7 @@
      "bid": false
     },
     "s29": {
-     "p": 79278,
+     "p": 79274,
      "url": "https://snkrdunk.com/products/FZ8117-101",
      "bid": false
     }
@@ -9539,19 +9558,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "FZ8117-101",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 107777,
     "s25": 126442,
     "s255": 91940,
-    "s26": 91780,
+    "s26": 91833,
     "s265": 118446,
-    "s27": 105850,
-    "s275": 97290,
-    "s28": 104030,
+    "s27": 113340,
+    "s275": 96220,
+    "s28": 104031,
     "s285": 89265,
-    "s29": 85823,
-    "at": "2026-10-26"
+    "s29": 85817,
+    "at": "2026-11-02"
    }
   },
   {
@@ -9570,8 +9589,8 @@
     "s275": 18645,
     "s28": 10406,
     "s285": 18110,
-    "s29": 13830,
-    "at": "2026-10-26"
+    "s29": 13295,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14300,
@@ -9593,17 +9612,12 @@
      "bid": false
     },
     "s27": {
-     "p": 8800,
+     "p": 17000,
      "url": "https://snkrdunk.com/products/GW3246",
      "bid": false
     },
     "s275": {
      "p": 16500,
-     "url": "https://snkrdunk.com/products/GW3246",
-     "bid": false
-    },
-    "s28": {
-     "p": 8800,
      "url": "https://snkrdunk.com/products/GW3246",
      "bid": false
     },
@@ -9618,7 +9632,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "GW3246"
   },
@@ -9635,11 +9649,11 @@
     "s26": 11476,
     "s265": 14579,
     "s27": 11583,
-    "s275": 10620,
+    "s275": 17468,
     "s28": 11048,
     "s285": 15114,
     "s29": 11690,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 15400,
@@ -9686,7 +9700,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "GW3496"
   },
@@ -9703,7 +9717,7 @@
    "sku": "GW5270",
    "snk": {
     "s245": {
-     "p": 34908,
+     "p": 33308,
      "url": "https://snkrdunk.com/products/GW5270",
      "bid": false
     },
@@ -9726,13 +9740,13 @@
    "src": "snk-fav",
    "yah": {},
    "id": "GW5270",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 38342,
     "s265": 23460,
-    "s27": 198940,
+    "s27": 20250,
     "s285": 27740,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -9749,7 +9763,7 @@
     "s28": 24316,
     "s285": 27739,
     "s29": 41650,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 17000,
@@ -9787,7 +9801,7 @@
     }
    },
    "src": "snk-fav",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "GX9054"
   },
@@ -9827,13 +9841,13 @@
    "src": "snk-fav",
    "yah": {},
    "id": "GZ1072",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s255": 42847,
     "s265": 21962,
-    "s275": 17575,
+    "s275": 15970,
     "s28": 70845,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -9851,8 +9865,8 @@
    "name": "adidas Adimatic",
    "order": 8,
    "prev": {
-    "s245": 22283,
-    "s25": 17069,
+    "s245": 21320,
+    "s25": 17070,
     "s255": 15970,
     "s26": 15435,
     "s265": 13723,
@@ -9861,7 +9875,7 @@
     "s28": 10085,
     "s285": 8962,
     "s29": 11582,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 13200,
@@ -9873,7 +9887,7 @@
      "bid": false
     },
     "s25": {
-     "p": 15028,
+     "p": 18818,
      "url": "https://snkrdunk.com/products/GZ6202",
      "bid": false
     },
@@ -9908,7 +9922,7 @@
      "bid": false
     },
     "s285": {
-     "p": 7450,
+     "p": 7480,
      "url": "https://snkrdunk.com/products/GZ6202",
      "bid": false
     },
@@ -9918,7 +9932,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s28": {
      "bid": false,
@@ -9951,7 +9965,7 @@
      "bid": false
     },
     "s26": {
-     "p": 28000,
+     "p": 27000,
      "url": "https://snkrdunk.com/products/GZ8980",
      "bid": false
     },
@@ -9979,16 +9993,16 @@
    "src": "snk-fav",
    "yah": {},
    "id": "GZ8980",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 58770,
     "s25": 52350,
-    "s26": 31485,
+    "s26": 30950,
     "s27": 35015,
     "s275": 43790,
     "s28": 39510,
     "s29": 43790,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -10007,16 +10021,16 @@
    "order": 29,
    "prev": {
     "s245": 14779,
-    "s25": 14397,
-    "s255": 14911,
-    "s26": 14740,
-    "s265": 15810,
+    "s25": 14022,
+    "s255": 14524,
+    "s26": 14721,
+    "s265": 15327,
     "s27": 11000,
-    "s275": 17639,
-    "s28": 15489,
+    "s275": 18217,
+    "s28": 15498,
     "s285": 14900,
-    "s29": 18501,
-    "at": "2026-10-26"
+    "s29": 18488,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 14080,
@@ -10028,37 +10042,37 @@
      "bid": false
     },
     "s25": {
-     "p": 12179,
+     "p": 11870,
      "url": "https://snkrdunk.com/products/HJ7263-010",
      "bid": false
     },
     "s255": {
-     "p": 12649,
+     "p": 12178,
      "url": "https://snkrdunk.com/products/HJ7263-010",
      "bid": false
     },
     "s26": {
-     "p": 12833,
+     "p": 12821,
      "url": "https://snkrdunk.com/products/HJ7263-010",
      "bid": false
     },
     "s265": {
-     "p": 13399,
+     "p": 13368,
      "url": "https://snkrdunk.com/products/HJ7263-010",
      "bid": false
     },
     "s27": {
-     "p": 13466,
+     "p": 13455,
      "url": "https://snkrdunk.com/products/HJ7263-010",
      "bid": false
     },
     "s275": {
-     "p": 16100,
+     "p": 14010,
      "url": "https://snkrdunk.com/products/HJ7263-010",
      "bid": false
     },
     "s28": {
-     "p": 13559,
+     "p": 13549,
      "url": "https://snkrdunk.com/products/HJ7263-010",
      "bid": false
     },
@@ -10068,12 +10082,12 @@
      "bid": false
     },
     "s29": {
-     "p": 16353,
+     "p": 16342,
      "url": "https://snkrdunk.com/products/HJ7263-010",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "HJ7263-010"
   },
@@ -10100,42 +10114,42 @@
      "bid": false
     },
     "s255": {
-     "p": 31200,
+     "p": 31800,
      "url": "https://snkrdunk.com/products/HM4740-001",
      "bid": false
     },
     "s26": {
-     "p": 31600,
+     "p": 29980,
      "url": "https://snkrdunk.com/products/HM4740-001",
      "bid": false
     },
     "s265": {
-     "p": 35500,
+     "p": 33000,
      "url": "https://snkrdunk.com/products/HM4740-001",
      "bid": false
     },
     "s27": {
-     "p": 38000,
+     "p": 36000,
      "url": "https://snkrdunk.com/products/HM4740-001",
      "bid": false
     },
     "s275": {
-     "p": 39000,
+     "p": 38200,
      "url": "https://snkrdunk.com/products/HM4740-001",
      "bid": false
     },
     "s28": {
-     "p": 40980,
+     "p": 39499,
      "url": "https://snkrdunk.com/products/HM4740-001",
      "bid": false
     },
     "s285": {
-     "p": 39000,
+     "p": 37900,
      "url": "https://snkrdunk.com/products/HM4740-001",
      "bid": false
     },
     "s29": {
-     "p": 40300,
+     "p": 40500,
      "url": "https://snkrdunk.com/products/HM4740-001",
      "bid": false
     }
@@ -10143,19 +10157,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "HM4740-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 33625,
-    "s25": 29666,
-    "s255": 34588,
-    "s26": 34160,
-    "s265": 35444,
-    "s27": 40579,
+    "s25": 30949,
+    "s255": 34374,
+    "s26": 34802,
+    "s265": 38975,
+    "s27": 41650,
     "s275": 42720,
-    "s28": 41115,
-    "s285": 42506,
-    "s29": 43040,
-    "at": "2026-10-26"
+    "s28": 44839,
+    "s285": 42720,
+    "s29": 44111,
+    "at": "2026-11-02"
    }
   },
   {
@@ -10178,24 +10192,24 @@
    "name": "Air Jordan 1 Retro Low OG",
    "order": 43,
    "prev": {
-    "s245": 17040,
-    "s25": 20250,
+    "s245": 17575,
+    "s25": 21213,
     "s255": 21320,
     "s26": 20143,
-    "s265": 17040,
-    "s27": 16826,
-    "s275": 15970,
+    "s265": 17896,
+    "s27": 17896,
+    "s275": 16500,
     "s28": 15800,
-    "s285": 17468,
+    "s285": 17361,
     "s29": 17040,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 20900,
    "sku": "HQ6998-600",
    "snk": {
     "s245": {
-     "p": 15500,
+     "p": 20000,
      "url": "https://snkrdunk.com/products/HQ6998-600",
      "bid": false
     },
@@ -10210,32 +10224,32 @@
      "bid": false
     },
     "s26": {
-     "p": 17900,
+     "p": 18000,
      "url": "https://snkrdunk.com/products/HQ6998-600",
      "bid": false
     },
     "s265": {
-     "p": 15800,
+     "p": 16000,
      "url": "https://snkrdunk.com/products/HQ6998-600",
      "bid": false
     },
     "s27": {
-     "p": 15800,
+     "p": 15500,
      "url": "https://snkrdunk.com/products/HQ6998-600",
      "bid": false
     },
     "s275": {
-     "p": 14800,
-     "url": "https://snkrdunk.com/products/HQ6998-600",
-     "bid": false
-    },
-    "s28": {
      "p": 14500,
      "url": "https://snkrdunk.com/products/HQ6998-600",
      "bid": false
     },
+    "s28": {
+     "p": 13998,
+     "url": "https://snkrdunk.com/products/HQ6998-600",
+     "bid": false
+    },
     "s285": {
-     "p": 15300,
+     "p": 15200,
      "url": "https://snkrdunk.com/products/HQ6998-600",
      "bid": false
     },
@@ -10245,7 +10259,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s28": {
      "bid": false,
@@ -10278,7 +10292,7 @@
      "bid": false
     },
     "s255": {
-     "p": 69999,
+     "p": 72700,
      "url": "https://snkrdunk.com/products/HQ8487-400",
      "bid": false
     },
@@ -10288,27 +10302,27 @@
      "bid": false
     },
     "s265": {
-     "p": 46280,
+     "p": 46279,
      "url": "https://snkrdunk.com/products/HQ8487-400",
      "bid": false
     },
     "s27": {
-     "p": 54500,
+     "p": 53000,
      "url": "https://snkrdunk.com/products/HQ8487-400",
      "bid": false
     },
     "s275": {
-     "p": 56000,
+     "p": 51000,
      "url": "https://snkrdunk.com/products/HQ8487-400",
      "bid": false
     },
     "s28": {
-     "p": 48999,
+     "p": 49000,
      "url": "https://snkrdunk.com/products/HQ8487-400",
      "bid": false
     },
     "s285": {
-     "p": 53900,
+     "p": 54800,
      "url": "https://snkrdunk.com/products/HQ8487-400",
      "bid": false
     },
@@ -10321,19 +10335,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "HQ8487-400",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 52350,
     "s25": 44860,
     "s255": 75889,
     "s26": 45930,
-    "s265": 51055,
-    "s27": 59840,
-    "s275": 62836,
-    "s28": 53420,
-    "s285": 58749,
+    "s265": 50510,
+    "s27": 59305,
+    "s275": 60910,
+    "s28": 53419,
+    "s285": 58663,
     "s29": 63049,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -10347,14 +10361,14 @@
     "s245": 33090,
     "s25": 42720,
     "s255": 47321,
-    "s26": 54276,
-    "s265": 53313,
-    "s27": 58662,
-    "s275": 57165,
+    "s26": 54169,
+    "s265": 53419,
+    "s27": 57378,
+    "s275": 61980,
     "s28": 75888,
-    "s285": 83380,
+    "s285": 85520,
     "s29": 102638,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 37400,
@@ -10366,7 +10380,7 @@
      "bid": false
     },
     "s25": {
-     "p": 39000,
+     "p": 39900,
      "url": "https://snkrdunk.com/products/HV6674-020",
      "bid": false
     },
@@ -10386,12 +10400,12 @@
      "bid": false
     },
     "s27": {
-     "p": 52699,
+     "p": 52500,
      "url": "https://snkrdunk.com/products/HV6674-020",
      "bid": false
     },
     "s275": {
-     "p": 57000,
+     "p": 55000,
      "url": "https://snkrdunk.com/products/HV6674-020",
      "bid": false
     },
@@ -10412,7 +10426,7 @@
     }
    },
    "src": "snk-fav",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "HV6674-020"
   },
@@ -10425,16 +10439,16 @@
    "order": 103,
    "prev": {
     "s245": 32876,
-    "s25": 37582,
-    "s255": 38654,
-    "s26": 40366,
-    "s265": 43255,
-    "s27": 44753,
-    "s275": 48391,
-    "s28": 50745,
-    "s285": 57807,
-    "s29": 62932,
-    "at": "2026-10-26"
+    "s25": 38440,
+    "s255": 38440,
+    "s26": 40045,
+    "s265": 43148,
+    "s27": 46893,
+    "s275": 48070,
+    "s28": 50638,
+    "s285": 55346,
+    "s29": 64109,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 37400,
@@ -10446,22 +10460,22 @@
      "bid": false
     },
     "s25": {
-     "p": 35000,
+     "p": 33000,
      "url": "https://snkrdunk.com/products/HV6674-067",
      "bid": false
     },
     "s255": {
-     "p": 35000,
+     "p": 34750,
      "url": "https://snkrdunk.com/products/HV6674-067",
      "bid": false
     },
     "s26": {
-     "p": 36500,
+     "p": 36000,
      "url": "https://snkrdunk.com/products/HV6674-067",
      "bid": false
     },
     "s265": {
-     "p": 39400,
+     "p": 39250,
      "url": "https://snkrdunk.com/products/HV6674-067",
      "bid": false
     },
@@ -10471,28 +10485,28 @@
      "bid": false
     },
     "s275": {
-     "p": 44000,
+     "p": 43100,
      "url": "https://snkrdunk.com/products/HV6674-067",
      "bid": false
     },
     "s28": {
-     "p": 46400,
+     "p": 46300,
      "url": "https://snkrdunk.com/products/HV6674-067",
      "bid": false
     },
     "s285": {
-     "p": 50800,
+     "p": 52000,
      "url": "https://snkrdunk.com/products/HV6674-067",
      "bid": false
     },
     "s29": {
-     "p": 58990,
+     "p": 55000,
      "url": "https://snkrdunk.com/products/HV6674-067",
      "bid": false
     }
    },
    "src": "snk-fav",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "HV6674-067"
   },
@@ -10513,15 +10527,15 @@
    "prev": {
     "s245": 36086,
     "s25": 35111,
-    "s255": 31699,
-    "s26": 36299,
-    "s265": 36300,
-    "s27": 36086,
+    "s255": 31656,
+    "s26": 36289,
+    "s265": 38440,
+    "s27": 35230,
     "s275": 31800,
-    "s28": 30415,
-    "s285": 29880,
-    "s29": 28810,
-    "at": "2026-10-26"
+    "s28": 30929,
+    "s285": 32769,
+    "s29": 29345,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 28600,
@@ -10533,17 +10547,17 @@
      "bid": false
     },
     "s25": {
-     "p": 31889,
+     "p": 31000,
      "url": "https://snkrdunk.com/products/HV8563-600",
      "bid": false
     },
     "s255": {
-     "p": 28660,
+     "p": 28363,
      "url": "https://snkrdunk.com/products/HV8563-600",
      "bid": false
     },
     "s26": {
-     "p": 32990,
+     "p": 32863,
      "url": "https://snkrdunk.com/products/HV8563-600",
      "bid": false
     },
@@ -10553,32 +10567,32 @@
      "bid": false
     },
     "s27": {
-     "p": 32000,
+     "p": 29299,
      "url": "https://snkrdunk.com/products/HV8563-600",
      "bid": false
     },
     "s275": {
-     "p": 29300,
+     "p": 28993,
      "url": "https://snkrdunk.com/products/HV8563-600",
      "bid": false
     },
     "s28": {
-     "p": 27980,
+     "p": 27440,
      "url": "https://snkrdunk.com/products/HV8563-600",
      "bid": false
     },
     "s285": {
-     "p": 29700,
+     "p": 28499,
      "url": "https://snkrdunk.com/products/HV8563-600",
      "bid": false
     },
     "s29": {
-     "p": 26500,
+     "p": 28000,
      "url": "https://snkrdunk.com/products/HV8563-600",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -10609,16 +10623,16 @@
    "order": 39,
    "prev": {
     "s245": 30950,
-    "s25": 28810,
+    "s25": 28263,
     "s255": 22390,
     "s26": 16494,
-    "s265": 14899,
-    "s27": 15970,
-    "s275": 15400,
-    "s28": 16505,
-    "s285": 18645,
+    "s265": 16922,
+    "s27": 16880,
+    "s275": 14900,
+    "s28": 16494,
+    "s285": 20784,
     "s29": 20249,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 25300,
@@ -10630,7 +10644,7 @@
      "bid": false
     },
     "s25": {
-     "p": 25489,
+     "p": 25020,
      "url": "https://snkrdunk.com/products/IB1981-004",
      "bid": false
     },
@@ -10640,22 +10654,22 @@
      "bid": false
     },
     "s26": {
-     "p": 14490,
+     "p": 17400,
      "url": "https://snkrdunk.com/products/IB1981-004",
      "bid": false
     },
     "s265": {
-     "p": 14890,
+     "p": 14500,
      "url": "https://snkrdunk.com/products/IB1981-004",
      "bid": false
     },
     "s27": {
-     "p": 14850,
+     "p": 14000,
      "url": "https://snkrdunk.com/products/IB1981-004",
      "bid": false
     },
     "s275": {
-     "p": 13000,
+     "p": 12140,
      "url": "https://snkrdunk.com/products/IB1981-004",
      "bid": false
     },
@@ -10665,17 +10679,17 @@
      "bid": false
     },
     "s285": {
-     "p": 18499,
+     "p": 18000,
      "url": "https://snkrdunk.com/products/IB1981-004",
      "bid": false
     },
     "s29": {
-     "p": 17999,
+     "p": 18000,
      "url": "https://snkrdunk.com/products/IB1981-004",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "IB1981-004"
   },
@@ -10702,27 +10716,27 @@
      "bid": false
     },
     "s255": {
-     "p": 32000,
+     "p": 31000,
      "url": "https://snkrdunk.com/products/IB8958-001",
      "bid": false
     },
     "s26": {
-     "p": 38000,
+     "p": 37889,
      "url": "https://snkrdunk.com/products/IB8958-001",
      "bid": false
     },
     "s265": {
-     "p": 29400,
+     "p": 29880,
      "url": "https://snkrdunk.com/products/IB8958-001",
      "bid": false
     },
     "s27": {
-     "p": 29999,
+     "p": 29000,
      "url": "https://snkrdunk.com/products/IB8958-001",
      "bid": false
     },
     "s275": {
-     "p": 30000,
+     "p": 31000,
      "url": "https://snkrdunk.com/products/IB8958-001",
      "bid": false
     },
@@ -10745,19 +10759,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "IB8958-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 65190,
     "s25": 38440,
-    "s255": 35764,
-    "s26": 38440,
-    "s265": 32983,
-    "s27": 33090,
-    "s275": 32020,
-    "s28": 35123,
+    "s255": 35230,
+    "s26": 41650,
+    "s265": 32448,
+    "s27": 33089,
+    "s275": 33090,
+    "s28": 33090,
     "s285": 34374,
-    "s29": 36300,
-    "at": "2026-10-26"
+    "s29": 37370,
+    "at": "2026-11-02"
    }
   },
   {
@@ -10780,24 +10794,24 @@
    "name": "Zion Williamson × Air Jordan 1 Low OG",
    "order": 1,
    "prev": {
-    "s245": 46405,
+    "s245": 46401,
     "s25": 30843,
     "s255": 22000,
     "s26": 24530,
-    "s265": 22262,
-    "s27": 19715,
+    "s265": 23995,
+    "s27": 20678,
     "s275": 22990,
-    "s28": 22337,
-    "s285": 20250,
-    "s29": 22176,
-    "at": "2026-10-26"
+    "s28": 22390,
+    "s285": 20036,
+    "s29": 24530,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 23650,
    "sku": "IH2309-500",
    "snk": {
     "s245": {
-     "p": 42440,
+     "p": 42439,
      "url": "https://snkrdunk.com/products/IH2309-500",
      "bid": false
     },
@@ -10817,27 +10831,27 @@
      "bid": false
     },
     "s265": {
-     "p": 21500,
+     "p": 21000,
      "url": "https://snkrdunk.com/products/IH2309-500",
      "bid": false
     },
     "s27": {
-     "p": 18400,
+     "p": 19490,
      "url": "https://snkrdunk.com/products/IH2309-500",
      "bid": false
     },
     "s275": {
-     "p": 20800,
+     "p": 22000,
      "url": "https://snkrdunk.com/products/IH2309-500",
      "bid": false
     },
     "s28": {
-     "p": 20000,
+     "p": 19990,
      "url": "https://snkrdunk.com/products/IH2309-500",
      "bid": false
     },
     "s285": {
-     "p": 17800,
+     "p": 22000,
      "url": "https://snkrdunk.com/products/IH2309-500",
      "bid": false
     },
@@ -10847,7 +10861,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -10877,59 +10891,59 @@
    "name": "Travis Scott × Chase B × Jumpman Jack TR",
    "order": 34,
    "prev": {
-    "s245": 41982,
+    "s245": 41842,
     "s25": 43200,
-    "s255": 40154,
-    "s26": 33089,
-    "s265": 29440,
-    "s27": 32983,
-    "s275": 33089,
-    "s28": 29773,
+    "s255": 40029,
+    "s26": 33009,
+    "s265": 29339,
+    "s27": 32660,
+    "s275": 33081,
+    "s28": 29879,
     "s285": 28810,
     "s29": 31592,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 30800,
    "sku": "IH7971-001",
    "snk": {
     "s245": {
-     "p": 38179,
+     "p": 37941,
      "url": "https://snkrdunk.com/products/IH7971-001",
      "bid": false
     },
     "s25": {
-     "p": 39449,
+     "p": 38999,
      "url": "https://snkrdunk.com/products/IH7971-001",
      "bid": false
     },
     "s255": {
-     "p": 36485,
+     "p": 36445,
      "url": "https://snkrdunk.com/products/IH7971-001",
      "bid": false
     },
     "s26": {
-     "p": 29924,
+     "p": 29756,
      "url": "https://snkrdunk.com/products/IH7971-001",
      "bid": false
     },
     "s265": {
-     "p": 26494,
+     "p": 25494,
      "url": "https://snkrdunk.com/products/IH7971-001",
      "bid": false
     },
     "s27": {
-     "p": 29598,
+     "p": 27300,
      "url": "https://snkrdunk.com/products/IH7971-001",
      "bid": false
     },
     "s275": {
-     "p": 29992,
+     "p": 31999,
      "url": "https://snkrdunk.com/products/IH7971-001",
      "bid": false
     },
     "s28": {
-     "p": 26999,
+     "p": 27900,
      "url": "https://snkrdunk.com/products/IH7971-001",
      "bid": false
     },
@@ -10939,12 +10953,12 @@
      "bid": false
     },
     "s29": {
-     "p": 28600,
+     "p": 29999,
      "url": "https://snkrdunk.com/products/IH7971-001",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "IH7971-001"
   },
@@ -10969,16 +10983,16 @@
    "order": 40,
    "prev": {
     "s245": 38320,
-    "s25": 31942,
-    "s255": 32869,
+    "s25": 32014,
+    "s255": 31996,
     "s26": 26670,
-    "s265": 26349,
-    "s27": 24765,
-    "s275": 26984,
-    "s28": 26668,
+    "s265": 25600,
+    "s27": 24529,
+    "s275": 26924,
+    "s28": 25493,
     "s285": 24316,
-    "s29": 26563,
-    "at": "2026-10-26"
+    "s29": 25599,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 29699,
@@ -10990,12 +11004,12 @@
      "bid": false
     },
     "s25": {
-     "p": 28994,
+     "p": 28991,
      "url": "https://snkrdunk.com/products/IM9113-300",
      "bid": false
     },
     "s255": {
-     "p": 28978,
+     "p": 28944,
      "url": "https://snkrdunk.com/products/IM9113-300",
      "bid": false
     },
@@ -11005,17 +11019,17 @@
      "bid": false
     },
     "s265": {
-     "p": 23000,
+     "p": 22500,
      "url": "https://snkrdunk.com/products/IM9113-300",
      "bid": false
     },
     "s27": {
-     "p": 21999,
+     "p": 21299,
      "url": "https://snkrdunk.com/products/IM9113-300",
      "bid": false
     },
     "s275": {
-     "p": 24237,
+     "p": 24236,
      "url": "https://snkrdunk.com/products/IM9113-300",
      "bid": false
     },
@@ -11030,12 +11044,12 @@
      "bid": false
     },
     "s29": {
-     "p": 22999,
+     "p": 22699,
      "url": "https://snkrdunk.com/products/IM9113-300",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "IM9113-300"
   },
@@ -11057,17 +11071,17 @@
      "bid": false
     },
     "s25": {
-     "p": 115000,
+     "p": 114000,
      "url": "https://snkrdunk.com/products/IO7847-001",
      "bid": false
     },
     "s26": {
-     "p": 79999,
+     "p": 75000,
      "url": "https://snkrdunk.com/products/IO7847-001",
      "bid": false
     },
     "s265": {
-     "p": 83990,
+     "p": 83991,
      "url": "https://snkrdunk.com/products/IO7847-001",
      "bid": false
     },
@@ -11077,17 +11091,17 @@
      "bid": false
     },
     "s275": {
-     "p": 97999,
+     "p": 91500,
      "url": "https://snkrdunk.com/products/IO7847-001",
      "bid": false
     },
     "s28": {
-     "p": 88500,
+     "p": 88490,
      "url": "https://snkrdunk.com/products/IO7847-001",
      "bid": false
     },
     "s285": {
-     "p": 109000,
+     "p": 107000,
      "url": "https://snkrdunk.com/products/IO7847-001",
      "bid": false
     },
@@ -11100,18 +11114,18 @@
    "src": "snk-fav",
    "yah": {},
    "id": "IO7847-001",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 117632,
+    "s245": 111956,
     "s25": 124040,
     "s26": 86589,
     "s265": 90859,
     "s27": 93010,
-    "s275": 113233,
+    "s275": 105849,
     "s28": 95685,
-    "s285": 97076,
-    "s29": 112270,
-    "at": "2026-10-26"
+    "s285": 117620,
+    "s29": 113339,
+    "at": "2026-11-02"
    }
   },
   {
@@ -11127,52 +11141,52 @@
    "sku": "IO7847-002",
    "snk": {
     "s245": {
-     "p": 33999,
+     "p": 33499,
      "url": "https://snkrdunk.com/products/IO7847-002",
      "bid": false
     },
     "s25": {
-     "p": 33950,
+     "p": 33999,
      "url": "https://snkrdunk.com/products/IO7847-002",
      "bid": false
     },
     "s255": {
-     "p": 37800,
+     "p": 37700,
      "url": "https://snkrdunk.com/products/IO7847-002",
      "bid": false
     },
     "s26": {
-     "p": 36300,
+     "p": 38000,
      "url": "https://snkrdunk.com/products/IO7847-002",
      "bid": false
     },
     "s265": {
-     "p": 34999,
+     "p": 35980,
      "url": "https://snkrdunk.com/products/IO7847-002",
      "bid": false
     },
     "s27": {
-     "p": 36499,
+     "p": 35799,
      "url": "https://snkrdunk.com/products/IO7847-002",
      "bid": false
     },
     "s275": {
-     "p": 33400,
+     "p": 34000,
      "url": "https://snkrdunk.com/products/IO7847-002",
      "bid": false
     },
     "s28": {
-     "p": 32800,
+     "p": 30900,
      "url": "https://snkrdunk.com/products/IO7847-002",
      "bid": false
     },
     "s285": {
-     "p": 31300,
+     "p": 28999,
      "url": "https://snkrdunk.com/products/IO7847-002",
      "bid": false
     },
     "s29": {
-     "p": 29500,
+     "p": 30000,
      "url": "https://snkrdunk.com/products/IO7847-002",
      "bid": false
     }
@@ -11180,19 +11194,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "IO7847-002",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 37370,
-    "s25": 38974,
-    "s255": 41543,
-    "s26": 38943,
-    "s265": 38119,
-    "s27": 36300,
-    "s275": 34695,
-    "s28": 34695,
-    "s285": 32876,
-    "s29": 31913,
-    "at": "2026-10-26"
+    "s245": 37369,
+    "s25": 37316,
+    "s255": 41436,
+    "s26": 39831,
+    "s265": 38439,
+    "s27": 40044,
+    "s275": 36728,
+    "s28": 36086,
+    "s285": 34481,
+    "s29": 32555,
+    "at": "2026-11-02"
    }
   },
   {
@@ -11223,7 +11237,7 @@
      "bid": false
     },
     "s275": {
-     "p": 78000,
+     "p": 73000,
      "url": "https://snkrdunk.com/products/IQ6083-067",
      "bid": false
     },
@@ -11241,15 +11255,15 @@
    "src": "snk-fav",
    "yah": {},
    "id": "IQ6083-067",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s26": 81029,
     "s265": 65189,
-    "s27": 78915,
+    "s27": 65190,
     "s275": 84450,
-    "s28": 82310,
+    "s28": 84450,
     "s285": 86376,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -11269,14 +11283,14 @@
    "prev": {
     "s25": 46464,
     "s255": 37370,
-    "s26": 28810,
+    "s26": 38566,
     "s265": 35765,
     "s27": 24530,
     "s275": 26740,
     "s28": 25000,
     "s285": 31999,
     "s29": 39189,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 33000,
@@ -11293,12 +11307,12 @@
      "bid": false
     },
     "s26": {
-     "p": 35118,
+     "p": 34018,
      "url": "https://snkrdunk.com/products/IQ6573-100",
      "bid": false
     },
     "s265": {
-     "p": 32500,
+     "p": 31800,
      "url": "https://snkrdunk.com/products/IQ6573-100",
      "bid": false
     },
@@ -11308,12 +11322,12 @@
      "bid": false
     },
     "s275": {
-     "p": 24700,
+     "p": 22000,
      "url": "https://snkrdunk.com/products/IQ6573-100",
      "bid": false
     },
     "s28": {
-     "p": 25000,
+     "p": 22700,
      "url": "https://snkrdunk.com/products/IQ6573-100",
      "bid": false
     },
@@ -11328,7 +11342,7 @@
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s275": {
      "bid": false,
@@ -11356,52 +11370,52 @@
    "sku": "IQ7604-100",
    "snk": {
     "s245": {
-     "p": 124787,
+     "p": 110998,
      "url": "https://snkrdunk.com/products/IQ7604-100",
      "bid": false
     },
     "s25": {
-     "p": 85500,
+     "p": 88000,
      "url": "https://snkrdunk.com/products/IQ7604-100",
      "bid": false
     },
     "s255": {
-     "p": 77899,
+     "p": 74700,
      "url": "https://snkrdunk.com/products/IQ7604-100",
      "bid": false
     },
     "s26": {
-     "p": 66980,
+     "p": 59000,
      "url": "https://snkrdunk.com/products/IQ7604-100",
      "bid": false
     },
     "s265": {
-     "p": 61100,
+     "p": 64500,
      "url": "https://snkrdunk.com/products/IQ7604-100",
      "bid": false
     },
     "s27": {
-     "p": 58300,
+     "p": 56499,
      "url": "https://snkrdunk.com/products/IQ7604-100",
      "bid": false
     },
     "s275": {
-     "p": 54000,
+     "p": 53999,
      "url": "https://snkrdunk.com/products/IQ7604-100",
      "bid": false
     },
     "s28": {
-     "p": 52000,
+     "p": 51149,
      "url": "https://snkrdunk.com/products/IQ7604-100",
      "bid": false
     },
     "s285": {
-     "p": 49000,
+     "p": 47500,
      "url": "https://snkrdunk.com/products/IQ7604-100",
      "bid": false
     },
     "s29": {
-     "p": 47000,
+     "p": 44999,
      "url": "https://snkrdunk.com/products/IQ7604-100",
      "bid": false
     }
@@ -11409,19 +11423,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "IQ7604-100",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 134942,
-    "s25": 95471,
-    "s255": 79100,
-    "s26": 73097,
-    "s265": 66260,
-    "s27": 62836,
-    "s275": 55025,
-    "s28": 54489,
-    "s285": 53313,
-    "s29": 50745,
-    "at": "2026-10-26"
+    "s245": 134512,
+    "s25": 92475,
+    "s255": 84342,
+    "s26": 72659,
+    "s265": 66367,
+    "s27": 63371,
+    "s275": 58770,
+    "s28": 56630,
+    "s285": 53420,
+    "s29": 51280,
+    "at": "2026-11-02"
    }
   },
   {
@@ -11447,17 +11461,17 @@
      "bid": false
     },
     "s255": {
-     "p": 75700,
+     "p": 76000,
      "url": "https://snkrdunk.com/products/IQ7604-101",
      "bid": false
     },
     "s26": {
-     "p": 63000,
+     "p": 59499,
      "url": "https://snkrdunk.com/products/IQ7604-101",
      "bid": false
     },
     "s265": {
-     "p": 62400,
+     "p": 60099,
      "url": "https://snkrdunk.com/products/IQ7604-101",
      "bid": false
     },
@@ -11467,22 +11481,22 @@
      "bid": false
     },
     "s275": {
-     "p": 58499,
+     "p": 56000,
      "url": "https://snkrdunk.com/products/IQ7604-101",
      "bid": false
     },
     "s28": {
-     "p": 47999,
+     "p": 49980,
      "url": "https://snkrdunk.com/products/IQ7604-101",
      "bid": false
     },
     "s285": {
-     "p": 47500,
+     "p": 48000,
      "url": "https://snkrdunk.com/products/IQ7604-101",
      "bid": false
     },
     "s29": {
-     "p": 46999,
+     "p": 49000,
      "url": "https://snkrdunk.com/products/IQ7604-101",
      "bid": false
     }
@@ -11490,19 +11504,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "IQ7604-101",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "s245": 122970,
+    "s245": 127143,
     "s25": 95150,
-    "s255": 84984,
-    "s26": 72089,
-    "s265": 67329,
-    "s27": 65188,
-    "s275": 64013,
-    "s28": 54490,
-    "s285": 51280,
-    "s29": 48391,
-    "at": "2026-10-26"
+    "s255": 81989,
+    "s26": 68400,
+    "s265": 67758,
+    "s27": 64120,
+    "s275": 63584,
+    "s28": 52349,
+    "s285": 51815,
+    "s29": 51279,
+    "at": "2026-11-02"
    }
   },
   {
@@ -11523,7 +11537,7 @@
      "bid": false
     },
     "s25": {
-     "p": 40000,
+     "p": 60000,
      "url": "https://snkrdunk.com/products/IV6099-002",
      "bid": false
     },
@@ -11533,37 +11547,37 @@
      "bid": false
     },
     "s26": {
-     "p": 44800,
+     "p": 55000,
      "url": "https://snkrdunk.com/products/IV6099-002",
      "bid": false
     },
     "s265": {
-     "p": 59000,
+     "p": 57000,
      "url": "https://snkrdunk.com/products/IV6099-002",
      "bid": false
     },
     "s27": {
-     "p": 45000,
+     "p": 44800,
      "url": "https://snkrdunk.com/products/IV6099-002",
      "bid": false
     },
     "s275": {
-     "p": 54100,
+     "p": 52800,
      "url": "https://snkrdunk.com/products/IV6099-002",
      "bid": false
     },
     "s28": {
-     "p": 74000,
+     "p": 72000,
      "url": "https://snkrdunk.com/products/IV6099-002",
      "bid": false
     },
     "s285": {
-     "p": 63400,
+     "p": 64100,
      "url": "https://snkrdunk.com/products/IV6099-002",
      "bid": false
     },
     "s29": {
-     "p": 74000,
+     "p": 70000,
      "url": "https://snkrdunk.com/products/IV6099-002",
      "bid": false
     }
@@ -11571,19 +11585,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "IV6099-002",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 43790,
     "s25": 43790,
-    "s255": 35016,
-    "s26": 54276,
-    "s265": 55560,
-    "s27": 51066,
-    "s275": 58770,
-    "s28": 75890,
-    "s285": 71610,
-    "s29": 65190,
-    "at": "2026-10-26"
+    "s255": 49140,
+    "s26": 48926,
+    "s265": 64120,
+    "s27": 49140,
+    "s275": 58877,
+    "s28": 80170,
+    "s285": 68828,
+    "s29": 80170,
+    "at": "2026-11-02"
    }
   },
   {
@@ -11601,17 +11615,17 @@
    "name": "Air Jordan 1 Retro Low OG",
    "order": 35,
    "prev": {
-    "s245": 17575,
+    "s245": 21106,
     "s25": 20999,
     "s255": 17039,
-    "s26": 15221,
+    "s26": 15114,
     "s265": 15542,
-    "s27": 15435,
-    "s275": 15435,
+    "s27": 17040,
+    "s275": 15863,
     "s28": 14101,
-    "s285": 13295,
-    "s29": 13830,
-    "at": "2026-10-26"
+    "s285": 13830,
+    "s29": 14365,
+    "at": "2026-11-02"
    },
    "rak": {
     "s275": {
@@ -11624,57 +11638,57 @@
    "sku": "IW6276-001",
    "snk": {
     "s245": {
-     "p": 18800,
+     "p": 18695,
      "url": "https://snkrdunk.com/products/IW6276-001",
      "bid": false
     },
     "s25": {
-     "p": 19975,
+     "p": 18715,
      "url": "https://snkrdunk.com/products/IW6276-001",
      "bid": false
     },
     "s255": {
-     "p": 14999,
+     "p": 13990,
      "url": "https://snkrdunk.com/products/IW6276-001",
      "bid": false
     },
     "s26": {
-     "p": 13200,
+     "p": 13250,
      "url": "https://snkrdunk.com/products/IW6276-001",
      "bid": false
     },
     "s265": {
-     "p": 13600,
-     "url": "https://snkrdunk.com/products/IW6276-001",
-     "bid": false
-    },
-    "s27": {
      "p": 15000,
      "url": "https://snkrdunk.com/products/IW6276-001",
      "bid": false
     },
+    "s27": {
+     "p": 12790,
+     "url": "https://snkrdunk.com/products/IW6276-001",
+     "bid": false
+    },
     "s275": {
-     "p": 13900,
+     "p": 12499,
      "url": "https://snkrdunk.com/products/IW6276-001",
      "bid": false
     },
     "s28": {
-     "p": 14100,
+     "p": 14400,
      "url": "https://snkrdunk.com/products/IW6276-001",
      "bid": false
     },
     "s285": {
-     "p": 12000,
+     "p": 13000,
      "url": "https://snkrdunk.com/products/IW6276-001",
      "bid": false
     },
     "s29": {
-     "p": 12500,
+     "p": 14999,
      "url": "https://snkrdunk.com/products/IW6276-001",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {
     "s25": {
      "bid": false,
@@ -11729,8 +11743,8 @@
    "name": "A BATHING APE × adidas Samba",
    "order": 44,
    "prev": {
-    "s245": 37369,
-    "s25": 30445,
+    "s245": 37335,
+    "s25": 31485,
     "s255": 19000,
     "s26": 18800,
     "s265": 21500,
@@ -11739,14 +11753,14 @@
     "s28": 22000,
     "s285": 24530,
     "s29": 30949,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 26400,
    "sku": "JR9246",
    "snk": {
     "s245": {
-     "p": 33967,
+     "p": 33469,
      "url": "https://snkrdunk.com/products/JR9246",
      "bid": false
     },
@@ -11756,17 +11770,17 @@
      "bid": false
     },
     "s255": {
-     "p": 19500,
+     "p": 23800,
      "url": "https://snkrdunk.com/products/JR9246",
      "bid": false
     },
     "s26": {
-     "p": 28200,
+     "p": 27030,
      "url": "https://snkrdunk.com/products/JR9246",
      "bid": false
     },
     "s265": {
-     "p": 24990,
+     "p": 24970,
      "url": "https://snkrdunk.com/products/JR9246",
      "bid": false
     },
@@ -11781,7 +11795,7 @@
      "bid": false
     },
     "s28": {
-     "p": 31950,
+     "p": 29990,
      "url": "https://snkrdunk.com/products/JR9246",
      "bid": false
     },
@@ -11791,12 +11805,12 @@
      "bid": false
     },
     "s29": {
-     "p": 27999,
+     "p": 24999,
      "url": "https://snkrdunk.com/products/JR9246",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "JR9246"
   },
@@ -11816,15 +11830,15 @@
    "order": 45,
    "prev": {
     "s245": 26670,
-    "s25": 42847,
-    "s255": 35366,
+    "s25": 42214,
+    "s255": 34938,
     "s26": 38440,
     "s265": 27740,
     "s27": 36971,
-    "s275": 25600,
+    "s275": 23995,
     "s28": 20000,
-    "s29": 44461,
-    "at": "2026-10-26"
+    "s29": 44140,
+    "at": "2026-11-02"
    },
    "rak": {},
    "retailJpy": 26400,
@@ -11836,12 +11850,12 @@
      "bid": false
     },
     "s25": {
-     "p": 38527,
+     "p": 41808,
      "url": "https://snkrdunk.com/products/KJ8852",
      "bid": false
     },
     "s255": {
-     "p": 31727,
+     "p": 30228,
      "url": "https://snkrdunk.com/products/KJ8852",
      "bid": false
     },
@@ -11856,7 +11870,7 @@
      "bid": false
     },
     "s27": {
-     "p": 33627,
+     "p": 35128,
      "url": "https://snkrdunk.com/products/KJ8852",
      "bid": false
     },
@@ -11871,12 +11885,12 @@
      "bid": false
     },
     "s29": {
-     "p": 40327,
+     "p": 40028,
      "url": "https://snkrdunk.com/products/KJ8852",
      "bid": false
     }
    },
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "yah": {},
    "id": "KJ8852"
   },
@@ -11931,7 +11945,7 @@
    "src": "snk-fav",
    "yah": {},
    "id": "MS327LVA",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s25": 58770,
     "s265": 38440,
@@ -11940,7 +11954,7 @@
     "s28": 22389,
     "s285": 33090,
     "s29": 22390,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -11959,15 +11973,20 @@
      "p": 167000,
      "url": "https://snkrdunk.com/products/Q46154",
      "bid": false
+    },
+    "s28": {
+     "p": 60000,
+     "url": "https://snkrdunk.com/products/Q46154",
+     "bid": false
     }
    },
    "src": "snk-fav",
    "yah": {},
    "id": "Q46154",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s26": 179680,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -11985,9 +12004,9 @@
    "src": "snk-fav",
    "yah": {},
    "id": "V95CF-MOONEYES",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -12013,42 +12032,42 @@
      "bid": false
     },
     "s255": {
-     "p": 21313,
+     "p": 21197,
      "url": "https://snkrdunk.com/products/VN000D9RCCZ",
      "bid": false
     },
     "s26": {
-     "p": 16198,
+     "p": 17999,
      "url": "https://snkrdunk.com/products/VN000D9RCCZ",
      "bid": false
     },
     "s265": {
-     "p": 16887,
+     "p": 16790,
      "url": "https://snkrdunk.com/products/VN000D9RCCZ",
      "bid": false
     },
     "s27": {
-     "p": 18413,
+     "p": 17997,
      "url": "https://snkrdunk.com/products/VN000D9RCCZ",
      "bid": false
     },
     "s275": {
-     "p": 19532,
+     "p": 19381,
      "url": "https://snkrdunk.com/products/VN000D9RCCZ",
      "bid": false
     },
     "s28": {
-     "p": 18703,
+     "p": 17500,
      "url": "https://snkrdunk.com/products/VN000D9RCCZ",
      "bid": false
     },
     "s285": {
-     "p": 21721,
+     "p": 21427,
      "url": "https://snkrdunk.com/products/VN000D9RCCZ",
      "bid": false
     },
     "s29": {
-     "p": 22996,
+     "p": 18000,
      "url": "https://snkrdunk.com/products/VN000D9RCCZ",
      "bid": false
     }
@@ -12056,19 +12075,19 @@
    "src": "snk-fav",
    "yah": {},
    "id": "VN000D9RCCZ",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s245": 26661,
     "s25": 22379,
-    "s255": 24291,
+    "s255": 23795,
     "s26": 18322,
-    "s265": 20969,
-    "s27": 21271,
-    "s275": 22536,
-    "s28": 22309,
-    "s285": 24345,
-    "s29": 22389,
-    "at": "2026-10-26"
+    "s265": 19059,
+    "s27": 20692,
+    "s275": 21889,
+    "s28": 21002,
+    "s285": 24231,
+    "s29": 25596,
+    "at": "2026-11-02"
    }
   },
   {
@@ -12084,7 +12103,7 @@
    "sku": "VN0A45JK20F",
    "snk": {
     "s27": {
-     "p": 37708,
+     "p": 32508,
      "url": "https://snkrdunk.com/products/VN0A45JK20F",
      "bid": false
     },
@@ -12112,13 +12131,14 @@
    "src": "snk-fav",
    "yah": {},
    "id": "VN0A45JK20F",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
+    "s27": 41338,
     "s275": 33090,
     "s28": 20250,
     "s285": 20250,
     "s29": 22390,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -12152,12 +12172,12 @@
    "src": "snk-fav",
    "yah": {},
    "id": "VN0A4BV9CX6",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
     "s265": 34160,
     "s27": 30950,
     "s275": 50484,
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   },
   {
@@ -12175,9 +12195,9 @@
    "src": "snk-fav",
    "yah": {},
    "id": "VN0A7SLZ636",
-   "updatedAt": "2026-11-02",
+   "updatedAt": "2026-11-09",
    "prev": {
-    "at": "2026-10-26"
+    "at": "2026-11-02"
    }
   }
  ]
